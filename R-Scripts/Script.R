@@ -1,27 +1,12 @@
-library(tidyverse)
-
-# Install jsonlite if you don't already have it
-install.packages("jsonlite")
-
-# Load the library
-library(jsonlite)
-
-# Dummy file path to the JSON file
-json_file_path <- "IndivProject/Data/AllPricesToday.json"
-
-# Read the JSON file
-json_data <- fromJSON(json_file_path)
-
-# View the data
-print(json_data)
 
 
-test_data <- read_csv("IndivProject/Data/cardPrices.csv")
+
+test_data <- read_csv("Data/cardPrices.csv")
 
 glimpse(test_data)
 
 
-cards <- read_csv("IndivProject/Data/cards.csv")
+cards <- read_csv("Data/cards.csv")
 
 test_data2 <- merge(
   test_data,
@@ -41,8 +26,6 @@ test_data2 |>
 ggplot(aes(x=setCode, y=price)) +
   geom_point()
 
-json_data_big <- fromJSON("IndivProject/Data/AllPrices.JSON")
 
-library(jsonlite)
-library(readr)
+
 
