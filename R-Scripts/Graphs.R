@@ -3,7 +3,7 @@ mtg_data <- read_csv("analysis_data.csv")
 mtg_data |>
   filter(set == "LEA", full_rarity == "C") |>
   summarise(average_price = mean(cur_price, na.rm = TRUE)) |>
-  print(alpha_common_avg) #avg alpha common price
+  print(mtg_data) #avg alpha common price
 
 #Chart for avg price against print runs 
 # 1. Prepare the summary data
@@ -157,3 +157,7 @@ ggplot(portfolio_data, aes(x = performance, fill = performance)) +
     x = "Did the card outperform the S&P 500?",
     y = "Number of Cards"
   )
+
+
+
+

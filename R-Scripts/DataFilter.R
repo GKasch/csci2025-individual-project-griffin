@@ -33,14 +33,26 @@ print_run <- read_csv("Data/PrintRunData.csv")
 full_data <- combined_data |>
   left_join(print_run, c("set"= "set", "full_rarity" = "rarity")) #add print run information
 
-analysis_data <- full_data |>
+
+price_fixes <- read_csv("Data/PriceFixes.csv")
+
+
+analysis_datav2 <- full_data |>
   select(card_name, set, rarity, full_rarity, old_price, cur_price, print_run, full_set)|> #limit data frame to useful columns
+  left_join(price_fixes, by = c("card_name", "set")) |> #inserts card prices into cur_price
+  mutate(cur_price = coalesce(cur_price.y, cur_price.x)) |>
+  select(-cur_price.x, -cur_price.y) |>
   mutate(set_rarity = str_glue("{set} ({full_rarity})")) |> #Create column for ease when displaying
   mutate(pct_increase = #percent increase between current price and old price
     (( as.numeric(str_remove_all(cur_price, "[\\$,]"))-as.numeric(str_remove_all(old_price, "[\\$,]")) ) / as.numeric(str_remove_all(old_price, "[\\$,]"))) * 100
   ) |> 
   mutate(performance = if_else(pct_increase > 2250, "Beat S&P", "Below S&P")) #performance against sp500 for same period
 
-  
-analysis_data |>
+
+
+
+
+
+
+analysis_datav2 |>
   write_csv("analysis_data.csv")
