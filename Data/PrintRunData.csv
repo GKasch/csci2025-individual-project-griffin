@@ -1,4 +1,4 @@
-set,rarity,print_run
+﻿set,rarity,print_run
 LEA,C," 16,000 "
 LEA,U," 4,500 "
 LEA,R," 1,100 "
@@ -29,7 +29,7 @@ LEG,C2," 424,000 "
 LEG,U1," 58,000 "
 LEG,U2," 116,000 "
 LEG,R," 19,500 "
-DRK,C1," 128,000 "
-DRK,C3," 256,000 "
-DRK,U1," 384,500 "
-DRK,U2," 1,153,000 "
+DRK,C1," 1,153,000 "
+DRK,C3," 384,500 "
+DRK,U1," 128,000 "
+DRK,U2," 256,000 "

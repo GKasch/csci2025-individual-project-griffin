@@ -1,4 +1,6 @@
-analysis_data |>
+mtg_data <- read_csv("analysis_data.csv")
+
+mtg_data |>
   filter(set == "LEA", full_rarity == "C") |>
   summarise(average_price = mean(cur_price, na.rm = TRUE)) |>
   print(alpha_common_avg) #avg alpha common price
@@ -6,7 +8,7 @@ analysis_data |>
 #Chart for avg price against print runs 
 # 1. Prepare the summary data
 # We include print_run in group_by so it's available for sorting the x-axis
-analysis_data |>
+mtg_data |>
   group_by(set_rarity, print_run) |>
   summarise(avg_price = mean(cur_price, na.rm = TRUE), .groups = "drop") |>
 
@@ -28,7 +30,7 @@ ggplot(aes(x = reorder(set_rarity, print_run), y = avg_price, fill = set_rarity)
 
 
 
-analysis_data |>
+mtg_data |>
   mutate(
     # 1. Remove $ and , symbols
     # 2. Convert to numeric
@@ -60,7 +62,7 @@ ggplot(aes(x = old_price, y = cur_price, color = rarity)) +
 
 #Set and rarity percentage growth with benchmark
 # 1. Clean data and calculate percentage increase
-analysis_data |>
+mtg_data |>
   mutate(
     # Convert to numeric by removing $ and ,
     old_num = as.numeric(str_remove_all(old_price, "[\\$,]")),
@@ -90,7 +92,7 @@ ggplot(aes(x = reorder(set_rarity, avg_growth), y = avg_growth)) +
   )
 
 
-summary_data <- analysis_data |>
+summary_data <- mtg_data |>
   mutate(
     old_num = as.numeric(str_remove_all(old_price, "[\\$,]")),
     cur_num = as.numeric(str_remove_all(cur_price, "[\\$,]")),
@@ -103,8 +105,6 @@ summary_data <- analysis_data |>
   filter(!is.na(pct_increase))
 
 # 3. Only plot if we actually have data
-if(nrow(summary_data) > 0) {
-  
   summary_data <- summary_data |>
     mutate(performance = if_else(pct_increase > 2250, "Beat S&P", "Below S&P"))
 
@@ -115,6 +115,45 @@ if(nrow(summary_data) > 0) {
     theme_minimal() +
     labs(title = "Unlimited (2ED) Rares vs. S&P 500")
     
-} else {
-  print("No data matched the filter. Check 'unique(analysis_data$set)' to see the correct codes.")
-}
+
+library(tidyverse)
+
+# 1. Load your data
+mtg_appdata <- read_csv("analysis_data.csv")
+
+# 2. Define your specific portfolio (Beta Rares)
+target_edition <- "LEB"  # 'LEB' is the standard set code for Beta
+target_rarity  <- "rare"
+
+# 3. Filter for your portfolio
+portfolio_data <- mtg_appdata %>%
+  filter(
+    set == target_edition,
+    rarity == target_rarity,
+    !is.na(pct_increase)
+  )
+
+# 4. Calculate Aggregate Stats
+# This tells you the total "alpha" (how much better/worse you did than the S&P)
+portfolio_summary <- portfolio_data %>%
+  summarize(
+    avg_pct_increase = mean(pct_increase),
+    win_rate = mean(performance == "Beat S&P") * 100,
+    card_count = n()
+  )
+
+print(portfolio_summary)
+
+# 5. Visualize the Portfolio Makeup
+ggplot(portfolio_data, aes(x = performance, fill = performance)) +
+  geom_bar() +
+  stat_count(geom = "text", aes(label = after_stat(count)), vjust = -0.5, size = 6) +
+  scale_fill_manual(values = c("Beat S&P" = "#2ca25f", "Below S&P" = "#d73027")) +
+  theme_minimal() +
+  labs(
+    title = paste("Portfolio Analysis:", target_edition, target_rarity, "vs S&P 500"),
+    subtitle = paste0("Average Return: ", round(portfolio_summary$avg_pct_increase, 1), "%"),
+    caption = paste0("Based on ", portfolio_summary$card_count, " cards"),
+    x = "Did the card outperform the S&P 500?",
+    y = "Number of Cards"
+  )

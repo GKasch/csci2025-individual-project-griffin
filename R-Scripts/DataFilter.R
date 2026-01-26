@@ -16,11 +16,11 @@ cards <- read_csv("Data/cards.csv") |>
     str_glue("{name} ({toupper(str_extract(number, '[a-zA-Z]'))})"),   #adds variant to name for atq
     name)
   ) |>
-  filter(setCode %in% c("LEA", "LEB", "2ED", "3ED", "ARN", "ATQ"), #filter for desired sets
+  filter(setCode %in% c("LEA", "LEB", "2ED", "3ED", "ARN", "ATQ", "LEG", "DRK"), #filter for desired sets
     !str_detect(type, "Basic Land")) #remove basics
 
 cards_full <- test_data |>
-  inner_join(cards, by = "uuid") #join both
+  right_join(cards, by = "uuid") #right join both, so test data is on left and includes info for cards with not price on
   
 Scrye <- read_csv("Data/ScryeData.csv")
 
@@ -34,6 +34,13 @@ full_data <- combined_data |>
   left_join(print_run, c("set"= "set", "full_rarity" = "rarity")) #add print run information
 
 analysis_data <- full_data |>
-  select(card_name, set, rarity, full_rarity, old_price, cur_price, print_run)|> #limit data frame to useful columns
-  mutate(set_rarity = str_glue("{set} ({full_rarity})"))
+  select(card_name, set, rarity, full_rarity, old_price, cur_price, print_run, full_set)|> #limit data frame to useful columns
+  mutate(set_rarity = str_glue("{set} ({full_rarity})")) |> #Create column for ease when displaying
+  mutate(pct_increase = #percent increase between current price and old price
+    (( as.numeric(str_remove_all(cur_price, "[\\$,]"))-as.numeric(str_remove_all(old_price, "[\\$,]")) ) / as.numeric(str_remove_all(old_price, "[\\$,]"))) * 100
+  ) |> 
+  mutate(performance = if_else(pct_increase > 2250, "Beat S&P", "Below S&P")) #performance against sp500 for same period
+
   
+analysis_data |>
+  write_csv("analysis_data.csv")

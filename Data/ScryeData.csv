@@ -1,1328 +1,1757 @@
-﻿card_name,old_price,set,full_rarity
-Air Elemental,$2.13 ,LEA,U
-Ancestral Recall,$8.75 ,LEA,R
-Animate Artifact,$2.00 ,LEA,U
-Animate Dead,$2.00 ,LEA,U
-Animate Wall,$6.00 ,LEA,R
-Ankh of Mishra,$5.00 ,LEA,R
-Armageddon,$8.00 ,LEA,R
-Aspect of Wolf,$8.00 ,LEA,R
-Bad Moon,$8.00 ,LEA,R
-Badlands,$7.50 ,LEA,R
-Balance,$5.50 ,LEA,R
-Basalt Monolith,$2.50 ,LEA,U
-Bayou,$7.00 ,LEA,R
-Benalish Hero,$0.40 ,LEA,C
-Berserk,$2.75 ,LEA,U
-Birds of Paradise,$7.50 ,LEA,R
-Black Knight,$4.00 ,LEA,U
-Black Lotus,$15.00 ,LEA,R
-Black Vise,$3.00 ,LEA,U
-Black Ward,$2.00 ,LEA,U
-Blaze of Glory,$7.50 ,LEA,R
-Blessing,$6.50 ,LEA,R
-Blue Elemental Blast,$0.41 ,LEA,C
-Blue Ward,$2.00 ,LEA,U
-Bog Wraith,$3.50 ,LEA,U
-Braingeyser,$8.00 ,LEA,R
-Burrowing,$2.00 ,LEA,U
-Camouflage,$1.25 ,LEA,U
-Castle,$2.68 ,LEA,U
-Celestial Prism,$3.00 ,LEA,U
-Channel,$3.00 ,LEA,U
-Chaos Orb,$10.00 ,LEA,R
-Chaoslace,$5.00 ,LEA,R
-Circle of Protection: Blue,$0.50 ,LEA,C
-Circle of Protection: Green,$0.50 ,LEA,C
-Circle of Protection: Red,$0.50 ,LEA,C
-Circle of Protection: White,$0.50 ,LEA,C
-Clockwork Beast,$8.50 ,LEA,R
-Clone,$3.54 ,LEA,U
-Cockatrice,$8.50 ,LEA,R
-Consecrate Land,$4.00 ,LEA,U
-Conservator,$2.00 ,LEA,U
-Contract from Below,$5.00 ,LEA,R
-Control Magic,$3.30 ,LEA,U
-Conversion,$2.00 ,LEA,U
-Copper Tablet,$2.00 ,LEA,U
-Copy Artifact,$6.50 ,LEA,R
-Counterspell,$3.00 ,LEA,U
-Craw Wurm,$0.75 ,LEA,C
-Creature Bond,$0.41 ,LEA,C
-Crusade,$6.50 ,LEA,R
-Crystal Rod,$2.00 ,LEA,U
-Cursed Land,$1.50 ,LEA,U
-Cyclopean Tomb,$12.50 ,LEA,R
-Dark Ritual,$0.41 ,LEA,C
-Darkpact,$5.50 ,LEA,R
-Death Ward,$0.41 ,LEA,C
-Deathgrip,$2.00 ,LEA,U
-Deathlace,$5.00 ,LEA,R
-Demonic Attorney,$6.25 ,LEA,R
-Demonic Hordes,$8.65 ,LEA,R
-Demonic Tutor,$4.13 ,LEA,U
-Dingus Egg,$6.00 ,LEA,R
-Disenchant,$0.90 ,LEA,C
-Disintegrate,$0.83 ,LEA,C
-Disrupting Scepter,$7.00 ,LEA,R
-Dragon Whelp,$4.00 ,LEA,U
-Drain Life,$0.41 ,LEA,C
-Drain Power,$7.00 ,LEA,R
-Drudge Skeletons,$0.41 ,LEA,C
-Dwarven Demolition Team,$3.00 ,LEA,U
-Dwarven Warriors,$0.41 ,LEA,C
-Earth Elemental,$2.00 ,LEA,U
-Earthbind,$0.40 ,LEA,C
-Earthquake,$6.00 ,LEA,R
-Elvish Archers,$8.75 ,LEA,R
-Evil Presence,$1.50 ,LEA,U
-False Orders,$0.60 ,LEA,C
-Farmstead,$6.00 ,LEA,R
-Fastbond,$5.50 ,LEA,R
-Fear,$0.41 ,LEA,C
-Feedback,$1.50 ,LEA,U
-Fire Elemental,$2.00 ,LEA,U
-Fireball,$0.83 ,LEA,C
-Firebreathing,$0.41 ,LEA,C
-Flashfires,$2.00 ,LEA,U
-Flight,$0.41 ,LEA,C
-Fog,$0.41 ,LEA,C
-Force of Nature,$16.50 ,LEA,R
-Forcefield,$9.00 ,LEA,R
-Fork,$8.13 ,LEA,R
-Frozen Shade,$0.41 ,LEA,C
-Fungusaur,$9.50 ,LEA,R
-Gaea's Liege,$15.00 ,LEA,R
-Gauntlet of Might,$10.00 ,LEA,R
-Giant Growth,$0.41 ,LEA,C
-Giant Spider,$0.41 ,LEA,C
-Glasses of Urza,$2.00 ,LEA,U
-Gloom,$3.00 ,LEA,U
-Goblin Balloon Brigade,$1.50 ,LEA,U
-Goblin King,$8.50 ,LEA,R
-Granite Gargoyle,$8.50 ,LEA,R
-Gray Ogre,$0.41 ,LEA,C
-Green Ward,$1.77 ,LEA,U
-Grizzly Bears,$0.41 ,LEA,C
-Guardian Angel,$0.41 ,LEA,C
-Healing Salve,$0.41 ,LEA,C
-Helm of Chatzuk,$5.50 ,LEA,R
-Hill Giant,$0.41 ,LEA,C
-Holy Armor,$0.41 ,LEA,C
-Holy Strength,$0.41 ,LEA,C
-Howl from Beyond,$0.40 ,LEA,C
-Howling Mine,$8.00 ,LEA,R
-Hurloon Minotaur,$0.41 ,LEA,C
-Hurricane,$2.00 ,LEA,U
-Hypnotic Specter,$4.13 ,LEA,U
-Ice Storm,$1.75 ,LEA,U
-Icy Manipulator,$7.00 ,LEA,U
-Illusionary Mask,$6.75 ,LEA,R
-Instill Energy,$6.75 ,LEA,U
-Invisibility,$2.00 ,LEA,C
-Iron Star,$0.70 ,LEA,U
-Ironroot Treefolk,$2.00 ,LEA,C
-Ironclaw Orcs,$0.40 ,LEA,C
-Island Sanctuary,$6.00 ,LEA,R
-Ivory Cup,$0.41 ,LEA,U
-Jade Monolith,$5.50 ,LEA,R
-Jade Statue,$4.00 ,LEA,U
-Jayemdae Tome,$6.00 ,LEA,R
-Juggernaut,$3.00 ,LEA,U
-Jump,$0.40 ,LEA,C
-Karma,$3.00 ,LEA,U
-Keldon Warlord,$3.00 ,LEA,U
-Kormus Bell,$6.50 ,LEA,R
-Kudzu,$5.50 ,LEA,R
-Lance,$2.00 ,LEA,U
-Ley Druid,$1.89 ,LEA,U
-Library of Leng,$2.00 ,LEA,U
-Lich,$8.75 ,LEA,R
-Lifeforce,$2.18 ,LEA,U
-Lifelace,$5.00 ,LEA,R
-Lifetap,$2.00 ,LEA,U
-Lightning Bolt,$0.83 ,LEA,C
-Living Artifact,$6.50 ,LEA,R
-Living Lands,$6.00 ,LEA,R
-Living Wall,$2.00 ,LEA,U
-Llanowar Elves,$0.41 ,LEA,C
-Lord of Atlantis,$7.50 ,LEA,R
-Lord of the Pit,$10.50 ,LEA,R
-Lure,$2.00 ,LEA,U
-Magical Hack,$7.00 ,LEA,R
-Mahamoti Djinn,$9.50 ,LEA,R
-Mana Flare,$6.50 ,LEA,R
-Mana Short,$8.00 ,LEA,R
-Mana Vault,$5.50 ,LEA,R
-Manabarbs,$5.50 ,LEA,R
-Meekstone,$5.50 ,LEA,R
-Merfolk of the Pearl Trident,$0.41 ,LEA,C
-Mesa Pegasus,$0.41 ,LEA,C
-Mind Twist,$7.00 ,LEA,R
-Mons's Goblin Raiders,$0.41 ,LEA,C
-Mox Emerald,$12.50 ,LEA,R
-Mox Jet,$12.50 ,LEA,R
-Mox Pearl,$15.00 ,LEA,R
-Mox Ruby,$15.00 ,LEA,R
-Mox Sapphire,$15.00 ,LEA,R
-Natural Selection,$7.25 ,LEA,R
-Nether Shadow,$5.50 ,LEA,R
-Nettling Imp,$2.00 ,LEA,U
-Nevinyrral's Disk,$6.50 ,LEA,R
-Nightmare,$15.00 ,LEA,R
-Northern Paladin,$15.00 ,LEA,R
-Obsianus Golem,$3.00 ,LEA,U
-Orcish Artillery,$1.64 ,LEA,U
-Orcish Oriflamme,$3.00 ,LEA,U
-Paralyze,$0.41 ,LEA,C
-Pearled Unicorn,$0.41 ,LEA,C
-Personal Incarnation,$10.50 ,LEA,R
-Pestilence,$0.41 ,LEA,C
-Phantasmal Forces,$2.18 ,LEA,U
-Phantasmal Terrain,$0.41 ,LEA,C
-Phantom Monster,$2.00 ,LEA,U
-Pirate Ship,$7.50 ,LEA,R
-Plague Rats,$0.75 ,LEA,C
-Plateau,$7.00 ,LEA,R
-Power Leak,$0.41 ,LEA,C
-Power Sink,$0.50 ,LEA,C
-Power Surge,$5.00 ,LEA,R
-Prodigal Sorcerer,$0.80 ,LEA,C
-Psionic Blast,$2.00 ,LEA,U
-Psychic Venom,$0.50 ,LEA,C
-Purelace,$5.00 ,LEA,R
-Raging River,$8.50 ,LEA,R
-Raise Dead,$0.30 ,LEA,C
-Red Elemental Blast,$0.41 ,LEA,C
-Red Ward,$2.00 ,LEA,U
-Regeneration,$0.30 ,LEA,C
-Regrowth,$2.65 ,LEA,U
-Resurrection,$2.00 ,LEA,U
-Reverse Damage,$7.00 ,LEA,R
-Righteousness,$7.25 ,LEA,R
-Roc of Kher Ridges,$7.00 ,LEA,R
-Rock Hydra,$13.50 ,LEA,R
-Rod of Ruin,$2.00 ,LEA,U
-Royal Assassin,$14.00 ,LEA,R
-Sacrifice,$2.00 ,LEA,U
-Samite Healer,$0.41 ,LEA,C
-Savannah,$6.50 ,LEA,R
-Savannah Lions,$5.50 ,LEA,R
-Scathe Zombies,$0.41 ,LEA,C
-Scavenging Ghoul,$2.00 ,LEA,U
-Scrubland,$7.00 ,LEA,R
-Scryb Sprites,$0.40 ,LEA,C
-Sea Serpent,$0.50 ,LEA,C
-Sedge Troll,$5.50 ,LEA,R
-Sengir Vampire,$5.00 ,LEA,U
-Serra Angel,$7.00 ,LEA,U
-Shanodin Dryads,$0.50 ,LEA,C
-Shatter,$0.50 ,LEA,C
-Shivan Dragon,$22.00 ,LEA,R
-Simulacrum,$1.50 ,LEA,U
-Sinkhole,$0.83 ,LEA,C
-Siren's Call,$2.00 ,LEA,U
-Sleight of Mind,$6.00 ,LEA,R
-Smoke,$6.00 ,LEA,R
-Sol Ring,$4.00 ,LEA,U
-Soul Net,$2.00 ,LEA,U
-Spell Blast,$0.41 ,LEA,C
-Stasis,$2.00 ,LEA,R
-Steal Artifact,$2.00 ,LEA,U
-Stone Giant,$2.00 ,LEA,U
-Stone Rain,$0.50 ,LEA,C
-Stream of Life,$0.41 ,LEA,C
-Sunglasses of Urza,$7.00 ,LEA,R
-Swords to Plowshares,$3.00 ,LEA,U
-Taiga,$7.50 ,LEA,R
-Terror,$0.41 ,LEA,C
-The Hive,$8.00 ,LEA,R
-Thicket Basilisk,$4.00 ,LEA,U
-Thoughtlace,$5.00 ,LEA,R
-Throne of Bone,$2.00 ,LEA,U
-Timber Wolves,$7.00 ,LEA,R
-Time Vault,$8.25 ,LEA,R
-Time Walk,$11.00 ,LEA,R
-Timetwister,$10.50 ,LEA,R
-Tranquility,$0.41 ,LEA,C
-Tropical Island,$7.13 ,LEA,R
-Tsunami,$2.00 ,LEA,U
-Tundra,$6.50 ,LEA,R
-Tunnel,$2.00 ,LEA,U
-Twiddle,$1.10 ,LEA,C
-Two-Headed Giant of Foriys,$10.00 ,LEA,R
-Underground Sea,$7.50 ,LEA,R
-Unholy Strength,$0.41 ,LEA,C
-Unsummon,$0.41 ,LEA,C
-Uthden Troll,$3.00 ,LEA,U
-Verduran Enchantress,$8.00 ,LEA,R
-Vesuvan Doppelganger,$12.00 ,LEA,R
-Veteran Bodyguard,$10.50 ,LEA,R
-Volcanic Eruption,$6.00 ,LEA,R
-Wall of Air,$2.00 ,LEA,U
-Wall of Bone,$2.00 ,LEA,U
-Wall of Brambles,$2.00 ,LEA,U
-Wall of Fire,$2.00 ,LEA,U
-Wall of Ice,$2.00 ,LEA,U
-Wall of Stone,$2.00 ,LEA,U
-Wall of Swords,$4.00 ,LEA,U
-Wall of Water,$2.00 ,LEA,U
-Wall of Wood,$0.41 ,LEA,C
-Wanderlust,$2.00 ,LEA,U
-War Mammoth,$0.41 ,LEA,C
-Warp Artifact,$5.00 ,LEA,R
-Water Elemental,$2.00 ,LEA,U
-Weakness,$0.40 ,LEA,C
-Web,$5.50 ,LEA,R
-Wheel of Fortune,$6.00 ,LEA,R
-White Knight,$4.00 ,LEA,U
-White Ward,$2.00 ,LEA,U
-Wild Growth,$0.41 ,LEA,C
-Will-o'-the-Wisp,$7.50 ,LEA,R
-Winter Orb,$6.00 ,LEA,R
-Wooden Sphere,$2.00 ,LEA,U
-Word of Command,$10.00 ,LEA,R
-Wrath of God,$9.00 ,LEA,R
-Zombie Master,$9.00 ,LEA,R
-Air Elemental,$2.00 ,LEB,U
-Ancestral Recall,$7.75 ,LEB,R
-Animate Artifact,$1.50 ,LEB,U
-Animate Dead,$1.50 ,LEB,U
-Animate Wall,$5.00 ,LEB,R
-Ankh of Mishra,$4.75 ,LEB,R
-Armageddon,$7.50 ,LEB,R
-Aspect of Wolf,$6.50 ,LEB,R
-Bad Moon,$6.75 ,LEB,R
-Badlands,$6.50 ,LEB,R
-Balance,$5.50 ,LEB,R
-Basalt Monolith,$1.50 ,LEB,U
-Bayou,$6.50 ,LEB,R
-Benalish Hero,$0.40 ,LEB,C
-Berserk,$2.00 ,LEB,U
-Birds of Paradise,$5.50 ,LEB,R
-Black Knight,$3.00 ,LEB,U
-Black Lotus,$15.00 ,LEB,R
-Black Vise,$2.50 ,LEB,U
-Black Ward,$1.50 ,LEB,U
-Blaze of Glory,$6.00 ,LEB,R
-Blessing,$5.50 ,LEB,R
-Blue Elemental Blast,$0.35 ,LEB,C
-Blue Ward,$1.00 ,LEB,U
-Bog Wraith,$2.50 ,LEB,U
-Braingeyser,$7.00 ,LEB,R
-Burrowing,$1.00 ,LEB,U
-Camouflage,$1.25 ,LEB,U
-Castle,$2.00 ,LEB,U
-Celestial Prism,$2.00 ,LEB,U
-Channel,$2.25 ,LEB,U
-Chaos Orb,$9.00 ,LEB,R
-Chaoslace,$3.88 ,LEB,R
-Circle of Protection: Black,$0.50 ,LEB,C
-Circle of Protection: Blue,$0.38 ,LEB,C
-Circle of Protection: Green,$0.38 ,LEB,C
-Circle of Protection: Red,$0.38 ,LEB,C
-Circle of Protection: White,$0.38 ,LEB,C
-Clockwork Beast,$8.25 ,LEB,R
-Clone,$3.00 ,LEB,U
-Cockatrice,$7.50 ,LEB,R
-Consecrate Land,$2.00 ,LEB,U
-Conservator,$2.00 ,LEB,U
-Contract from Below,$4.75 ,LEB,R
-Control Magic,$3.00 ,LEB,U
-Conversion,$1.50 ,LEB,U
-Copper Tablet,$1.00 ,LEB,U
-Copy Artifact,$5.50 ,LEB,R
-Counterspell,$3.00 ,LEB,U
-Craw Wurm,$0.70 ,LEB,C
-Creature Bond,$0.35 ,LEB,C
-Crusade,$6.50 ,LEB,R
-Crystal Rod,$1.50 ,LEB,U
-Cursed Land,$1.50 ,LEB,U
-Cyclopean Tomb,$9.00 ,LEB,R
-Dark Ritual,$0.50 ,LEB,C
-Darkpact,$4.50 ,LEB,R
-Death Ward,$0.35 ,LEB,C
-Deathgrip,$1.50 ,LEB,U
-Deathlace,$3.88 ,LEB,R
-Demonic Attorney,$4.63 ,LEB,R
-Demonic Hordes,$8.65 ,LEB,R
-Demonic Tutor,$3.50 ,LEB,U
-Dingus Egg,$6.00 ,LEB,R
-Disenchant,$0.90 ,LEB,C
-Disintegrate,$0.70 ,LEB,C
-Disrupting Scepter,$5.00 ,LEB,R
-Dragon Whelp,$3.00 ,LEB,U
-Drain Life,$0.38 ,LEB,C
-Drain Power,$5.75 ,LEB,R
-Drudge Skeletons,$0.38 ,LEB,C
-Dwarven Demolition Team,$1.50 ,LEB,U
-Dwarven Warriors,$0.38 ,LEB,C
-Earth Elemental,$1.50 ,LEB,U
-Earthbind,$0.35 ,LEB,C
-Earthquake,$5.50 ,LEB,R
-Elvish Archers,$6.75 ,LEB,R
-Evil Presence,$1.20 ,LEB,U
-False Orders,$0.60 ,LEB,C
-Farmstead,$5.00 ,LEB,R
-Fastbond,$4.75 ,LEB,R
-Fear,$0.35 ,LEB,C
-Feedback,$1.00 ,LEB,U
-Fire Elemental,$2.00 ,LEB,U
-Fireball,$0.53 ,LEB,C
-Firebreathing,$0.35 ,LEB,C
-Flashfires,$1.90 ,LEB,U
-Flight,$0.35 ,LEB,C
-Fog,$0.35 ,LEB,C
-Force of Nature,$12.00 ,LEB,R
-Forcefield,$7.30 ,LEB,R
-Fork,$8.35 ,LEB,R
-Frozen Shade,$0.38 ,LEB,C
-Fungusaur,$7.50 ,LEB,R
-Gaea's Liege,$10.00 ,LEB,R
-Gauntlet of Might,$12.00 ,LEB,R
-Giant Growth,$0.35 ,LEB,C
-Giant Spider,$0.38 ,LEB,C
-Glasses of Urza,$1.50 ,LEB,U
-Gloom,$3.00 ,LEB,U
-Goblin Balloon Brigade,$1.25 ,LEB,U
-Goblin King,$7.25 ,LEB,R
-Granite Gargoyle,$6.25 ,LEB,R
-Gray Ogre,$0.35 ,LEB,C
-Green Ward,$1.00 ,LEB,U
-Grizzly Bears,$0.35 ,LEB,C
-Guardian Angel,$0.35 ,LEB,C
-Healing Salve,$0.38 ,LEB,C
-Helm of Chatzuk,$4.75 ,LEB,R
-Hill Giant,$0.35 ,LEB,C
-Holy Armor,$0.35 ,LEB,C
-Holy Strength,$0.35 ,LEB,C
-Howl from Beyond,$0.35 ,LEB,C
-Howling Mine,$6.00 ,LEB,R
-Hurloon Minotaur,$0.35 ,LEB,C
-Hurricane,$1.50 ,LEB,U
-Hypnotic Specter,$3.00 ,LEB,U
-Ice Storm,$1.50 ,LEB,U
-Icy Manipulator,$4.50 ,LEB,U
-Illusionary Mask,$6.00 ,LEB,R
-Instill Energy,$1.75 ,LEB,U
-Invisibility,$0.45 ,LEB,C
-Iron Star,$1.50 ,LEB,U
-Ironroot Treefolk,$0.35 ,LEB,C
-Ironclaw Orcs,$0.35 ,LEB,C
-Island Sanctuary,$5.00 ,LEB,R
-Ivory Cup,$1.50 ,LEB,U
-Jade Monolith,$4.75 ,LEB,R
-Jade Statue,$3.00 ,LEB,U
-Jayemdae Tome,$5.50 ,LEB,R
-Juggernaut,$2.50 ,LEB,U
-Jump,$0.35 ,LEB,C
-Karma,$1.80 ,LEB,U
-Keldon Warlord,$3.00 ,LEB,U
-Kormus Bell,$5.50 ,LEB,R
-Kudzu,$4.25 ,LEB,R
-Lance,$1.50 ,LEB,U
-Ley Druid,$1.50 ,LEB,U
-Library of Leng,$1.50 ,LEB,U
-Lich,$7.75 ,LEB,R
-Lifeforce,$1.50 ,LEB,U
-Lifelace,$4.00 ,LEB,R
-Lifetap,$1.50 ,LEB,U
-Lightning Bolt,$0.70 ,LEB,C
-Living Artifact,$5.50 ,LEB,R
-Living Lands,$5.00 ,LEB,R
-Living Wall,$1.80 ,LEB,U
-Llanowar Elves,$0.35 ,LEB,C
-Lord of Atlantis,$6.50 ,LEB,R
-Lord of the Pit,$9.65 ,LEB,R
-Lure,$1.50 ,LEB,U
-Magical Hack,$5.50 ,LEB,R
-Mahamoti Djinn,$9.00 ,LEB,R
-Mana Flare,$6.00 ,LEB,R
-Mana Short,$6.00 ,LEB,R
-Mana Vault,$4.75 ,LEB,R
-Manabarbs,$5.50 ,LEB,R
-Meekstone,$5.00 ,LEB,R
-Merfolk of the Pearl Trident,$0.35 ,LEB,C
-Mesa Pegasus,$0.38 ,LEB,C
-Mind Twist,$6.65 ,LEB,R
-Mons's Goblin Raiders,$0.35 ,LEB,C
-Mox Emerald,$12.50 ,LEB,R
-Mox Jet,$12.50 ,LEB,R
-Mox Pearl,$15.00 ,LEB,R
-Mox Ruby,$15.00 ,LEB,R
-Mox Sapphire,$15.00 ,LEB,R
-Natural Selection,$7.00 ,LEB,R
-Nether Shadow,$5.50 ,LEB,R
-Nettling Imp,$1.80 ,LEB,U
-Nevinyrral's Disk,$6.50 ,LEB,R
-Nightmare,$15.00 ,LEB,R
-Northern Paladin,$12.00 ,LEB,R
-Obsianus Golem,$2.00 ,LEB,U
-Orcish Artillery,$1.25 ,LEB,U
-Orcish Oriflamme,$1.90 ,LEB,U
-Paralyze,$0.35 ,LEB,C
-Pearled Unicorn,$0.35 ,LEB,C
-Personal Incarnation,$9.00 ,LEB,R
-Pestilence,$0.35 ,LEB,C
-Phantasmal Forces,$1.50 ,LEB,U
-Phantasmal Terrain,$0.38 ,LEB,C
-Phantom Monster,$1.80 ,LEB,U
-Pirate Ship,$6.00 ,LEB,R
-Plague Rats,$0.50 ,LEB,C
-Plateau,$6.50 ,LEB,R
-Power Leak,$0.35 ,LEB,C
-Power Sink,$0.38 ,LEB,C
-Power Surge,$4.75 ,LEB,R
-Prodigal Sorcerer,$0.75 ,LEB,C
-Psionic Blast,$1.50 ,LEB,U
-Psychic Venom,$0.38 ,LEB,C
-Purelace,$3.88 ,LEB,R
-Raging River,$6.50 ,LEB,R
-Raise Dead,$0.30 ,LEB,C
-Red Elemental Blast,$0.35 ,LEB,C
-Red Ward,$1.13 ,LEB,U
-Regeneration,$0.30 ,LEB,C
-Regrowth,$2.25 ,LEB,U
-Resurrection,$1.50 ,LEB,U
-Reverse Damage,$7.00 ,LEB,R
-Righteousness,$6.50 ,LEB,R
-Roc of Kher Ridges,$6.00 ,LEB,R
-Rock Hydra,$9.88 ,LEB,R
-Rod of Ruin,$1.50 ,LEB,U
-Royal Assassin,$11.50 ,LEB,R
-Sacrifice,$1.00 ,LEB,U
-Samite Healer,$0.35 ,LEB,C
-Savannah,$6.00 ,LEB,R
-Savannah Lions,$4.75 ,LEB,R
-Scathe Zombies,$0.35 ,LEB,C
-Scavenging Ghoul,$1.75 ,LEB,U
-Scrubland,$6.50 ,LEB,R
-Scryb Sprites,$0.35 ,LEB,C
-Sea Serpent,$0.53 ,LEB,C
-Sedge Troll,$5.50 ,LEB,R
-Sengir Vampire,$5.00 ,LEB,U
-Serra Angel,$5.00 ,LEB,U
-Shanodin Dryads,$0.35 ,LEB,C
-Shatter,$0.35 ,LEB,C
-Shivan Dragon,$15.30 ,LEB,R
-Simulacrum,$1.50 ,LEB,U
-Sinkhole,$0.70 ,LEB,C
-Siren's Call,$1.25 ,LEB,U
-Sleight of Mind,$5.50 ,LEB,R
-Smoke,$4.75 ,LEB,R
-Sol Ring,$3.00 ,LEB,U
-Soul Net,$2.00 ,LEB,U
-Spell Blast,$0.35 ,LEB,C
-Stasis,$4.75 ,LEB,R
-Steal Artifact,$2.00 ,LEB,U
-Stone Giant,$1.50 ,LEB,U
-Stone Rain,$0.50 ,LEB,C
-Stream of Life,$0.38 ,LEB,C
-Sunglasses of Urza,$6.00 ,LEB,R
-Swords to Plowshares,$2.00 ,LEB,U
-Taiga,$7.00 ,LEB,R
-Terror,$0.50 ,LEB,C
-The Hive,$6.25 ,LEB,R
-Thicket Basilisk,$3.25 ,LEB,U
-Thoughtlace,$3.13 ,LEB,R
-Throne of Bone,$1.50 ,LEB,U
-Timber Wolves,$6.00 ,LEB,R
-Time Vault,$7.50 ,LEB,R
-Time Walk,$10.00 ,LEB,R
-Timetwister,$10.00 ,LEB,R
-Tranquility,$0.38 ,LEB,C
-Tropical Island,$6.50 ,LEB,R
-Tsunami,$1.65 ,LEB,U
-Tundra,$6.00 ,LEB,R
-Tunnel,$1.00 ,LEB,U
-Twiddle,$0.75 ,LEB,C
-Two-Headed Giant of Foriys,$8.25 ,LEB,R
-Underground Sea,$7.00 ,LEB,R
-Unholy Strength,$0.35 ,LEB,C
-Unsummon,$0.35 ,LEB,C
-Uthden Troll,$2.00 ,LEB,U
-Verduran Enchantress,$6.25 ,LEB,R
-Vesuvan Doppelganger,$12.00 ,LEB,R
-Veteran Bodyguard,$9.38 ,LEB,R
-Volcanic Eruption,$4.75 ,LEB,R
-Volcanic Island,$7.50 ,LEB,R
-Wall of Air,$1.50 ,LEB,U
-Wall of Bone,$1.75 ,LEB,U
-Wall of Brambles,$1.50 ,LEB,U
-Wall of Fire,$1.75 ,LEB,U
-Wall of Ice,$1.75 ,LEB,U
-Wall of Stone,$2.00 ,LEB,U
-Wall of Swords,$3.00 ,LEB,U
-Wall of Water,$2.00 ,LEB,U
-Wall of Wood,$0.35 ,LEB,C
-Wanderlust,$1.50 ,LEB,U
-War Mammoth,$0.35 ,LEB,C
-Warp Artifact,$4.00 ,LEB,R
-Water Elemental,$1.80 ,LEB,U
-Weakness,$0.35 ,LEB,C
-Web,$4.50 ,LEB,R
-Wheel of Fortune,$6.00 ,LEB,R
-White Knight,$3.00 ,LEB,U
-White Ward,$1.00 ,LEB,U
-Wild Growth,$0.35 ,LEB,C
-Will-o'-the-Wisp,$5.88 ,LEB,R
-Winter Orb,$5.00 ,LEB,R
-Wooden Sphere,$1.50 ,LEB,U
-Word of Command,$10.00 ,LEB,R
-Wrath of God,$7.00 ,LEB,R
-Zombie Master,$7.50 ,LEB,R
-Air Elemental,$1.75 ,2ED,U
-Ancestral Recall,$6.00 ,2ED,R
-Animate Artifact,$1.00 ,2ED,U
-Animate Dead,$1.10 ,2ED,U
-Animate Wall,$4.00 ,2ED,R
-Ankh of Mishra,$3.00 ,2ED,R
-Armageddon,$7.00 ,2ED,R
-Aspect of Wolf,$5.50 ,2ED,R
-Bad Moon,$7.00 ,2ED,R
-Badlands,$6.00 ,2ED,R
-Balance,$5.00 ,2ED,R
-Basalt Monolith,$1.00 ,2ED,U
-Bayou,$6.00 ,2ED,R
-Benalish Hero,$0.25 ,2ED,C
-Berserk,$1.50 ,2ED,U
-Birds of Paradise,$6.00 ,2ED,R
-Black Knight,$2.30 ,2ED,U
-Black Lotus,$12.30 ,2ED,R
-Black Vise,$2.00 ,2ED,U
-Black Ward,$1.00 ,2ED,U
-Blaze of Glory,$5.00 ,2ED,R
-Blessing,$5.00 ,2ED,R
-Blue Elemental Blast,$5.00 ,2ED,C
-Blue Ward,$0.25 ,2ED,U
-Bog Wraith,$2.00 ,2ED,U
-Braingeyser,$7.00 ,2ED,R
-Burrowing,$1.00 ,2ED,U
-Camouflage,$1.00 ,2ED,U
-Castle,$1.50 ,2ED,U
-Celestial Prism,$1.30 ,2ED,U
-Channel,$2.00 ,2ED,U
-Chaos Orb,$6.00 ,2ED,R
-Chaoslace,$3.00 ,2ED,R
-Circle of Protection: Black,$0.25 ,2ED,C
-Circle of Protection: Blue,$0.25 ,2ED,C
-Circle of Protection: Green,$0.25 ,2ED,C
-Circle of Protection: Red,$0.25 ,2ED,C
-Circle of Protection: White,$0.25 ,2ED,C
-Clockwork Beast,$7.00 ,2ED,R
-Clone,$2.00 ,2ED,U
-Cockatrice,$7.00 ,2ED,R
-Consecrate Land,$1.00 ,2ED,U
-Conservator,$1.10 ,2ED,U
-Contract from Below,$4.00 ,2ED,R
-Control Magic,$2.00 ,2ED,U
-Conversion,$1.10 ,2ED,U
-Copper Tablet,$0.50 ,2ED,U
-Copy Artifact,$5.00 ,2ED,R
-Counterspell,$2.00 ,2ED,U
-Craw Wurm,$0.50 ,2ED,C
-Creature Bond,$0.25 ,2ED,C
-Crusade,$6.00 ,2ED,R
-Crystal Rod,$1.00 ,2ED,U
-Cursed Land,$1.00 ,2ED,U
-Cyclopean Tomb,$6.00 ,2ED,R
-Dark Ritual,$0.25 ,2ED,C
-Darkpact,$4.00 ,2ED,R
-Death Ward,$0.25 ,2ED,C
-Deathgrip,$1.00 ,2ED,U
-Deathlace,$3.00 ,2ED,R
-Demonic Attorney,$4.00 ,2ED,R
-Demonic Hordes,$8.00 ,2ED,R
-Demonic Tutor,$3.00 ,2ED,U
-Dingus Egg,$4.00 ,2ED,R
-Disenchant,$0.25 ,2ED,C
-Disintegrate,$5.00 ,2ED,C
-Disrupting Scepter,$4.00 ,2ED,R
-Dragon Whelp,$3.00 ,2ED,U
-Drain Life,$0.25 ,2ED,C
-Drain Power,$5.00 ,2ED,R
-Drudge Skeletons,$0.25 ,2ED,C
-Dwarven Demolition Team,$1.25 ,2ED,U
-Dwarven Warriors,$0.25 ,2ED,C
-Earth Elemental,$1.00 ,2ED,U
-Earthbind,$0.25 ,2ED,C
-Earthquake,$5.00 ,2ED,R
-Elvish Archers,$5.00 ,2ED,R
-Evil Presence,$1.00 ,2ED,U
-False Orders,$0.25 ,2ED,C
-Farmstead,$5.00 ,2ED,R
-Fastbond,$4.00 ,2ED,R
-Fear,$0.25 ,2ED,C
-Feedback,$0.75 ,2ED,U
-Fire Elemental,$1.20 ,2ED,U
-Fireball,$0.50 ,2ED,C
-Firebreathing,$0.25 ,2ED,C
-Flashfires,$1.30 ,2ED,U
-Flight,$0.25 ,2ED,C
-Fog,$0.25 ,2ED,C
-Force of Nature,$10.00 ,2ED,R
-Forcefield,$7.00 ,2ED,R
-Fork,$7.00 ,2ED,R
-Frozen Shade,$0.25 ,2ED,C
-Fungusaur,$5.50 ,2ED,R
-Gaea's Liege,$8.00 ,2ED,R
-Gauntlet of Might,$7.30 ,2ED,R
-Giant Growth,$0.25 ,2ED,C
-Giant Spider,$0.25 ,2ED,C
-Glasses of Urza,$1.00 ,2ED,U
-Gloom,$2.00 ,2ED,U
-Goblin Balloon Brigade,$1.00 ,2ED,U
-Goblin King,$7.00 ,2ED,R
-Granite Gargoyle,$6.00 ,2ED,R
-Gray Ogre,$0.25 ,2ED,C
-Green Ward,$1.00 ,2ED,U
-Grizzly Bears,$0.25 ,2ED,C
-Guardian Angel,$0.25 ,2ED,C
-Healing Salve,$0.25 ,2ED,C
-Helm of Chatzuk,$4.50 ,2ED,R
-Hill Giant,$0.25 ,2ED,C
-Holy Armor,$0.25 ,2ED,C
-Holy Strength,$0.25 ,2ED,C
-Howl from Beyond,$0.25 ,2ED,C
-Howling Mine,$5.00 ,2ED,R
-Hurloon Minotaur,$0.25 ,2ED,C
-Hurricane,$1.00 ,2ED,U
-Hypnotic Specter,$3.00 ,2ED,U
-Ice Storm,$1.50 ,2ED,U
-Icy Manipulator,$3.00 ,2ED,U
-Illusionary Mask,$5.00 ,2ED,R
-Instill Energy,$2.00 ,2ED,U
-Invisibility,$0.25 ,2ED,C
-Iron Star,$1.00 ,2ED,U
-Ironroot Treefolk,$0.25 ,2ED,C
-Ironclaw Orcs,$0.25 ,2ED,C
-Island Sanctuary,$5.00 ,2ED,R
-Ivory Cup,$1.00 ,2ED,U
-Jade Monolith,$3.00 ,2ED,R
-Jade Statue,$2.30 ,2ED,U
-Jayemdae Tome,$4.50 ,2ED,R
-Juggernaut,$2.00 ,2ED,U
-Jump,$0.25 ,2ED,C
-Karma,$1.50 ,2ED,U
-Keldon Warlord,$1.80 ,2ED,U
-Kormus Bell,$5.00 ,2ED,R
-Kudzu,$4.00 ,2ED,R
-Lance,$1.00 ,2ED,U
-Ley Druid,$1.00 ,2ED,U
-Library of Leng,$1.50 ,2ED,U
-Lich,$6.00 ,2ED,R
-Lifeforce,$1.25 ,2ED,U
-Lifelace,$3.00 ,2ED,R
-Lifetap,$1.00 ,2ED,U
-Lightning Bolt,$0.50 ,2ED,C
-Living Artifact,$4.30 ,2ED,R
-Living Lands,$5.00 ,2ED,R
-Living Wall,$1.50 ,2ED,U
-Llanowar Elves,$0.25 ,2ED,C
-Lord of Atlantis,$6.00 ,2ED,R
-Lord of the Pit,$8.30 ,2ED,R
-Lure,$1.10 ,2ED,U
-Magical Hack,$5.00 ,2ED,R
-Mahamoti Djinn,$8.00 ,2ED,R
-Mana Flare,$5.00 ,2ED,R
-Mana Short,$5.00 ,2ED,R
-Mana Vault,$5.00 ,2ED,R
-Manabarbs,$4.00 ,2ED,R
-Meekstone,$5.00 ,2ED,R
-Merfolk of the Pearl Trident,$0.25 ,2ED,C
-Mesa Pegasus,$0.25 ,2ED,C
-Mind Twist,$6.00 ,2ED,R
-Mons's Goblin Raiders,$0.25 ,2ED,C
-Mox Emerald,$12.00 ,2ED,R
-Mox Jet,$12.30 ,2ED,R
-Mox Pearl,$12.00 ,2ED,R
-Mox Ruby,$12.30 ,2ED,R
-Mox Sapphire,$12.30 ,2ED,R
-Natural Selection,$4.50 ,2ED,R
-Nether Shadow,$4.00 ,2ED,R
-Nettling Imp,$1.50 ,2ED,U
-Nevinyrral's Disk,$6.00 ,2ED,R
-Nightmare,$11.00 ,2ED,R
-Northern Paladin,$8.00 ,2ED,R
-Obsianus Golem,$1.50 ,2ED,U
-Orcish Artillery,$1.00 ,2ED,U
-Orcish Oriflamme,$1.50 ,2ED,U
-Paralyze,$0.25 ,2ED,C
-Pearled Unicorn,$0.25 ,2ED,C
-Personal Incarnation,$8.00 ,2ED,R
-Pestilence,$0.25 ,2ED,C
-Phantasmal Forces,$1.00 ,2ED,U
-Phantasmal Terrain,$0.25 ,2ED,C
-Phantom Monster,$1.10 ,2ED,U
-Pirate Ship,$5.00 ,2ED,R
-Plague Rats,$0.50 ,2ED,C
-Plateau,$6.00 ,2ED,R
-Power Leak,$0.25 ,2ED,C
-Power Sink,$0.25 ,2ED,C
-Power Surge,$4.00 ,2ED,R
-Prodigal Sorcerer,$0.50 ,2ED,C
-Psionic Blast,$1.00 ,2ED,U
-Psychic Venom,$0.25 ,2ED,C
-Purelace,$3.00 ,2ED,R
-Raging River,$5.30 ,2ED,R
-Raise Dead,$0.25 ,2ED,C
-Red Elemental Blast,$0.25 ,2ED,C
-Red Ward,$1.00 ,2ED,U
-Regeneration,$0.25 ,2ED,C
-Regrowth,$1.50 ,2ED,U
-Resurrection,$1.00 ,2ED,U
-Reverse Damage,$6.00 ,2ED,R
-Righteousness,$4.00 ,2ED,R
-Roc of Kher Ridges,$4.00 ,2ED,R
-Rock Hydra,$8.00 ,2ED,R
-Rod of Ruin,$1.00 ,2ED,U
-Royal Assassin,$8.00 ,2ED,R
-Sacrifice,$1.00 ,2ED,U
-Samite Healer,$0.25 ,2ED,C
-Savannah,$5.00 ,2ED,R
-Savannah Lions,$4.00 ,2ED,R
-Scathe Zombies,$0.25 ,2ED,C
-Scavenging Ghoul,$1.00 ,2ED,U
-Scrubland,$6.00 ,2ED,R
-Scryb Sprites,$0.25 ,2ED,C
-Sea Serpent,$0.25 ,2ED,C
-Sedge Troll,$5.00 ,2ED,R
-Sengir Vampire,$4.00 ,2ED,U
-Serra Angel,$4.00 ,2ED,U
-Shanodin Dryads,$0.25 ,2ED,C
-Shatter,$0.25 ,2ED,C
-Shivan Dragon,$13.00 ,2ED,R
-Simulacrum,$1.00 ,2ED,U
-Sinkhole,$0.25 ,2ED,C
-Siren's Call,$1.00 ,2ED,U
-Sleight of Mind,$5.00 ,2ED,R
-Smoke,$4.00 ,2ED,R
-Sol Ring,$3.00 ,2ED,U
-Soul Net,$1.30 ,2ED,U
-Spell Blast,$0.25 ,2ED,C
-Stasis,$4.00 ,2ED,R
-Steal Artifact,$1.80 ,2ED,U
-Stone Giant,$1.00 ,2ED,U
-Stone Rain,$0.25 ,2ED,C
-Stream of Life,$0.25 ,2ED,C
-Sunglasses of Urza,$6.00 ,2ED,R
-Swords to Plowshares,$1.50 ,2ED,U
-Taiga,$7.00 ,2ED,R
-Terror,$0.25 ,2ED,C
-The Hive,$5.75 ,2ED,R
-Thicket Basilisk,$2.50 ,2ED,U
-Thoughtlace,$3.00 ,2ED,R
-Throne of Bone,$1.50 ,2ED,U
-Timber Wolves,$5.00 ,2ED,R
-Time Vault,$6.00 ,2ED,R
-Time Walk,$7.00 ,2ED,R
-Timetwister,$7.00 ,2ED,R
-Tranquility,$0.25 ,2ED,C
-Tropical Island,$6.00 ,2ED,R
-Tsunami,$1.00 ,2ED,U
-Tundra,$5.00 ,2ED,R
-Tunnel,$1.00 ,2ED,U
-Twiddle,$0.25 ,2ED,C
-Two-Headed Giant of Foriys,$7.00 ,2ED,R
-Underground Sea,$7.00 ,2ED,R
-Unholy Strength,$0.25 ,2ED,C
-Unsummon,$0.25 ,2ED,C
-Uthden Troll,$1.50 ,2ED,U
-Verduran Enchantress,$6.00 ,2ED,R
-Vesuvan Doppelganger,$8.00 ,2ED,R
-Veteran Bodyguard,$7.30 ,2ED,R
-Volcanic Eruption,$6.00 ,2ED,R
-Volcanic Island,$7.00 ,2ED,R
-Wall of Air,$1.00 ,2ED,U
-Wall of Bone,$1.10 ,2ED,U
-Wall of Brambles,$1.00 ,2ED,U
-Wall of Fire,$1.00 ,2ED,U
-Wall of Ice,$1.00 ,2ED,U
-Wall of Stone,$1.10 ,2ED,U
-Wall of Swords,$2.25 ,2ED,U
-Wall of Water,$1.00 ,2ED,U
-Wall of Wood,$0.25 ,2ED,C
-Wanderlust,$1.00 ,2ED,U
-War Mammoth,$0.25 ,2ED,C
-Warp Artifact,$3.50 ,2ED,R
-Water Elemental,$1.10 ,2ED,U
-Weakness,$0.25 ,2ED,C
-Web,$4.00 ,2ED,R
-Wheel of Fortune,$6.00 ,2ED,R
-White Knight,$2.50 ,2ED,U
-White Ward,$1.00 ,2ED,U
-Wild Growth,$0.25 ,2ED,C
-Will-o'-the-Wisp,$6.00 ,2ED,R
-Winter Orb,$5.00 ,2ED,R
-Wooden Sphere,$1.00 ,2ED,U
-Word of Command,$6.00 ,2ED,R
-Wrath of God,$7.00 ,2ED,R
-Zombie Master,$7.00 ,2ED,R
-Air Elemental,$1.50 ,3ED,U
-Aladdin's Lamp,$5.00 ,3ED,R
-Aladdin's Ring,$5.00 ,3ED,R
-Animate Artifact,$1.00 ,3ED,U
-Animate Dead,$1.00 ,3ED,U
-Animate Wall,$4.00 ,3ED,R
-Ankh of Mishra,$3.00 ,3ED,R
-Armageddon,$5.00 ,3ED,R
-Armageddon Clock,$5.00 ,3ED,R
-Aspect of Wolf,$6.00 ,3ED,R
-Atog,$0.35 ,3ED,C
-Bad Moon,$6.00 ,3ED,R
-Badlands,$5.00 ,3ED,R
-Balance,$5.00 ,3ED,R
-Basalt Monolith,$1.00 ,3ED,U
-Bayou,$6.00 ,3ED,R
-Benalish Hero,$0.35 ,3ED,C
-Birds of Paradise,$5.00 ,3ED,R
-Black Knight,$2.50 ,3ED,U
-Black Vise,$2.00 ,3ED,U
-Black Ward,$1.00 ,3ED,U
-Blessing,$5.00 ,3ED,R
-Blue Elemental Blast,$0.25 ,3ED,C
-Blue Ward,$1.00 ,3ED,U
-Bog Wraith,$2.00 ,3ED,U
-Bottle of Suleiman,$4.00 ,3ED,R
-Braingeyser,$5.00 ,3ED,R
-Brass Man,$1.00 ,3ED,U
-Burrowing,$1.00 ,3ED,U
-Castle,$1.20 ,3ED,U
-Celestial Prism,$1.50 ,3ED,U
-Channel,$1.50 ,3ED,U
-Chaoslace,$3.00 ,3ED,R
-Circle of Protection: Black,$0.25 ,3ED,C
-Circle of Protection: Blue,$0.25 ,3ED,C
-Circle of Protection: Green,$0.25 ,3ED,C
-Circle of Protection: Red,$0.25 ,3ED,C
-Circle of Protection: White,$0.25 ,3ED,C
-Clockwork Beast,$6.00 ,3ED,R
-Clone,$2.00 ,3ED,U
-Cockatrice,$5.00 ,3ED,R
-Conservator,$1.00 ,3ED,U
-Contract from Below,$4.00 ,3ED,R
-Control Magic,$1.50 ,3ED,U
-Conversion,$1.00 ,3ED,U
-Copy Artifact,$5.00 ,3ED,R
-Counterspell,$2.00 ,3ED,U
-Craw Wurm,$0.50 ,3ED,C
-Creature Bond,$0.25 ,3ED,C
-Crumble,$0.50 ,3ED,U
-Crusade,$6.00 ,3ED,R
-Crystal Rod,$1.00 ,3ED,U
-Cursed Land,$1.00 ,3ED,U
-Dancing Scimitar,$4.00 ,3ED,R
-Dark Ritual,$0.35 ,3ED,C
-Darkpact,$3.00 ,3ED,R
-Death Ward,$0.25 ,3ED,C
-Deathgrip,$1.00 ,3ED,U
-Deathlace,$3.00 ,3ED,R
-Demonic Attorney,$3.00 ,3ED,R
-Demonic Hordes,$6.00 ,3ED,R
-Demonic Tutor,$2.00 ,3ED,U
-Desert Twister,$3.00 ,3ED,U
-Dingus Egg,$3.50 ,3ED,R
-Disenchant,$0.50 ,3ED,C
-Disintegrate,$0.50 ,3ED,C
-Disrupting Scepter,$4.00 ,3ED,R
-Dragon Engine,$2.50 ,3ED,R
-Dragon Whelp,$2.00 ,3ED,U
-Drain Life,$0.25 ,3ED,C
-Drain Power,$5.00 ,3ED,R
-Drudge Skeletons,$0.25 ,3ED,C
-Dwarven Warriors,$0.25 ,3ED,C
-Dwarven Weaponsmith,$1.00 ,3ED,U
-Earth Elemental,$1.00 ,3ED,U
-Earthbind,$0.25 ,3ED,C
-Earthquake,$4.00 ,3ED,R
-Ebony Horse,$5.00 ,3ED,R
-El-Hajjâj,$4.00 ,3ED,R
-Elvish Archers,$5.00 ,3ED,R
-Energy Flux,$1.00 ,3ED,U
-Erg Raiders,$0.35 ,3ED,C
-Evil Presence,$1.00 ,3ED,U
-Eye for an Eye,$4.00 ,3ED,R
-Farmstead,$5.00 ,3ED,R
-Fastbond,$4.00 ,3ED,R
-Fear,$0.25 ,3ED,C
-Feedback,$1.00 ,3ED,U
-Fire Elemental,$1.00 ,3ED,U
-Fireball,$0.50 ,3ED,C
-Firebreathing,$0.25 ,3ED,C
-Flashfires,$1.20 ,3ED,U
-Flight,$0.25 ,3ED,C
-Flying Carpet,$4.00 ,3ED,R
-Fog,$0.25 ,3ED,C
-Force of Nature,$10.00 ,3ED,R
-Fork,$8.00 ,3ED,R
-Frozen Shade,$0.25 ,3ED,C
-Fungusaur,$5.00 ,3ED,R
-Gaea's Liege,$6.00 ,3ED,R
-Giant Growth,$0.25 ,3ED,C
-Giant Spider,$0.25 ,3ED,C
-Glasses of Urza,$1.00 ,3ED,U
-Gloom,$2.00 ,3ED,U
-Goblin Balloon Brigade,$1.00 ,3ED,U
-Goblin King,$6.00 ,3ED,R
-Granite Gargoyle,$7.00 ,3ED,R
-Gray Ogre,$0.35 ,3ED,C
-Green Ward,$1.00 ,3ED,U
-Grizzly Bears,$0.25 ,3ED,C
-Guardian Angel,$0.25 ,3ED,C
-Healing Salve,$0.25 ,3ED,C
-Helm of Chatzuk,$4.00 ,3ED,R
-Hill Giant,$0.35 ,3ED,C
-Holy Armor,$0.25 ,3ED,C
-Holy Strength,$0.25 ,3ED,C
-Howl from Beyond,$0.35 ,3ED,C
-Howling Mine,$4.00 ,3ED,R
-Hurkyl's Recall,$5.00 ,3ED,R
-Hurloon Minotaur,$0.35 ,3ED,C
-Hurricane,$1.20 ,3ED,U
-Hypnotic Specter,$2.50 ,3ED,U
-Instill Energy,$1.50 ,3ED,U
-Iron Star,$1.00 ,3ED,U
-Ironroot Treefolk,$0.25 ,3ED,C
-Island Fish Jasconius,$5.00 ,3ED,R
-Island Sanctuary,$4.00 ,3ED,R
-Ivory Cup,$1.00 ,3ED,U
-Ivory Tower,$3.50 ,3ED,R
-Jade Monolith,$3.00 ,3ED,R
-Jandor's Ring,$3.00 ,3ED,R
-Jandor's Saddlebags,$3.00 ,3ED,R
-Jayemdae Tome,$4.00 ,3ED,R
-Juggernaut,$2.00 ,3ED,U
-Jump,$0.25 ,3ED,C
-Karma,$2.00 ,3ED,U
-Keldon Warlord,$2.00 ,3ED,U
-Kird Ape,$0.55 ,3ED,C
-Kormus Bell,$5.00 ,3ED,R
-Kudzu,$3.00 ,3ED,R
-Lance,$1.00 ,3ED,U
-Ley Druid,$1.00 ,3ED,U
-Library of Leng,$1.00 ,3ED,U
-Lifeforce,$1.00 ,3ED,U
-Lifelace,$3.00 ,3ED,R
-Lifetap,$1.00 ,3ED,U
-Lightning Bolt,$0.50 ,3ED,C
-Living Artifact,$4.00 ,3ED,R
-Living Lands,$5.00 ,3ED,R
-Living Wall,$1.50 ,3ED,U
-Llanowar Elves,$0.25 ,3ED,C
-Lord of Atlantis,$6.00 ,3ED,R
-Lord of the Pit,$10.00 ,3ED,R
-Lure,$1.50 ,3ED,U
-Magical Hack,$6.00 ,3ED,R
-Magnetic Mountain,$4.00 ,3ED,R
-Mahamoti Djinn,$8.00 ,3ED,R
-Mana Flare,$5.00 ,3ED,R
-Mana Short,$4.00 ,3ED,R
-Mana Vault,$3.00 ,3ED,R
-Manabarbs,$4.00 ,3ED,R
-Meekstone,$5.00 ,3ED,R
-Merfolk of the Pearl Trident,$0.35 ,3ED,C
-Mesa Pegasus,$0.25 ,3ED,C
-Mijae Djinn,$5.00 ,3ED,R
-Millstone,$3.00 ,3ED,R
-Mind Twist,$6.00 ,3ED,R
-Mishra's War Machine,$5.00 ,3ED,R
-Mons's Goblin Raiders,$0.35 ,3ED,C
-Nether Shadow,$4.00 ,3ED,R
-Nettling Imp,$1.50 ,3ED,U
-Nevinyrral's Disk,$6.00 ,3ED,R
-Nightmare,$10.00 ,3ED,R
-Northern Paladin,$9.00 ,3ED,R
-Obsianus Golem,$1.50 ,3ED,U
-Onulet,$2.00 ,3ED,R
-Orcish Artillery,$1.00 ,3ED,U
-Orcish Oriflamme,$2.00 ,3ED,U
-Ornithopter,$1.00 ,3ED,U
-Paralyze,$0.25 ,3ED,C
-Pearled Unicorn,$0.25 ,3ED,C
-Personal Incarnation,$8.00 ,3ED,R
-Pestilence,$0.25 ,3ED,C
-Phantasmal Forces,$1.00 ,3ED,U
-Phantasmal Terrain,$0.25 ,3ED,C
-Phantom Monster,$1.00 ,3ED,U
-Pirate Ship,$4.00 ,3ED,R
-Plague Rats,$0.50 ,3ED,C
-Plateau,$6.00 ,3ED,R
-Power Leak,$0.25 ,3ED,C
-Power Sink,$0.25 ,3ED,C
-Power Surge,$4.00 ,3ED,R
-Primal Clay,$2.25 ,3ED,R
-Prodigal Sorcerer,$0.50 ,3ED,C
-Psychic Venom,$0.50 ,3ED,C
-Purelace,$3.00 ,3ED,R
-Raise Dead,$0.25 ,3ED,C
-Reconstruction,$0.30 ,3ED,C
-Red Elemental Blast,$0.25 ,3ED,C
-Red Ward,$1.00 ,3ED,U
-Regeneration,$0.25 ,3ED,C
-Regrowth,$1.50 ,3ED,U
-Resurrection,$1.00 ,3ED,U
-Reverse Damage,$7.00 ,3ED,R
-Reverse Polarity,$1.00 ,3ED,U
-Righteousness,$6.00 ,3ED,R
-Roc of Kher Ridges,$4.00 ,3ED,R
-Rock Hydra,$10.00 ,3ED,R
-Rocket Launcher,$4.00 ,3ED,R
-Rod of Ruin,$1.00 ,3ED,U
-Royal Assassin,$10.00 ,3ED,R
-Sacrifice,$1.00 ,3ED,U
-Samite Healer,$0.35 ,3ED,C
-Savannah,$6.00 ,3ED,R
-Savannah Lions,$3.00 ,3ED,R
-Scathe Zombies,$0.25 ,3ED,C
-Scavenging Ghoul,$1.20 ,3ED,U
-Scrubland,$6.00 ,3ED,R
-Scryb Sprites,$0.35 ,3ED,C
-Sea Serpent,$0.25 ,3ED,C
-Sedge Troll,$5.00 ,3ED,R
-Sengir Vampire,$3.00 ,3ED,U
-Serendib Efreet,$4.00 ,3ED,R
-Serra Angel,$4.00 ,3ED,U
-Shanodin Dryads,$0.35 ,3ED,C
-Shatter,$0.25 ,3ED,C
-Shatterstorm,$3.00 ,3ED,U
-Shivan Dragon,$10.00 ,3ED,R
-Simulacrum,$1.00 ,3ED,U
-Siren's Call,$1.00 ,3ED,U
-Sleight of Mind,$5.00 ,3ED,R
-Smoke,$4.00 ,3ED,R
-Sol Ring,$2.00 ,3ED,U
-Sorceress Queen,$5.00 ,3ED,R
-Soul Net,$1.00 ,3ED,U
-Spell Blast,$0.25 ,3ED,C
-Stasis,$3.50 ,3ED,R
-Steal Artifact,$1.50 ,3ED,U
-Stone Giant,$1.00 ,3ED,U
-Stone Rain,$0.50 ,3ED,C
-Stream of Life,$0.25 ,3ED,C
-Sunglasses of Urza,$6.00 ,3ED,R
-Swords to Plowshares,$1.50 ,3ED,U
-Taiga,$6.00 ,3ED,R
-Terror,$0.50 ,3ED,C
-The Hive,$5.00 ,3ED,R
-The Rack,$2.00 ,3ED,U
-Thicket Basilisk,$2.50 ,3ED,U
-Thoughtlace,$3.00 ,3ED,R
-Throne of Bone,$1.00 ,3ED,U
-Timber Wolves,$4.00 ,3ED,R
-Titania's Song,$2.50 ,3ED,R
-Tranquility,$0.25 ,3ED,C
-Tropical Island,$6.00 ,3ED,R
-Tsunami,$1.20 ,3ED,U
-Tundra,$6.00 ,3ED,R
-Tunnel,$1.00 ,3ED,U
-Underground Sea,$6.00 ,3ED,R
-Unholy Strength,$0.25 ,3ED,C
-Unstable Mutation,$0.43 ,3ED,C
-Unsummon,$0.25 ,3ED,C
-Uthden Troll,$1.50 ,3ED,U
-Verduran Enchantress,$4.00 ,3ED,R
-Vesuvan Doppelganger,$8.00 ,3ED,R
-Veteran Bodyguard,$8.00 ,3ED,R
-Volcanic Eruption,$6.00 ,3ED,R
-Volcanic Island,$7.00 ,3ED,R
-Wall of Air,$1.00 ,3ED,U
-Wall of Bone,$1.20 ,3ED,U
-Wall of Brambles,$1.00 ,3ED,U
-Wall of Fire,$1.00 ,3ED,U
-Wall of Ice,$1.00 ,3ED,U
-Wall of Stone,$1.00 ,3ED,U
-Wall of Swords,$2.00 ,3ED,U
-Wall of Water,$1.00 ,3ED,U
-Wall of Wood,$0.25 ,3ED,C
-Wanderlust,$1.00 ,3ED,U
-War Mammoth,$0.25 ,3ED,C
-Warp Artifact,$3.00 ,3ED,R
-Water Elemental,$1.20 ,3ED,U
-Weakness,$0.25 ,3ED,C
-Web,$3.00 ,3ED,R
-Wheel of Fortune,$6.00 ,3ED,R
-White Knight,$2.50 ,3ED,U
-White Ward,$1.00 ,3ED,U
-Wild Growth,$0.25 ,3ED,C
-Will-o'-the-Wisp,$7.00 ,3ED,R
-Winter Orb,$4.00 ,3ED,R
-Wooden Sphere,$1.00 ,3ED,U
-Wrath of God,$7.00 ,3ED,R
-Zombie Master,$7.00 ,3ED,R
-Abu Ja'far,$5.00 ,ARN,U3
-Aladdin,$4.00 ,ARN,U2
-Aladdin's Lamp,$5.00 ,ARN,U2
-Aladdin's Ring,$5.00 ,ARN,U2
-Ali Baba,$3.00 ,ARN,U3
-Ali from Cairo,$8.00 ,ARN,U2
-Army of Allah,$0.50 ,ARN,C4
-Bazaar of Baghdad,$3.00 ,ARN,U3
-Bird Maiden,$0.50 ,ARN,C4
-Bottle of Suleiman,$5.00 ,ARN,U2
-Brass Man,$2.00 ,ARN,U3
-Camel,$0.50 ,ARN,C5
-City in a Bottle,$5.00 ,ARN,U2
-City of Brass,$3.00 ,ARN,U3
-Cuombajj Witches,$0.50 ,ARN,C4
-Cyclone,$2.00 ,ARN,U3
-Dancing Scimitar,$5.00 ,ARN,U2
-Dandân,$0.50 ,ARN,C4
-Desert,$0.50 ,ARN,C11
-Desert Nomads,$0.50 ,ARN,C4
-Desert Twister,$4.00 ,ARN,U3
-Diamond Valley,$4.00 ,ARN,U2
-Drop of Honey,$5.00 ,ARN,U2
-Ebony Horse,$5.00 ,ARN,U2
-Elephant Graveyard,$5.00 ,ARN,U2
-El-Hajjâj,$5.00 ,ARN,U2
-Erg Raiders,$0.50 ,ARN,C5
-Erhnam Djinn,$5.00 ,ARN,U2
-Eye for an Eye,$15.00 ,ARN,U3
-Fishliver Oil,$0.50 ,ARN,C4
-Flying Carpet,$3.00 ,ARN,U3
-Flying Men,$0.50 ,ARN,C5
-Ghazbán Ogre,$0.50 ,ARN,C4
-Giant Tortoise,$0.50 ,ARN,C4
-Guardian Beast,$8.00 ,ARN,U2
-Hasran Ogress,$0.50 ,ARN,C5
-Hurr Jackal,$0.50 ,ARN,C4
-Ifh-Bíff Efreet,$5.00 ,ARN,U2
-Island Fish Jasconius,$5.00 ,ARN,U2
-Island of Wak-Wak,$5.00 ,ARN,U2
-Jandor's Ring,$4.00 ,ARN,U2
-Jandor's Saddlebags,$4.00 ,ARN,U2
-Jeweled Bird,$3.00 ,ARN,U3
-Jihad,$5.00 ,ARN,U2
-Junún Efreet,$3.00 ,ARN,U2
-Juzám Djinn,$5.00 ,ARN,U2
-Khabál Ghoul,$5.00 ,ARN,U3
-King Suleiman,$5.00 ,ARN,U2
-Kird Ape,$0.60 ,ARN,C5
-Library of Alexandria,$5.00 ,ARN,U3
-Magnetic Mountain,$4.00 ,ARN,U3
-Merchant Ship,$2.00 ,ARN,U3
-Metamorphosis,$0.50 ,ARN,C4
-Mijae Djinn,$5.00 ,ARN,U2
-Moorish Cavalry,$0.60 ,ARN,C5
-Nafs Asp,$0.50 ,ARN,C5
-Oasis,$2.00 ,ARN,U4
-Old Man of the Sea,$5.00 ,ARN,U2
-Oubliette,$0.90 ,ARN,C4
-Piety,$0.50 ,ARN,C4
-Pyramids,$5.00 ,ARN,U2
-Repentant Blacksmith,$5.00 ,ARN,U2
-Ring of Ma'rûf,$5.00 ,ARN,U2
-Rukh Egg,$1.00 ,ARN,C4
-Sandals of Abdallah,$3.00 ,ARN,U3
-Sandstorm,$0.50 ,ARN,C4
-Serendib Djinn,$5.00 ,ARN,U2
-Serendib Efreet,$5.00 ,ARN,U2
-Shahrazad,$5.00 ,ARN,U2
-Sindbad,$3.00 ,ARN,U3
-Singing Tree,$6.00 ,ARN,U2
-Sorceress Queen,$5.00 ,ARN,U3
-Stone-Throwing Devils,$0.50 ,ARN,C4
-Unstable Mutation,$0.50 ,ARN,C5
-War Elephant,$0.50 ,ARN,C4
-Wyluli Wolf,$0.50 ,ARN,C5
-Ydwen Efreet,$5.00 ,ARN,U2
-Amulet of Kroog,$0.50 ,ATQ,C4
-Argivian Archaeologist,$5.50 ,ATQ,U1
-Argivian Blacksmith,$0.50 ,ATQ,C4
-Argothian Pixies,$0.50 ,ATQ,C4
-Argothian Treefolk,$0.50 ,ATQ,C4
-Armageddon Clock,$4.00 ,ATQ,U2
-Artifact Blast,$0.50 ,ATQ,C4
-Artifact Possession,$0.50 ,ATQ,C4
-Artifact Ward,$0.63 ,ATQ,C4
-Ashnod's Altar,$3.50 ,ATQ,U2
-Ashnod's Battle Gear,$3.50 ,ATQ,U2
-Ashnod's Transmogrant,$3.00 ,ATQ,U3
-Atog,$0.50 ,ATQ,C4
-Battering Ram,$0.50 ,ATQ,C4
-Bronze Tablet,$6.75 ,ATQ,U1
-Candelabra of Tawnos,$5.00 ,ATQ,U1
-Circle of Protection: Artifacts,$3.50 ,ATQ,U3
-Citanul Druid,$3.00 ,ATQ,U3
-Clay Statue,$0.50 ,ATQ,C4
-Clockwork Avian,$6.00 ,ATQ,U1
-Colossus of Sardia,$7.75 ,ATQ,U1
-Coral Helm,$5.00 ,ATQ,U1
-Crumble,$0.50 ,ATQ,C4
-Cursed Rack,$3.00 ,ATQ,C1
-Damping Field,$3.00 ,ATQ,U3
-Detonate,$2.75 ,ATQ,U3
-Drafna's Restoration,$0.50 ,ATQ,C4
-Dragon Engine,$0.63 ,ATQ,C4
-Dwarven Weaponsmith,$2.50 ,ATQ,U3
-Energy Flux,$3.00 ,ATQ,U3
-Feldon's Cane,$3.00 ,ATQ,C1
-Gaea's Avenger,$7.00 ,ATQ,U1
-Gate to Phyrexia,$2.75 ,ATQ,U3
-Goblin Artisans,$1.63 ,ATQ,U3
-Golgothian Sylex,$6.00 ,ATQ,U1
-Grapeshot Catapult,$0.50 ,ATQ,C4
-Haunting Wind,$2.25 ,ATQ,U3
-Hurkyl's Recall,$6.50 ,ATQ,U1
-Ivory Tower,$4.50 ,ATQ,U3
-Jalum Tome,$3.25 ,ATQ,U2
-Martyrs of Korlis,$3.13 ,ATQ,U3
-Mightstone,$2.50 ,ATQ,U3
-Millstone,$3.00 ,ATQ,U3
-Mishra's Factory (A),$3.00 ,ATQ,C1
-Mishra's Factory (B),$3.00 ,ATQ,U1
-Mishra's Factory (C),$3.50 ,ATQ,U1
-Mishra's Factory (D),$3.50 ,ATQ,U1
-Mishra's War Machine,$5.00 ,ATQ,U1
-Mishra's Workshop,$5.00 ,ATQ,U1
-Obelisk of Undoing,$5.00 ,ATQ,U1
-Onulet,$3.00 ,ATQ,U3
-Orcish Mechanics,$0.50 ,ATQ,C4
-Ornithopter,$0.63 ,ATQ,C4
-Phyrexian Gremlins,$0.50 ,ATQ,C4
-Power Artifact,$3.00 ,ATQ,U3
-Powerleech,$3.00 ,ATQ,U3
-Priest of Yawgmoth,$0.50 ,ATQ,C4
-Primal Clay,$2.50 ,ATQ,U3
-Rakalite,$2.00 ,ATQ,U3
-Reconstruction,$0.50 ,ATQ,C4
-Reverse Polarity,$0.50 ,ATQ,C4
-Rocket Launcher,$3.00 ,ATQ,U3
-Sage of Lat-Nam,$0.50 ,ATQ,C4
-Shapeshifter,$6.00 ,ATQ,U1
-Shatterstorm,$5.50 ,ATQ,U1
-Staff of Zegon,$0.75 ,ATQ,C4
-Strip Mine (A),$2.50 ,ATQ,C1
-Strip Mine (B),$3.00 ,ATQ,U1
-Strip Mine (C),$3.00 ,ATQ,U1
-Strip Mine (D),$3.50 ,ATQ,U1
-Su-Chi,$2.75 ,ATQ,U3
-Tablet of Epityr,$0.50 ,ATQ,C4
-Tawnos's Coffin,$5.00 ,ATQ,U1
-Tawnos's Wand,$2.25 ,ATQ,U3
-Tawnos's Weaponry,$2.75 ,ATQ,U3
-Tetravus,$6.00 ,ATQ,U1
-The Rack,$3.00 ,ATQ,U3
-Titania's Song,$3.00 ,ATQ,U3
-Transmute Artifact,$2.50 ,ATQ,U3
-Triskelion,$5.00 ,ATQ,U1
-Urza's Avenger,$6.00 ,ATQ,U1
-Urza's Chalice,$0.63 ,ATQ,C1
-Urza's Mine (A),$1.13 ,ATQ,C1
-Urza's Mine (B),$1.75 ,ATQ,C1
-Urza's Mine (C),$1.75 ,ATQ,C2
-Urza's Mine (D),$1.13 ,ATQ,C2
-Urza's Miter,$5.00 ,ATQ,U1
-Urza's Power Plant (A),$1.13 ,ATQ,C2
-Urza's Power Plant (B),$1.63 ,ATQ,C1
-Urza's Power Plant (C),$1.13 ,ATQ,C2
-Urza's Power Plant (D),$1.75 ,ATQ,C1
-Urza's Tower (A),$1.13 ,ATQ,C2
-Urza's Tower (B),$1.63 ,ATQ,C1
-Urza's Tower (C),$1.75 ,ATQ,C1
-Urza's Tower (D),$1.63 ,ATQ,C1
-Wall of Spears,$3.00 ,ATQ,U3
-Weakstone,$2.25 ,ATQ,U3
-Xenic Poltergeist,$2.25 ,ATQ,U3
-Yawgmoth Demon,$7.75 ,ATQ,U1
-Yotian Soldier,$0.63 ,ATQ,C4
+﻿card_name,old_price,set,full_rarity,full_set
+Air Elemental,$2.13 ,LEA,U,Alpha
+Ancestral Recall,$8.75 ,LEA,R,Alpha
+Animate Artifact,$2.00 ,LEA,U,Alpha
+Animate Dead,$2.00 ,LEA,U,Alpha
+Animate Wall,$6.00 ,LEA,R,Alpha
+Ankh of Mishra,$5.00 ,LEA,R,Alpha
+Armageddon,$8.00 ,LEA,R,Alpha
+Aspect of Wolf,$8.00 ,LEA,R,Alpha
+Bad Moon,$8.00 ,LEA,R,Alpha
+Badlands,$7.50 ,LEA,R,Alpha
+Balance,$5.50 ,LEA,R,Alpha
+Basalt Monolith,$2.50 ,LEA,U,Alpha
+Bayou,$7.00 ,LEA,R,Alpha
+Benalish Hero,$0.40 ,LEA,C,Alpha
+Berserk,$2.75 ,LEA,U,Alpha
+Birds of Paradise,$7.50 ,LEA,R,Alpha
+Black Knight,$4.00 ,LEA,U,Alpha
+Black Lotus,$15.00 ,LEA,R,Alpha
+Black Vise,$3.00 ,LEA,U,Alpha
+Black Ward,$2.00 ,LEA,U,Alpha
+Blaze of Glory,$7.50 ,LEA,R,Alpha
+Blessing,$6.50 ,LEA,R,Alpha
+Blue Elemental Blast,$0.41 ,LEA,C,Alpha
+Blue Ward,$2.00 ,LEA,U,Alpha
+Bog Wraith,$3.50 ,LEA,U,Alpha
+Braingeyser,$8.00 ,LEA,R,Alpha
+Burrowing,$2.00 ,LEA,U,Alpha
+Camouflage,$1.25 ,LEA,U,Alpha
+Castle,$2.68 ,LEA,U,Alpha
+Celestial Prism,$3.00 ,LEA,U,Alpha
+Channel,$3.00 ,LEA,U,Alpha
+Chaos Orb,$10.00 ,LEA,R,Alpha
+Chaoslace,$5.00 ,LEA,R,Alpha
+Circle of Protection: Blue,$0.50 ,LEA,C,Alpha
+Circle of Protection: Green,$0.50 ,LEA,C,Alpha
+Circle of Protection: Red,$0.50 ,LEA,C,Alpha
+Circle of Protection: White,$0.50 ,LEA,C,Alpha
+Clockwork Beast,$8.50 ,LEA,R,Alpha
+Clone,$3.54 ,LEA,U,Alpha
+Cockatrice,$8.50 ,LEA,R,Alpha
+Consecrate Land,$4.00 ,LEA,U,Alpha
+Conservator,$2.00 ,LEA,U,Alpha
+Contract from Below,$5.00 ,LEA,R,Alpha
+Control Magic,$3.30 ,LEA,U,Alpha
+Conversion,$2.00 ,LEA,U,Alpha
+Copper Tablet,$2.00 ,LEA,U,Alpha
+Copy Artifact,$6.50 ,LEA,R,Alpha
+Counterspell,$3.00 ,LEA,U,Alpha
+Craw Wurm,$0.75 ,LEA,C,Alpha
+Creature Bond,$0.41 ,LEA,C,Alpha
+Crusade,$6.50 ,LEA,R,Alpha
+Crystal Rod,$2.00 ,LEA,U,Alpha
+Cursed Land,$1.50 ,LEA,U,Alpha
+Cyclopean Tomb,$12.50 ,LEA,R,Alpha
+Dark Ritual,$0.41 ,LEA,C,Alpha
+Darkpact,$5.50 ,LEA,R,Alpha
+Death Ward,$0.41 ,LEA,C,Alpha
+Deathgrip,$2.00 ,LEA,U,Alpha
+Deathlace,$5.00 ,LEA,R,Alpha
+Demonic Attorney,$6.25 ,LEA,R,Alpha
+Demonic Hordes,$8.65 ,LEA,R,Alpha
+Demonic Tutor,$4.13 ,LEA,U,Alpha
+Dingus Egg,$6.00 ,LEA,R,Alpha
+Disenchant,$0.90 ,LEA,C,Alpha
+Disintegrate,$0.83 ,LEA,C,Alpha
+Disrupting Scepter,$7.00 ,LEA,R,Alpha
+Dragon Whelp,$4.00 ,LEA,U,Alpha
+Drain Life,$0.41 ,LEA,C,Alpha
+Drain Power,$7.00 ,LEA,R,Alpha
+Drudge Skeletons,$0.41 ,LEA,C,Alpha
+Dwarven Demolition Team,$3.00 ,LEA,U,Alpha
+Dwarven Warriors,$0.41 ,LEA,C,Alpha
+Earth Elemental,$2.00 ,LEA,U,Alpha
+Earthbind,$0.40 ,LEA,C,Alpha
+Earthquake,$6.00 ,LEA,R,Alpha
+Elvish Archers,$8.75 ,LEA,R,Alpha
+Evil Presence,$1.50 ,LEA,U,Alpha
+False Orders,$0.60 ,LEA,C,Alpha
+Farmstead,$6.00 ,LEA,R,Alpha
+Fastbond,$5.50 ,LEA,R,Alpha
+Fear,$0.41 ,LEA,C,Alpha
+Feedback,$1.50 ,LEA,U,Alpha
+Fire Elemental,$2.00 ,LEA,U,Alpha
+Fireball,$0.83 ,LEA,C,Alpha
+Firebreathing,$0.41 ,LEA,C,Alpha
+Flashfires,$2.00 ,LEA,U,Alpha
+Flight,$0.41 ,LEA,C,Alpha
+Fog,$0.41 ,LEA,C,Alpha
+Force of Nature,$16.50 ,LEA,R,Alpha
+Forcefield,$9.00 ,LEA,R,Alpha
+Fork,$8.13 ,LEA,R,Alpha
+Frozen Shade,$0.41 ,LEA,C,Alpha
+Fungusaur,$9.50 ,LEA,R,Alpha
+Gaea's Liege,$15.00 ,LEA,R,Alpha
+Gauntlet of Might,$10.00 ,LEA,R,Alpha
+Giant Growth,$0.41 ,LEA,C,Alpha
+Giant Spider,$0.41 ,LEA,C,Alpha
+Glasses of Urza,$2.00 ,LEA,U,Alpha
+Gloom,$3.00 ,LEA,U,Alpha
+Goblin Balloon Brigade,$1.50 ,LEA,U,Alpha
+Goblin King,$8.50 ,LEA,R,Alpha
+Granite Gargoyle,$8.50 ,LEA,R,Alpha
+Gray Ogre,$0.41 ,LEA,C,Alpha
+Green Ward,$1.77 ,LEA,U,Alpha
+Grizzly Bears,$0.41 ,LEA,C,Alpha
+Guardian Angel,$0.41 ,LEA,C,Alpha
+Healing Salve,$0.41 ,LEA,C,Alpha
+Helm of Chatzuk,$5.50 ,LEA,R,Alpha
+Hill Giant,$0.41 ,LEA,C,Alpha
+Holy Armor,$0.41 ,LEA,C,Alpha
+Holy Strength,$0.41 ,LEA,C,Alpha
+Howl from Beyond,$0.40 ,LEA,C,Alpha
+Howling Mine,$8.00 ,LEA,R,Alpha
+Hurloon Minotaur,$0.41 ,LEA,C,Alpha
+Hurricane,$2.00 ,LEA,U,Alpha
+Hypnotic Specter,$4.13 ,LEA,U,Alpha
+Ice Storm,$1.75 ,LEA,U,Alpha
+Icy Manipulator,$7.00 ,LEA,U,Alpha
+Illusionary Mask,$6.75 ,LEA,R,Alpha
+Instill Energy,$6.75 ,LEA,U,Alpha
+Invisibility,$2.00 ,LEA,C,Alpha
+Iron Star,$0.70 ,LEA,U,Alpha
+Ironroot Treefolk,$2.00 ,LEA,C,Alpha
+Ironclaw Orcs,$0.40 ,LEA,C,Alpha
+Island Sanctuary,$6.00 ,LEA,R,Alpha
+Ivory Cup,$0.41 ,LEA,U,Alpha
+Jade Monolith,$5.50 ,LEA,R,Alpha
+Jade Statue,$4.00 ,LEA,U,Alpha
+Jayemdae Tome,$6.00 ,LEA,R,Alpha
+Juggernaut,$3.00 ,LEA,U,Alpha
+Jump,$0.40 ,LEA,C,Alpha
+Karma,$3.00 ,LEA,U,Alpha
+Keldon Warlord,$3.00 ,LEA,U,Alpha
+Kormus Bell,$6.50 ,LEA,R,Alpha
+Kudzu,$5.50 ,LEA,R,Alpha
+Lance,$2.00 ,LEA,U,Alpha
+Ley Druid,$1.89 ,LEA,U,Alpha
+Library of Leng,$2.00 ,LEA,U,Alpha
+Lich,$8.75 ,LEA,R,Alpha
+Lifeforce,$2.18 ,LEA,U,Alpha
+Lifelace,$5.00 ,LEA,R,Alpha
+Lifetap,$2.00 ,LEA,U,Alpha
+Lightning Bolt,$0.83 ,LEA,C,Alpha
+Living Artifact,$6.50 ,LEA,R,Alpha
+Living Lands,$6.00 ,LEA,R,Alpha
+Living Wall,$2.00 ,LEA,U,Alpha
+Llanowar Elves,$0.41 ,LEA,C,Alpha
+Lord of Atlantis,$7.50 ,LEA,R,Alpha
+Lord of the Pit,$10.50 ,LEA,R,Alpha
+Lure,$2.00 ,LEA,U,Alpha
+Magical Hack,$7.00 ,LEA,R,Alpha
+Mahamoti Djinn,$9.50 ,LEA,R,Alpha
+Mana Flare,$6.50 ,LEA,R,Alpha
+Mana Short,$8.00 ,LEA,R,Alpha
+Mana Vault,$5.50 ,LEA,R,Alpha
+Manabarbs,$5.50 ,LEA,R,Alpha
+Meekstone,$5.50 ,LEA,R,Alpha
+Merfolk of the Pearl Trident,$0.41 ,LEA,C,Alpha
+Mesa Pegasus,$0.41 ,LEA,C,Alpha
+Mind Twist,$7.00 ,LEA,R,Alpha
+Mons's Goblin Raiders,$0.41 ,LEA,C,Alpha
+Mox Emerald,$12.50 ,LEA,R,Alpha
+Mox Jet,$12.50 ,LEA,R,Alpha
+Mox Pearl,$15.00 ,LEA,R,Alpha
+Mox Ruby,$15.00 ,LEA,R,Alpha
+Mox Sapphire,$15.00 ,LEA,R,Alpha
+Natural Selection,$7.25 ,LEA,R,Alpha
+Nether Shadow,$5.50 ,LEA,R,Alpha
+Nettling Imp,$2.00 ,LEA,U,Alpha
+Nevinyrral's Disk,$6.50 ,LEA,R,Alpha
+Nightmare,$15.00 ,LEA,R,Alpha
+Northern Paladin,$15.00 ,LEA,R,Alpha
+Obsianus Golem,$3.00 ,LEA,U,Alpha
+Orcish Artillery,$1.64 ,LEA,U,Alpha
+Orcish Oriflamme,$3.00 ,LEA,U,Alpha
+Paralyze,$0.41 ,LEA,C,Alpha
+Pearled Unicorn,$0.41 ,LEA,C,Alpha
+Personal Incarnation,$10.50 ,LEA,R,Alpha
+Pestilence,$0.41 ,LEA,C,Alpha
+Phantasmal Forces,$2.18 ,LEA,U,Alpha
+Phantasmal Terrain,$0.41 ,LEA,C,Alpha
+Phantom Monster,$2.00 ,LEA,U,Alpha
+Pirate Ship,$7.50 ,LEA,R,Alpha
+Plague Rats,$0.75 ,LEA,C,Alpha
+Plateau,$7.00 ,LEA,R,Alpha
+Power Leak,$0.41 ,LEA,C,Alpha
+Power Sink,$0.50 ,LEA,C,Alpha
+Power Surge,$5.00 ,LEA,R,Alpha
+Prodigal Sorcerer,$0.80 ,LEA,C,Alpha
+Psionic Blast,$2.00 ,LEA,U,Alpha
+Psychic Venom,$0.50 ,LEA,C,Alpha
+Purelace,$5.00 ,LEA,R,Alpha
+Raging River,$8.50 ,LEA,R,Alpha
+Raise Dead,$0.30 ,LEA,C,Alpha
+Red Elemental Blast,$0.41 ,LEA,C,Alpha
+Red Ward,$2.00 ,LEA,U,Alpha
+Regeneration,$0.30 ,LEA,C,Alpha
+Regrowth,$2.65 ,LEA,U,Alpha
+Resurrection,$2.00 ,LEA,U,Alpha
+Reverse Damage,$7.00 ,LEA,R,Alpha
+Righteousness,$7.25 ,LEA,R,Alpha
+Roc of Kher Ridges,$7.00 ,LEA,R,Alpha
+Rock Hydra,$13.50 ,LEA,R,Alpha
+Rod of Ruin,$2.00 ,LEA,U,Alpha
+Royal Assassin,$14.00 ,LEA,R,Alpha
+Sacrifice,$2.00 ,LEA,U,Alpha
+Samite Healer,$0.41 ,LEA,C,Alpha
+Savannah,$6.50 ,LEA,R,Alpha
+Savannah Lions,$5.50 ,LEA,R,Alpha
+Scathe Zombies,$0.41 ,LEA,C,Alpha
+Scavenging Ghoul,$2.00 ,LEA,U,Alpha
+Scrubland,$7.00 ,LEA,R,Alpha
+Scryb Sprites,$0.40 ,LEA,C,Alpha
+Sea Serpent,$0.50 ,LEA,C,Alpha
+Sedge Troll,$5.50 ,LEA,R,Alpha
+Sengir Vampire,$5.00 ,LEA,U,Alpha
+Serra Angel,$7.00 ,LEA,U,Alpha
+Shanodin Dryads,$0.50 ,LEA,C,Alpha
+Shatter,$0.50 ,LEA,C,Alpha
+Shivan Dragon,$22.00 ,LEA,R,Alpha
+Simulacrum,$1.50 ,LEA,U,Alpha
+Sinkhole,$0.83 ,LEA,C,Alpha
+Siren's Call,$2.00 ,LEA,U,Alpha
+Sleight of Mind,$6.00 ,LEA,R,Alpha
+Smoke,$6.00 ,LEA,R,Alpha
+Sol Ring,$4.00 ,LEA,U,Alpha
+Soul Net,$2.00 ,LEA,U,Alpha
+Spell Blast,$0.41 ,LEA,C,Alpha
+Stasis,$2.00 ,LEA,R,Alpha
+Steal Artifact,$2.00 ,LEA,U,Alpha
+Stone Giant,$2.00 ,LEA,U,Alpha
+Stone Rain,$0.50 ,LEA,C,Alpha
+Stream of Life,$0.41 ,LEA,C,Alpha
+Sunglasses of Urza,$7.00 ,LEA,R,Alpha
+Swords to Plowshares,$3.00 ,LEA,U,Alpha
+Taiga,$7.50 ,LEA,R,Alpha
+Terror,$0.41 ,LEA,C,Alpha
+The Hive,$8.00 ,LEA,R,Alpha
+Thicket Basilisk,$4.00 ,LEA,U,Alpha
+Thoughtlace,$5.00 ,LEA,R,Alpha
+Throne of Bone,$2.00 ,LEA,U,Alpha
+Timber Wolves,$7.00 ,LEA,R,Alpha
+Time Vault,$8.25 ,LEA,R,Alpha
+Time Walk,$11.00 ,LEA,R,Alpha
+Timetwister,$10.50 ,LEA,R,Alpha
+Tranquility,$0.41 ,LEA,C,Alpha
+Tropical Island,$7.13 ,LEA,R,Alpha
+Tsunami,$2.00 ,LEA,U,Alpha
+Tundra,$6.50 ,LEA,R,Alpha
+Tunnel,$2.00 ,LEA,U,Alpha
+Twiddle,$1.10 ,LEA,C,Alpha
+Two-Headed Giant of Foriys,$10.00 ,LEA,R,Alpha
+Underground Sea,$7.50 ,LEA,R,Alpha
+Unholy Strength,$0.41 ,LEA,C,Alpha
+Unsummon,$0.41 ,LEA,C,Alpha
+Uthden Troll,$3.00 ,LEA,U,Alpha
+Verduran Enchantress,$8.00 ,LEA,R,Alpha
+Vesuvan Doppelganger,$12.00 ,LEA,R,Alpha
+Veteran Bodyguard,$10.50 ,LEA,R,Alpha
+Volcanic Eruption,$6.00 ,LEA,R,Alpha
+Wall of Air,$2.00 ,LEA,U,Alpha
+Wall of Bone,$2.00 ,LEA,U,Alpha
+Wall of Brambles,$2.00 ,LEA,U,Alpha
+Wall of Fire,$2.00 ,LEA,U,Alpha
+Wall of Ice,$2.00 ,LEA,U,Alpha
+Wall of Stone,$2.00 ,LEA,U,Alpha
+Wall of Swords,$4.00 ,LEA,U,Alpha
+Wall of Water,$2.00 ,LEA,U,Alpha
+Wall of Wood,$0.41 ,LEA,C,Alpha
+Wanderlust,$2.00 ,LEA,U,Alpha
+War Mammoth,$0.41 ,LEA,C,Alpha
+Warp Artifact,$5.00 ,LEA,R,Alpha
+Water Elemental,$2.00 ,LEA,U,Alpha
+Weakness,$0.40 ,LEA,C,Alpha
+Web,$5.50 ,LEA,R,Alpha
+Wheel of Fortune,$6.00 ,LEA,R,Alpha
+White Knight,$4.00 ,LEA,U,Alpha
+White Ward,$2.00 ,LEA,U,Alpha
+Wild Growth,$0.41 ,LEA,C,Alpha
+Will-o'-the-Wisp,$7.50 ,LEA,R,Alpha
+Winter Orb,$6.00 ,LEA,R,Alpha
+Wooden Sphere,$2.00 ,LEA,U,Alpha
+Word of Command,$10.00 ,LEA,R,Alpha
+Wrath of God,$9.00 ,LEA,R,Alpha
+Zombie Master,$9.00 ,LEA,R,Alpha
+Air Elemental,$2.00 ,LEB,U,Beta
+Ancestral Recall,$7.75 ,LEB,R,Beta
+Animate Artifact,$1.50 ,LEB,U,Beta
+Animate Dead,$1.50 ,LEB,U,Beta
+Animate Wall,$5.00 ,LEB,R,Beta
+Ankh of Mishra,$4.75 ,LEB,R,Beta
+Armageddon,$7.50 ,LEB,R,Beta
+Aspect of Wolf,$6.50 ,LEB,R,Beta
+Bad Moon,$6.75 ,LEB,R,Beta
+Badlands,$6.50 ,LEB,R,Beta
+Balance,$5.50 ,LEB,R,Beta
+Basalt Monolith,$1.50 ,LEB,U,Beta
+Bayou,$6.50 ,LEB,R,Beta
+Benalish Hero,$0.40 ,LEB,C,Beta
+Berserk,$2.00 ,LEB,U,Beta
+Birds of Paradise,$5.50 ,LEB,R,Beta
+Black Knight,$3.00 ,LEB,U,Beta
+Black Lotus,$15.00 ,LEB,R,Beta
+Black Vise,$2.50 ,LEB,U,Beta
+Black Ward,$1.50 ,LEB,U,Beta
+Blaze of Glory,$6.00 ,LEB,R,Beta
+Blessing,$5.50 ,LEB,R,Beta
+Blue Elemental Blast,$0.35 ,LEB,C,Beta
+Blue Ward,$1.00 ,LEB,U,Beta
+Bog Wraith,$2.50 ,LEB,U,Beta
+Braingeyser,$7.00 ,LEB,R,Beta
+Burrowing,$1.00 ,LEB,U,Beta
+Camouflage,$1.25 ,LEB,U,Beta
+Castle,$2.00 ,LEB,U,Beta
+Celestial Prism,$2.00 ,LEB,U,Beta
+Channel,$2.25 ,LEB,U,Beta
+Chaos Orb,$9.00 ,LEB,R,Beta
+Chaoslace,$3.88 ,LEB,R,Beta
+Circle of Protection: Black,$0.50 ,LEB,C,Beta
+Circle of Protection: Blue,$0.38 ,LEB,C,Beta
+Circle of Protection: Green,$0.38 ,LEB,C,Beta
+Circle of Protection: Red,$0.38 ,LEB,C,Beta
+Circle of Protection: White,$0.38 ,LEB,C,Beta
+Clockwork Beast,$8.25 ,LEB,R,Beta
+Clone,$3.00 ,LEB,U,Beta
+Cockatrice,$7.50 ,LEB,R,Beta
+Consecrate Land,$2.00 ,LEB,U,Beta
+Conservator,$2.00 ,LEB,U,Beta
+Contract from Below,$4.75 ,LEB,R,Beta
+Control Magic,$3.00 ,LEB,U,Beta
+Conversion,$1.50 ,LEB,U,Beta
+Copper Tablet,$1.00 ,LEB,U,Beta
+Copy Artifact,$5.50 ,LEB,R,Beta
+Counterspell,$3.00 ,LEB,U,Beta
+Craw Wurm,$0.70 ,LEB,C,Beta
+Creature Bond,$0.35 ,LEB,C,Beta
+Crusade,$6.50 ,LEB,R,Beta
+Crystal Rod,$1.50 ,LEB,U,Beta
+Cursed Land,$1.50 ,LEB,U,Beta
+Cyclopean Tomb,$9.00 ,LEB,R,Beta
+Dark Ritual,$0.50 ,LEB,C,Beta
+Darkpact,$4.50 ,LEB,R,Beta
+Death Ward,$0.35 ,LEB,C,Beta
+Deathgrip,$1.50 ,LEB,U,Beta
+Deathlace,$3.88 ,LEB,R,Beta
+Demonic Attorney,$4.63 ,LEB,R,Beta
+Demonic Hordes,$8.65 ,LEB,R,Beta
+Demonic Tutor,$3.50 ,LEB,U,Beta
+Dingus Egg,$6.00 ,LEB,R,Beta
+Disenchant,$0.90 ,LEB,C,Beta
+Disintegrate,$0.70 ,LEB,C,Beta
+Disrupting Scepter,$5.00 ,LEB,R,Beta
+Dragon Whelp,$3.00 ,LEB,U,Beta
+Drain Life,$0.38 ,LEB,C,Beta
+Drain Power,$5.75 ,LEB,R,Beta
+Drudge Skeletons,$0.38 ,LEB,C,Beta
+Dwarven Demolition Team,$1.50 ,LEB,U,Beta
+Dwarven Warriors,$0.38 ,LEB,C,Beta
+Earth Elemental,$1.50 ,LEB,U,Beta
+Earthbind,$0.35 ,LEB,C,Beta
+Earthquake,$5.50 ,LEB,R,Beta
+Elvish Archers,$6.75 ,LEB,R,Beta
+Evil Presence,$1.20 ,LEB,U,Beta
+False Orders,$0.60 ,LEB,C,Beta
+Farmstead,$5.00 ,LEB,R,Beta
+Fastbond,$4.75 ,LEB,R,Beta
+Fear,$0.35 ,LEB,C,Beta
+Feedback,$1.00 ,LEB,U,Beta
+Fire Elemental,$2.00 ,LEB,U,Beta
+Fireball,$0.53 ,LEB,C,Beta
+Firebreathing,$0.35 ,LEB,C,Beta
+Flashfires,$1.90 ,LEB,U,Beta
+Flight,$0.35 ,LEB,C,Beta
+Fog,$0.35 ,LEB,C,Beta
+Force of Nature,$12.00 ,LEB,R,Beta
+Forcefield,$7.30 ,LEB,R,Beta
+Fork,$8.35 ,LEB,R,Beta
+Frozen Shade,$0.38 ,LEB,C,Beta
+Fungusaur,$7.50 ,LEB,R,Beta
+Gaea's Liege,$10.00 ,LEB,R,Beta
+Gauntlet of Might,$12.00 ,LEB,R,Beta
+Giant Growth,$0.35 ,LEB,C,Beta
+Giant Spider,$0.38 ,LEB,C,Beta
+Glasses of Urza,$1.50 ,LEB,U,Beta
+Gloom,$3.00 ,LEB,U,Beta
+Goblin Balloon Brigade,$1.25 ,LEB,U,Beta
+Goblin King,$7.25 ,LEB,R,Beta
+Granite Gargoyle,$6.25 ,LEB,R,Beta
+Gray Ogre,$0.35 ,LEB,C,Beta
+Green Ward,$1.00 ,LEB,U,Beta
+Grizzly Bears,$0.35 ,LEB,C,Beta
+Guardian Angel,$0.35 ,LEB,C,Beta
+Healing Salve,$0.38 ,LEB,C,Beta
+Helm of Chatzuk,$4.75 ,LEB,R,Beta
+Hill Giant,$0.35 ,LEB,C,Beta
+Holy Armor,$0.35 ,LEB,C,Beta
+Holy Strength,$0.35 ,LEB,C,Beta
+Howl from Beyond,$0.35 ,LEB,C,Beta
+Howling Mine,$6.00 ,LEB,R,Beta
+Hurloon Minotaur,$0.35 ,LEB,C,Beta
+Hurricane,$1.50 ,LEB,U,Beta
+Hypnotic Specter,$3.00 ,LEB,U,Beta
+Ice Storm,$1.50 ,LEB,U,Beta
+Icy Manipulator,$4.50 ,LEB,U,Beta
+Illusionary Mask,$6.00 ,LEB,R,Beta
+Instill Energy,$1.75 ,LEB,U,Beta
+Invisibility,$0.45 ,LEB,C,Beta
+Iron Star,$1.50 ,LEB,U,Beta
+Ironroot Treefolk,$0.35 ,LEB,C,Beta
+Ironclaw Orcs,$0.35 ,LEB,C,Beta
+Island Sanctuary,$5.00 ,LEB,R,Beta
+Ivory Cup,$1.50 ,LEB,U,Beta
+Jade Monolith,$4.75 ,LEB,R,Beta
+Jade Statue,$3.00 ,LEB,U,Beta
+Jayemdae Tome,$5.50 ,LEB,R,Beta
+Juggernaut,$2.50 ,LEB,U,Beta
+Jump,$0.35 ,LEB,C,Beta
+Karma,$1.80 ,LEB,U,Beta
+Keldon Warlord,$3.00 ,LEB,U,Beta
+Kormus Bell,$5.50 ,LEB,R,Beta
+Kudzu,$4.25 ,LEB,R,Beta
+Lance,$1.50 ,LEB,U,Beta
+Ley Druid,$1.50 ,LEB,U,Beta
+Library of Leng,$1.50 ,LEB,U,Beta
+Lich,$7.75 ,LEB,R,Beta
+Lifeforce,$1.50 ,LEB,U,Beta
+Lifelace,$4.00 ,LEB,R,Beta
+Lifetap,$1.50 ,LEB,U,Beta
+Lightning Bolt,$0.70 ,LEB,C,Beta
+Living Artifact,$5.50 ,LEB,R,Beta
+Living Lands,$5.00 ,LEB,R,Beta
+Living Wall,$1.80 ,LEB,U,Beta
+Llanowar Elves,$0.35 ,LEB,C,Beta
+Lord of Atlantis,$6.50 ,LEB,R,Beta
+Lord of the Pit,$9.65 ,LEB,R,Beta
+Lure,$1.50 ,LEB,U,Beta
+Magical Hack,$5.50 ,LEB,R,Beta
+Mahamoti Djinn,$9.00 ,LEB,R,Beta
+Mana Flare,$6.00 ,LEB,R,Beta
+Mana Short,$6.00 ,LEB,R,Beta
+Mana Vault,$4.75 ,LEB,R,Beta
+Manabarbs,$5.50 ,LEB,R,Beta
+Meekstone,$5.00 ,LEB,R,Beta
+Merfolk of the Pearl Trident,$0.35 ,LEB,C,Beta
+Mesa Pegasus,$0.38 ,LEB,C,Beta
+Mind Twist,$6.65 ,LEB,R,Beta
+Mons's Goblin Raiders,$0.35 ,LEB,C,Beta
+Mox Emerald,$12.50 ,LEB,R,Beta
+Mox Jet,$12.50 ,LEB,R,Beta
+Mox Pearl,$15.00 ,LEB,R,Beta
+Mox Ruby,$15.00 ,LEB,R,Beta
+Mox Sapphire,$15.00 ,LEB,R,Beta
+Natural Selection,$7.00 ,LEB,R,Beta
+Nether Shadow,$5.50 ,LEB,R,Beta
+Nettling Imp,$1.80 ,LEB,U,Beta
+Nevinyrral's Disk,$6.50 ,LEB,R,Beta
+Nightmare,$15.00 ,LEB,R,Beta
+Northern Paladin,$12.00 ,LEB,R,Beta
+Obsianus Golem,$2.00 ,LEB,U,Beta
+Orcish Artillery,$1.25 ,LEB,U,Beta
+Orcish Oriflamme,$1.90 ,LEB,U,Beta
+Paralyze,$0.35 ,LEB,C,Beta
+Pearled Unicorn,$0.35 ,LEB,C,Beta
+Personal Incarnation,$9.00 ,LEB,R,Beta
+Pestilence,$0.35 ,LEB,C,Beta
+Phantasmal Forces,$1.50 ,LEB,U,Beta
+Phantasmal Terrain,$0.38 ,LEB,C,Beta
+Phantom Monster,$1.80 ,LEB,U,Beta
+Pirate Ship,$6.00 ,LEB,R,Beta
+Plague Rats,$0.50 ,LEB,C,Beta
+Plateau,$6.50 ,LEB,R,Beta
+Power Leak,$0.35 ,LEB,C,Beta
+Power Sink,$0.38 ,LEB,C,Beta
+Power Surge,$4.75 ,LEB,R,Beta
+Prodigal Sorcerer,$0.75 ,LEB,C,Beta
+Psionic Blast,$1.50 ,LEB,U,Beta
+Psychic Venom,$0.38 ,LEB,C,Beta
+Purelace,$3.88 ,LEB,R,Beta
+Raging River,$6.50 ,LEB,R,Beta
+Raise Dead,$0.30 ,LEB,C,Beta
+Red Elemental Blast,$0.35 ,LEB,C,Beta
+Red Ward,$1.13 ,LEB,U,Beta
+Regeneration,$0.30 ,LEB,C,Beta
+Regrowth,$2.25 ,LEB,U,Beta
+Resurrection,$1.50 ,LEB,U,Beta
+Reverse Damage,$7.00 ,LEB,R,Beta
+Righteousness,$6.50 ,LEB,R,Beta
+Roc of Kher Ridges,$6.00 ,LEB,R,Beta
+Rock Hydra,$9.88 ,LEB,R,Beta
+Rod of Ruin,$1.50 ,LEB,U,Beta
+Royal Assassin,$11.50 ,LEB,R,Beta
+Sacrifice,$1.00 ,LEB,U,Beta
+Samite Healer,$0.35 ,LEB,C,Beta
+Savannah,$6.00 ,LEB,R,Beta
+Savannah Lions,$4.75 ,LEB,R,Beta
+Scathe Zombies,$0.35 ,LEB,C,Beta
+Scavenging Ghoul,$1.75 ,LEB,U,Beta
+Scrubland,$6.50 ,LEB,R,Beta
+Scryb Sprites,$0.35 ,LEB,C,Beta
+Sea Serpent,$0.53 ,LEB,C,Beta
+Sedge Troll,$5.50 ,LEB,R,Beta
+Sengir Vampire,$5.00 ,LEB,U,Beta
+Serra Angel,$5.00 ,LEB,U,Beta
+Shanodin Dryads,$0.35 ,LEB,C,Beta
+Shatter,$0.35 ,LEB,C,Beta
+Shivan Dragon,$15.30 ,LEB,R,Beta
+Simulacrum,$1.50 ,LEB,U,Beta
+Sinkhole,$0.70 ,LEB,C,Beta
+Siren's Call,$1.25 ,LEB,U,Beta
+Sleight of Mind,$5.50 ,LEB,R,Beta
+Smoke,$4.75 ,LEB,R,Beta
+Sol Ring,$3.00 ,LEB,U,Beta
+Soul Net,$2.00 ,LEB,U,Beta
+Spell Blast,$0.35 ,LEB,C,Beta
+Stasis,$4.75 ,LEB,R,Beta
+Steal Artifact,$2.00 ,LEB,U,Beta
+Stone Giant,$1.50 ,LEB,U,Beta
+Stone Rain,$0.50 ,LEB,C,Beta
+Stream of Life,$0.38 ,LEB,C,Beta
+Sunglasses of Urza,$6.00 ,LEB,R,Beta
+Swords to Plowshares,$2.00 ,LEB,U,Beta
+Taiga,$7.00 ,LEB,R,Beta
+Terror,$0.50 ,LEB,C,Beta
+The Hive,$6.25 ,LEB,R,Beta
+Thicket Basilisk,$3.25 ,LEB,U,Beta
+Thoughtlace,$3.13 ,LEB,R,Beta
+Throne of Bone,$1.50 ,LEB,U,Beta
+Timber Wolves,$6.00 ,LEB,R,Beta
+Time Vault,$7.50 ,LEB,R,Beta
+Time Walk,$10.00 ,LEB,R,Beta
+Timetwister,$10.00 ,LEB,R,Beta
+Tranquility,$0.38 ,LEB,C,Beta
+Tropical Island,$6.50 ,LEB,R,Beta
+Tsunami,$1.65 ,LEB,U,Beta
+Tundra,$6.00 ,LEB,R,Beta
+Tunnel,$1.00 ,LEB,U,Beta
+Twiddle,$0.75 ,LEB,C,Beta
+Two-Headed Giant of Foriys,$8.25 ,LEB,R,Beta
+Underground Sea,$7.00 ,LEB,R,Beta
+Unholy Strength,$0.35 ,LEB,C,Beta
+Unsummon,$0.35 ,LEB,C,Beta
+Uthden Troll,$2.00 ,LEB,U,Beta
+Verduran Enchantress,$6.25 ,LEB,R,Beta
+Vesuvan Doppelganger,$12.00 ,LEB,R,Beta
+Veteran Bodyguard,$9.38 ,LEB,R,Beta
+Volcanic Eruption,$4.75 ,LEB,R,Beta
+Volcanic Island,$7.50 ,LEB,R,Beta
+Wall of Air,$1.50 ,LEB,U,Beta
+Wall of Bone,$1.75 ,LEB,U,Beta
+Wall of Brambles,$1.50 ,LEB,U,Beta
+Wall of Fire,$1.75 ,LEB,U,Beta
+Wall of Ice,$1.75 ,LEB,U,Beta
+Wall of Stone,$2.00 ,LEB,U,Beta
+Wall of Swords,$3.00 ,LEB,U,Beta
+Wall of Water,$2.00 ,LEB,U,Beta
+Wall of Wood,$0.35 ,LEB,C,Beta
+Wanderlust,$1.50 ,LEB,U,Beta
+War Mammoth,$0.35 ,LEB,C,Beta
+Warp Artifact,$4.00 ,LEB,R,Beta
+Water Elemental,$1.80 ,LEB,U,Beta
+Weakness,$0.35 ,LEB,C,Beta
+Web,$4.50 ,LEB,R,Beta
+Wheel of Fortune,$6.00 ,LEB,R,Beta
+White Knight,$3.00 ,LEB,U,Beta
+White Ward,$1.00 ,LEB,U,Beta
+Wild Growth,$0.35 ,LEB,C,Beta
+Will-o'-the-Wisp,$5.88 ,LEB,R,Beta
+Winter Orb,$5.00 ,LEB,R,Beta
+Wooden Sphere,$1.50 ,LEB,U,Beta
+Word of Command,$10.00 ,LEB,R,Beta
+Wrath of God,$7.00 ,LEB,R,Beta
+Zombie Master,$7.50 ,LEB,R,Beta
+Air Elemental,$1.75 ,2ED,U,Unlimited
+Ancestral Recall,$6.00 ,2ED,R,Unlimited
+Animate Artifact,$1.00 ,2ED,U,Unlimited
+Animate Dead,$1.10 ,2ED,U,Unlimited
+Animate Wall,$4.00 ,2ED,R,Unlimited
+Ankh of Mishra,$3.00 ,2ED,R,Unlimited
+Armageddon,$7.00 ,2ED,R,Unlimited
+Aspect of Wolf,$5.50 ,2ED,R,Unlimited
+Bad Moon,$7.00 ,2ED,R,Unlimited
+Badlands,$6.00 ,2ED,R,Unlimited
+Balance,$5.00 ,2ED,R,Unlimited
+Basalt Monolith,$1.00 ,2ED,U,Unlimited
+Bayou,$6.00 ,2ED,R,Unlimited
+Benalish Hero,$0.25 ,2ED,C,Unlimited
+Berserk,$1.50 ,2ED,U,Unlimited
+Birds of Paradise,$6.00 ,2ED,R,Unlimited
+Black Knight,$2.30 ,2ED,U,Unlimited
+Black Lotus,$12.30 ,2ED,R,Unlimited
+Black Vise,$2.00 ,2ED,U,Unlimited
+Black Ward,$1.00 ,2ED,U,Unlimited
+Blaze of Glory,$5.00 ,2ED,R,Unlimited
+Blessing,$5.00 ,2ED,R,Unlimited
+Blue Elemental Blast,$5.00 ,2ED,C,Unlimited
+Blue Ward,$0.25 ,2ED,U,Unlimited
+Bog Wraith,$2.00 ,2ED,U,Unlimited
+Braingeyser,$7.00 ,2ED,R,Unlimited
+Burrowing,$1.00 ,2ED,U,Unlimited
+Camouflage,$1.00 ,2ED,U,Unlimited
+Castle,$1.50 ,2ED,U,Unlimited
+Celestial Prism,$1.30 ,2ED,U,Unlimited
+Channel,$2.00 ,2ED,U,Unlimited
+Chaos Orb,$6.00 ,2ED,R,Unlimited
+Chaoslace,$3.00 ,2ED,R,Unlimited
+Circle of Protection: Black,$0.25 ,2ED,C,Unlimited
+Circle of Protection: Blue,$0.25 ,2ED,C,Unlimited
+Circle of Protection: Green,$0.25 ,2ED,C,Unlimited
+Circle of Protection: Red,$0.25 ,2ED,C,Unlimited
+Circle of Protection: White,$0.25 ,2ED,C,Unlimited
+Clockwork Beast,$7.00 ,2ED,R,Unlimited
+Clone,$2.00 ,2ED,U,Unlimited
+Cockatrice,$7.00 ,2ED,R,Unlimited
+Consecrate Land,$1.00 ,2ED,U,Unlimited
+Conservator,$1.10 ,2ED,U,Unlimited
+Contract from Below,$4.00 ,2ED,R,Unlimited
+Control Magic,$2.00 ,2ED,U,Unlimited
+Conversion,$1.10 ,2ED,U,Unlimited
+Copper Tablet,$0.50 ,2ED,U,Unlimited
+Copy Artifact,$5.00 ,2ED,R,Unlimited
+Counterspell,$2.00 ,2ED,U,Unlimited
+Craw Wurm,$0.50 ,2ED,C,Unlimited
+Creature Bond,$0.25 ,2ED,C,Unlimited
+Crusade,$6.00 ,2ED,R,Unlimited
+Crystal Rod,$1.00 ,2ED,U,Unlimited
+Cursed Land,$1.00 ,2ED,U,Unlimited
+Cyclopean Tomb,$6.00 ,2ED,R,Unlimited
+Dark Ritual,$0.25 ,2ED,C,Unlimited
+Darkpact,$4.00 ,2ED,R,Unlimited
+Death Ward,$0.25 ,2ED,C,Unlimited
+Deathgrip,$1.00 ,2ED,U,Unlimited
+Deathlace,$3.00 ,2ED,R,Unlimited
+Demonic Attorney,$4.00 ,2ED,R,Unlimited
+Demonic Hordes,$8.00 ,2ED,R,Unlimited
+Demonic Tutor,$3.00 ,2ED,U,Unlimited
+Dingus Egg,$4.00 ,2ED,R,Unlimited
+Disenchant,$0.25 ,2ED,C,Unlimited
+Disintegrate,$5.00 ,2ED,C,Unlimited
+Disrupting Scepter,$4.00 ,2ED,R,Unlimited
+Dragon Whelp,$3.00 ,2ED,U,Unlimited
+Drain Life,$0.25 ,2ED,C,Unlimited
+Drain Power,$5.00 ,2ED,R,Unlimited
+Drudge Skeletons,$0.25 ,2ED,C,Unlimited
+Dwarven Demolition Team,$1.25 ,2ED,U,Unlimited
+Dwarven Warriors,$0.25 ,2ED,C,Unlimited
+Earth Elemental,$1.00 ,2ED,U,Unlimited
+Earthbind,$0.25 ,2ED,C,Unlimited
+Earthquake,$5.00 ,2ED,R,Unlimited
+Elvish Archers,$5.00 ,2ED,R,Unlimited
+Evil Presence,$1.00 ,2ED,U,Unlimited
+False Orders,$0.25 ,2ED,C,Unlimited
+Farmstead,$5.00 ,2ED,R,Unlimited
+Fastbond,$4.00 ,2ED,R,Unlimited
+Fear,$0.25 ,2ED,C,Unlimited
+Feedback,$0.75 ,2ED,U,Unlimited
+Fire Elemental,$1.20 ,2ED,U,Unlimited
+Fireball,$0.50 ,2ED,C,Unlimited
+Firebreathing,$0.25 ,2ED,C,Unlimited
+Flashfires,$1.30 ,2ED,U,Unlimited
+Flight,$0.25 ,2ED,C,Unlimited
+Fog,$0.25 ,2ED,C,Unlimited
+Force of Nature,$10.00 ,2ED,R,Unlimited
+Forcefield,$7.00 ,2ED,R,Unlimited
+Fork,$7.00 ,2ED,R,Unlimited
+Frozen Shade,$0.25 ,2ED,C,Unlimited
+Fungusaur,$5.50 ,2ED,R,Unlimited
+Gaea's Liege,$8.00 ,2ED,R,Unlimited
+Gauntlet of Might,$7.30 ,2ED,R,Unlimited
+Giant Growth,$0.25 ,2ED,C,Unlimited
+Giant Spider,$0.25 ,2ED,C,Unlimited
+Glasses of Urza,$1.00 ,2ED,U,Unlimited
+Gloom,$2.00 ,2ED,U,Unlimited
+Goblin Balloon Brigade,$1.00 ,2ED,U,Unlimited
+Goblin King,$7.00 ,2ED,R,Unlimited
+Granite Gargoyle,$6.00 ,2ED,R,Unlimited
+Gray Ogre,$0.25 ,2ED,C,Unlimited
+Green Ward,$1.00 ,2ED,U,Unlimited
+Grizzly Bears,$0.25 ,2ED,C,Unlimited
+Guardian Angel,$0.25 ,2ED,C,Unlimited
+Healing Salve,$0.25 ,2ED,C,Unlimited
+Helm of Chatzuk,$4.50 ,2ED,R,Unlimited
+Hill Giant,$0.25 ,2ED,C,Unlimited
+Holy Armor,$0.25 ,2ED,C,Unlimited
+Holy Strength,$0.25 ,2ED,C,Unlimited
+Howl from Beyond,$0.25 ,2ED,C,Unlimited
+Howling Mine,$5.00 ,2ED,R,Unlimited
+Hurloon Minotaur,$0.25 ,2ED,C,Unlimited
+Hurricane,$1.00 ,2ED,U,Unlimited
+Hypnotic Specter,$3.00 ,2ED,U,Unlimited
+Ice Storm,$1.50 ,2ED,U,Unlimited
+Icy Manipulator,$3.00 ,2ED,U,Unlimited
+Illusionary Mask,$5.00 ,2ED,R,Unlimited
+Instill Energy,$2.00 ,2ED,U,Unlimited
+Invisibility,$0.25 ,2ED,C,Unlimited
+Iron Star,$1.00 ,2ED,U,Unlimited
+Ironroot Treefolk,$0.25 ,2ED,C,Unlimited
+Ironclaw Orcs,$0.25 ,2ED,C,Unlimited
+Island Sanctuary,$5.00 ,2ED,R,Unlimited
+Ivory Cup,$1.00 ,2ED,U,Unlimited
+Jade Monolith,$3.00 ,2ED,R,Unlimited
+Jade Statue,$2.30 ,2ED,U,Unlimited
+Jayemdae Tome,$4.50 ,2ED,R,Unlimited
+Juggernaut,$2.00 ,2ED,U,Unlimited
+Jump,$0.25 ,2ED,C,Unlimited
+Karma,$1.50 ,2ED,U,Unlimited
+Keldon Warlord,$1.80 ,2ED,U,Unlimited
+Kormus Bell,$5.00 ,2ED,R,Unlimited
+Kudzu,$4.00 ,2ED,R,Unlimited
+Lance,$1.00 ,2ED,U,Unlimited
+Ley Druid,$1.00 ,2ED,U,Unlimited
+Library of Leng,$1.50 ,2ED,U,Unlimited
+Lich,$6.00 ,2ED,R,Unlimited
+Lifeforce,$1.25 ,2ED,U,Unlimited
+Lifelace,$3.00 ,2ED,R,Unlimited
+Lifetap,$1.00 ,2ED,U,Unlimited
+Lightning Bolt,$0.50 ,2ED,C,Unlimited
+Living Artifact,$4.30 ,2ED,R,Unlimited
+Living Lands,$5.00 ,2ED,R,Unlimited
+Living Wall,$1.50 ,2ED,U,Unlimited
+Llanowar Elves,$0.25 ,2ED,C,Unlimited
+Lord of Atlantis,$6.00 ,2ED,R,Unlimited
+Lord of the Pit,$8.30 ,2ED,R,Unlimited
+Lure,$1.10 ,2ED,U,Unlimited
+Magical Hack,$5.00 ,2ED,R,Unlimited
+Mahamoti Djinn,$8.00 ,2ED,R,Unlimited
+Mana Flare,$5.00 ,2ED,R,Unlimited
+Mana Short,$5.00 ,2ED,R,Unlimited
+Mana Vault,$5.00 ,2ED,R,Unlimited
+Manabarbs,$4.00 ,2ED,R,Unlimited
+Meekstone,$5.00 ,2ED,R,Unlimited
+Merfolk of the Pearl Trident,$0.25 ,2ED,C,Unlimited
+Mesa Pegasus,$0.25 ,2ED,C,Unlimited
+Mind Twist,$6.00 ,2ED,R,Unlimited
+Mons's Goblin Raiders,$0.25 ,2ED,C,Unlimited
+Mox Emerald,$12.00 ,2ED,R,Unlimited
+Mox Jet,$12.30 ,2ED,R,Unlimited
+Mox Pearl,$12.00 ,2ED,R,Unlimited
+Mox Ruby,$12.30 ,2ED,R,Unlimited
+Mox Sapphire,$12.30 ,2ED,R,Unlimited
+Natural Selection,$4.50 ,2ED,R,Unlimited
+Nether Shadow,$4.00 ,2ED,R,Unlimited
+Nettling Imp,$1.50 ,2ED,U,Unlimited
+Nevinyrral's Disk,$6.00 ,2ED,R,Unlimited
+Nightmare,$11.00 ,2ED,R,Unlimited
+Northern Paladin,$8.00 ,2ED,R,Unlimited
+Obsianus Golem,$1.50 ,2ED,U,Unlimited
+Orcish Artillery,$1.00 ,2ED,U,Unlimited
+Orcish Oriflamme,$1.50 ,2ED,U,Unlimited
+Paralyze,$0.25 ,2ED,C,Unlimited
+Pearled Unicorn,$0.25 ,2ED,C,Unlimited
+Personal Incarnation,$8.00 ,2ED,R,Unlimited
+Pestilence,$0.25 ,2ED,C,Unlimited
+Phantasmal Forces,$1.00 ,2ED,U,Unlimited
+Phantasmal Terrain,$0.25 ,2ED,C,Unlimited
+Phantom Monster,$1.10 ,2ED,U,Unlimited
+Pirate Ship,$5.00 ,2ED,R,Unlimited
+Plague Rats,$0.50 ,2ED,C,Unlimited
+Plateau,$6.00 ,2ED,R,Unlimited
+Power Leak,$0.25 ,2ED,C,Unlimited
+Power Sink,$0.25 ,2ED,C,Unlimited
+Power Surge,$4.00 ,2ED,R,Unlimited
+Prodigal Sorcerer,$0.50 ,2ED,C,Unlimited
+Psionic Blast,$1.00 ,2ED,U,Unlimited
+Psychic Venom,$0.25 ,2ED,C,Unlimited
+Purelace,$3.00 ,2ED,R,Unlimited
+Raging River,$5.30 ,2ED,R,Unlimited
+Raise Dead,$0.25 ,2ED,C,Unlimited
+Red Elemental Blast,$0.25 ,2ED,C,Unlimited
+Red Ward,$1.00 ,2ED,U,Unlimited
+Regeneration,$0.25 ,2ED,C,Unlimited
+Regrowth,$1.50 ,2ED,U,Unlimited
+Resurrection,$1.00 ,2ED,U,Unlimited
+Reverse Damage,$6.00 ,2ED,R,Unlimited
+Righteousness,$4.00 ,2ED,R,Unlimited
+Roc of Kher Ridges,$4.00 ,2ED,R,Unlimited
+Rock Hydra,$8.00 ,2ED,R,Unlimited
+Rod of Ruin,$1.00 ,2ED,U,Unlimited
+Royal Assassin,$8.00 ,2ED,R,Unlimited
+Sacrifice,$1.00 ,2ED,U,Unlimited
+Samite Healer,$0.25 ,2ED,C,Unlimited
+Savannah,$5.00 ,2ED,R,Unlimited
+Savannah Lions,$4.00 ,2ED,R,Unlimited
+Scathe Zombies,$0.25 ,2ED,C,Unlimited
+Scavenging Ghoul,$1.00 ,2ED,U,Unlimited
+Scrubland,$6.00 ,2ED,R,Unlimited
+Scryb Sprites,$0.25 ,2ED,C,Unlimited
+Sea Serpent,$0.25 ,2ED,C,Unlimited
+Sedge Troll,$5.00 ,2ED,R,Unlimited
+Sengir Vampire,$4.00 ,2ED,U,Unlimited
+Serra Angel,$4.00 ,2ED,U,Unlimited
+Shanodin Dryads,$0.25 ,2ED,C,Unlimited
+Shatter,$0.25 ,2ED,C,Unlimited
+Shivan Dragon,$13.00 ,2ED,R,Unlimited
+Simulacrum,$1.00 ,2ED,U,Unlimited
+Sinkhole,$0.25 ,2ED,C,Unlimited
+Siren's Call,$1.00 ,2ED,U,Unlimited
+Sleight of Mind,$5.00 ,2ED,R,Unlimited
+Smoke,$4.00 ,2ED,R,Unlimited
+Sol Ring,$3.00 ,2ED,U,Unlimited
+Soul Net,$1.30 ,2ED,U,Unlimited
+Spell Blast,$0.25 ,2ED,C,Unlimited
+Stasis,$4.00 ,2ED,R,Unlimited
+Steal Artifact,$1.80 ,2ED,U,Unlimited
+Stone Giant,$1.00 ,2ED,U,Unlimited
+Stone Rain,$0.25 ,2ED,C,Unlimited
+Stream of Life,$0.25 ,2ED,C,Unlimited
+Sunglasses of Urza,$6.00 ,2ED,R,Unlimited
+Swords to Plowshares,$1.50 ,2ED,U,Unlimited
+Taiga,$7.00 ,2ED,R,Unlimited
+Terror,$0.25 ,2ED,C,Unlimited
+The Hive,$5.75 ,2ED,R,Unlimited
+Thicket Basilisk,$2.50 ,2ED,U,Unlimited
+Thoughtlace,$3.00 ,2ED,R,Unlimited
+Throne of Bone,$1.50 ,2ED,U,Unlimited
+Timber Wolves,$5.00 ,2ED,R,Unlimited
+Time Vault,$6.00 ,2ED,R,Unlimited
+Time Walk,$7.00 ,2ED,R,Unlimited
+Timetwister,$7.00 ,2ED,R,Unlimited
+Tranquility,$0.25 ,2ED,C,Unlimited
+Tropical Island,$6.00 ,2ED,R,Unlimited
+Tsunami,$1.00 ,2ED,U,Unlimited
+Tundra,$5.00 ,2ED,R,Unlimited
+Tunnel,$1.00 ,2ED,U,Unlimited
+Twiddle,$0.25 ,2ED,C,Unlimited
+Two-Headed Giant of Foriys,$7.00 ,2ED,R,Unlimited
+Underground Sea,$7.00 ,2ED,R,Unlimited
+Unholy Strength,$0.25 ,2ED,C,Unlimited
+Unsummon,$0.25 ,2ED,C,Unlimited
+Uthden Troll,$1.50 ,2ED,U,Unlimited
+Verduran Enchantress,$6.00 ,2ED,R,Unlimited
+Vesuvan Doppelganger,$8.00 ,2ED,R,Unlimited
+Veteran Bodyguard,$7.30 ,2ED,R,Unlimited
+Volcanic Eruption,$6.00 ,2ED,R,Unlimited
+Volcanic Island,$7.00 ,2ED,R,Unlimited
+Wall of Air,$1.00 ,2ED,U,Unlimited
+Wall of Bone,$1.10 ,2ED,U,Unlimited
+Wall of Brambles,$1.00 ,2ED,U,Unlimited
+Wall of Fire,$1.00 ,2ED,U,Unlimited
+Wall of Ice,$1.00 ,2ED,U,Unlimited
+Wall of Stone,$1.10 ,2ED,U,Unlimited
+Wall of Swords,$2.25 ,2ED,U,Unlimited
+Wall of Water,$1.00 ,2ED,U,Unlimited
+Wall of Wood,$0.25 ,2ED,C,Unlimited
+Wanderlust,$1.00 ,2ED,U,Unlimited
+War Mammoth,$0.25 ,2ED,C,Unlimited
+Warp Artifact,$3.50 ,2ED,R,Unlimited
+Water Elemental,$1.10 ,2ED,U,Unlimited
+Weakness,$0.25 ,2ED,C,Unlimited
+Web,$4.00 ,2ED,R,Unlimited
+Wheel of Fortune,$6.00 ,2ED,R,Unlimited
+White Knight,$2.50 ,2ED,U,Unlimited
+White Ward,$1.00 ,2ED,U,Unlimited
+Wild Growth,$0.25 ,2ED,C,Unlimited
+Will-o'-the-Wisp,$6.00 ,2ED,R,Unlimited
+Winter Orb,$5.00 ,2ED,R,Unlimited
+Wooden Sphere,$1.00 ,2ED,U,Unlimited
+Word of Command,$6.00 ,2ED,R,Unlimited
+Wrath of God,$7.00 ,2ED,R,Unlimited
+Zombie Master,$7.00 ,2ED,R,Unlimited
+Air Elemental,$1.50 ,3ED,U,Revised
+Aladdin's Lamp,$5.00 ,3ED,R,Revised
+Aladdin's Ring,$5.00 ,3ED,R,Revised
+Animate Artifact,$1.00 ,3ED,U,Revised
+Animate Dead,$1.00 ,3ED,U,Revised
+Animate Wall,$4.00 ,3ED,R,Revised
+Ankh of Mishra,$3.00 ,3ED,R,Revised
+Armageddon,$5.00 ,3ED,R,Revised
+Armageddon Clock,$5.00 ,3ED,R,Revised
+Aspect of Wolf,$6.00 ,3ED,R,Revised
+Atog,$0.35 ,3ED,C,Revised
+Bad Moon,$6.00 ,3ED,R,Revised
+Badlands,$5.00 ,3ED,R,Revised
+Balance,$5.00 ,3ED,R,Revised
+Basalt Monolith,$1.00 ,3ED,U,Revised
+Bayou,$6.00 ,3ED,R,Revised
+Benalish Hero,$0.35 ,3ED,C,Revised
+Birds of Paradise,$5.00 ,3ED,R,Revised
+Black Knight,$2.50 ,3ED,U,Revised
+Black Vise,$2.00 ,3ED,U,Revised
+Black Ward,$1.00 ,3ED,U,Revised
+Blessing,$5.00 ,3ED,R,Revised
+Blue Elemental Blast,$0.25 ,3ED,C,Revised
+Blue Ward,$1.00 ,3ED,U,Revised
+Bog Wraith,$2.00 ,3ED,U,Revised
+Bottle of Suleiman,$4.00 ,3ED,R,Revised
+Braingeyser,$5.00 ,3ED,R,Revised
+Brass Man,$1.00 ,3ED,U,Revised
+Burrowing,$1.00 ,3ED,U,Revised
+Castle,$1.20 ,3ED,U,Revised
+Celestial Prism,$1.50 ,3ED,U,Revised
+Channel,$1.50 ,3ED,U,Revised
+Chaoslace,$3.00 ,3ED,R,Revised
+Circle of Protection: Black,$0.25 ,3ED,C,Revised
+Circle of Protection: Blue,$0.25 ,3ED,C,Revised
+Circle of Protection: Green,$0.25 ,3ED,C,Revised
+Circle of Protection: Red,$0.25 ,3ED,C,Revised
+Circle of Protection: White,$0.25 ,3ED,C,Revised
+Clockwork Beast,$6.00 ,3ED,R,Revised
+Clone,$2.00 ,3ED,U,Revised
+Cockatrice,$5.00 ,3ED,R,Revised
+Conservator,$1.00 ,3ED,U,Revised
+Contract from Below,$4.00 ,3ED,R,Revised
+Control Magic,$1.50 ,3ED,U,Revised
+Conversion,$1.00 ,3ED,U,Revised
+Copy Artifact,$5.00 ,3ED,R,Revised
+Counterspell,$2.00 ,3ED,U,Revised
+Craw Wurm,$0.50 ,3ED,C,Revised
+Creature Bond,$0.25 ,3ED,C,Revised
+Crumble,$0.50 ,3ED,U,Revised
+Crusade,$6.00 ,3ED,R,Revised
+Crystal Rod,$1.00 ,3ED,U,Revised
+Cursed Land,$1.00 ,3ED,U,Revised
+Dancing Scimitar,$4.00 ,3ED,R,Revised
+Dark Ritual,$0.35 ,3ED,C,Revised
+Darkpact,$3.00 ,3ED,R,Revised
+Death Ward,$0.25 ,3ED,C,Revised
+Deathgrip,$1.00 ,3ED,U,Revised
+Deathlace,$3.00 ,3ED,R,Revised
+Demonic Attorney,$3.00 ,3ED,R,Revised
+Demonic Hordes,$6.00 ,3ED,R,Revised
+Demonic Tutor,$2.00 ,3ED,U,Revised
+Desert Twister,$3.00 ,3ED,U,Revised
+Dingus Egg,$3.50 ,3ED,R,Revised
+Disenchant,$0.50 ,3ED,C,Revised
+Disintegrate,$0.50 ,3ED,C,Revised
+Disrupting Scepter,$4.00 ,3ED,R,Revised
+Dragon Engine,$2.50 ,3ED,R,Revised
+Dragon Whelp,$2.00 ,3ED,U,Revised
+Drain Life,$0.25 ,3ED,C,Revised
+Drain Power,$5.00 ,3ED,R,Revised
+Drudge Skeletons,$0.25 ,3ED,C,Revised
+Dwarven Warriors,$0.25 ,3ED,C,Revised
+Dwarven Weaponsmith,$1.00 ,3ED,U,Revised
+Earth Elemental,$1.00 ,3ED,U,Revised
+Earthbind,$0.25 ,3ED,C,Revised
+Earthquake,$4.00 ,3ED,R,Revised
+Ebony Horse,$5.00 ,3ED,R,Revised
+El-Hajjâj,$4.00 ,3ED,R,Revised
+Elvish Archers,$5.00 ,3ED,R,Revised
+Energy Flux,$1.00 ,3ED,U,Revised
+Erg Raiders,$0.35 ,3ED,C,Revised
+Evil Presence,$1.00 ,3ED,U,Revised
+Eye for an Eye,$4.00 ,3ED,R,Revised
+Farmstead,$5.00 ,3ED,R,Revised
+Fastbond,$4.00 ,3ED,R,Revised
+Fear,$0.25 ,3ED,C,Revised
+Feedback,$1.00 ,3ED,U,Revised
+Fire Elemental,$1.00 ,3ED,U,Revised
+Fireball,$0.50 ,3ED,C,Revised
+Firebreathing,$0.25 ,3ED,C,Revised
+Flashfires,$1.20 ,3ED,U,Revised
+Flight,$0.25 ,3ED,C,Revised
+Flying Carpet,$4.00 ,3ED,R,Revised
+Fog,$0.25 ,3ED,C,Revised
+Force of Nature,$10.00 ,3ED,R,Revised
+Fork,$8.00 ,3ED,R,Revised
+Frozen Shade,$0.25 ,3ED,C,Revised
+Fungusaur,$5.00 ,3ED,R,Revised
+Gaea's Liege,$6.00 ,3ED,R,Revised
+Giant Growth,$0.25 ,3ED,C,Revised
+Giant Spider,$0.25 ,3ED,C,Revised
+Glasses of Urza,$1.00 ,3ED,U,Revised
+Gloom,$2.00 ,3ED,U,Revised
+Goblin Balloon Brigade,$1.00 ,3ED,U,Revised
+Goblin King,$6.00 ,3ED,R,Revised
+Granite Gargoyle,$7.00 ,3ED,R,Revised
+Gray Ogre,$0.35 ,3ED,C,Revised
+Green Ward,$1.00 ,3ED,U,Revised
+Grizzly Bears,$0.25 ,3ED,C,Revised
+Guardian Angel,$0.25 ,3ED,C,Revised
+Healing Salve,$0.25 ,3ED,C,Revised
+Helm of Chatzuk,$4.00 ,3ED,R,Revised
+Hill Giant,$0.35 ,3ED,C,Revised
+Holy Armor,$0.25 ,3ED,C,Revised
+Holy Strength,$0.25 ,3ED,C,Revised
+Howl from Beyond,$0.35 ,3ED,C,Revised
+Howling Mine,$4.00 ,3ED,R,Revised
+Hurkyl's Recall,$5.00 ,3ED,R,Revised
+Hurloon Minotaur,$0.35 ,3ED,C,Revised
+Hurricane,$1.20 ,3ED,U,Revised
+Hypnotic Specter,$2.50 ,3ED,U,Revised
+Instill Energy,$1.50 ,3ED,U,Revised
+Iron Star,$1.00 ,3ED,U,Revised
+Ironroot Treefolk,$0.25 ,3ED,C,Revised
+Island Fish Jasconius,$5.00 ,3ED,R,Revised
+Island Sanctuary,$4.00 ,3ED,R,Revised
+Ivory Cup,$1.00 ,3ED,U,Revised
+Ivory Tower,$3.50 ,3ED,R,Revised
+Jade Monolith,$3.00 ,3ED,R,Revised
+Jandor's Ring,$3.00 ,3ED,R,Revised
+Jandor's Saddlebags,$3.00 ,3ED,R,Revised
+Jayemdae Tome,$4.00 ,3ED,R,Revised
+Juggernaut,$2.00 ,3ED,U,Revised
+Jump,$0.25 ,3ED,C,Revised
+Karma,$2.00 ,3ED,U,Revised
+Keldon Warlord,$2.00 ,3ED,U,Revised
+Kird Ape,$0.55 ,3ED,C,Revised
+Kormus Bell,$5.00 ,3ED,R,Revised
+Kudzu,$3.00 ,3ED,R,Revised
+Lance,$1.00 ,3ED,U,Revised
+Ley Druid,$1.00 ,3ED,U,Revised
+Library of Leng,$1.00 ,3ED,U,Revised
+Lifeforce,$1.00 ,3ED,U,Revised
+Lifelace,$3.00 ,3ED,R,Revised
+Lifetap,$1.00 ,3ED,U,Revised
+Lightning Bolt,$0.50 ,3ED,C,Revised
+Living Artifact,$4.00 ,3ED,R,Revised
+Living Lands,$5.00 ,3ED,R,Revised
+Living Wall,$1.50 ,3ED,U,Revised
+Llanowar Elves,$0.25 ,3ED,C,Revised
+Lord of Atlantis,$6.00 ,3ED,R,Revised
+Lord of the Pit,$10.00 ,3ED,R,Revised
+Lure,$1.50 ,3ED,U,Revised
+Magical Hack,$6.00 ,3ED,R,Revised
+Magnetic Mountain,$4.00 ,3ED,R,Revised
+Mahamoti Djinn,$8.00 ,3ED,R,Revised
+Mana Flare,$5.00 ,3ED,R,Revised
+Mana Short,$4.00 ,3ED,R,Revised
+Mana Vault,$3.00 ,3ED,R,Revised
+Manabarbs,$4.00 ,3ED,R,Revised
+Meekstone,$5.00 ,3ED,R,Revised
+Merfolk of the Pearl Trident,$0.35 ,3ED,C,Revised
+Mesa Pegasus,$0.25 ,3ED,C,Revised
+Mijae Djinn,$5.00 ,3ED,R,Revised
+Millstone,$3.00 ,3ED,R,Revised
+Mind Twist,$6.00 ,3ED,R,Revised
+Mishra's War Machine,$5.00 ,3ED,R,Revised
+Mons's Goblin Raiders,$0.35 ,3ED,C,Revised
+Nether Shadow,$4.00 ,3ED,R,Revised
+Nettling Imp,$1.50 ,3ED,U,Revised
+Nevinyrral's Disk,$6.00 ,3ED,R,Revised
+Nightmare,$10.00 ,3ED,R,Revised
+Northern Paladin,$9.00 ,3ED,R,Revised
+Obsianus Golem,$1.50 ,3ED,U,Revised
+Onulet,$2.00 ,3ED,R,Revised
+Orcish Artillery,$1.00 ,3ED,U,Revised
+Orcish Oriflamme,$2.00 ,3ED,U,Revised
+Ornithopter,$1.00 ,3ED,U,Revised
+Paralyze,$0.25 ,3ED,C,Revised
+Pearled Unicorn,$0.25 ,3ED,C,Revised
+Personal Incarnation,$8.00 ,3ED,R,Revised
+Pestilence,$0.25 ,3ED,C,Revised
+Phantasmal Forces,$1.00 ,3ED,U,Revised
+Phantasmal Terrain,$0.25 ,3ED,C,Revised
+Phantom Monster,$1.00 ,3ED,U,Revised
+Pirate Ship,$4.00 ,3ED,R,Revised
+Plague Rats,$0.50 ,3ED,C,Revised
+Plateau,$6.00 ,3ED,R,Revised
+Power Leak,$0.25 ,3ED,C,Revised
+Power Sink,$0.25 ,3ED,C,Revised
+Power Surge,$4.00 ,3ED,R,Revised
+Primal Clay,$2.25 ,3ED,R,Revised
+Prodigal Sorcerer,$0.50 ,3ED,C,Revised
+Psychic Venom,$0.50 ,3ED,C,Revised
+Purelace,$3.00 ,3ED,R,Revised
+Raise Dead,$0.25 ,3ED,C,Revised
+Reconstruction,$0.30 ,3ED,C,Revised
+Red Elemental Blast,$0.25 ,3ED,C,Revised
+Red Ward,$1.00 ,3ED,U,Revised
+Regeneration,$0.25 ,3ED,C,Revised
+Regrowth,$1.50 ,3ED,U,Revised
+Resurrection,$1.00 ,3ED,U,Revised
+Reverse Damage,$7.00 ,3ED,R,Revised
+Reverse Polarity,$1.00 ,3ED,U,Revised
+Righteousness,$6.00 ,3ED,R,Revised
+Roc of Kher Ridges,$4.00 ,3ED,R,Revised
+Rock Hydra,$10.00 ,3ED,R,Revised
+Rocket Launcher,$4.00 ,3ED,R,Revised
+Rod of Ruin,$1.00 ,3ED,U,Revised
+Royal Assassin,$10.00 ,3ED,R,Revised
+Sacrifice,$1.00 ,3ED,U,Revised
+Samite Healer,$0.35 ,3ED,C,Revised
+Savannah,$6.00 ,3ED,R,Revised
+Savannah Lions,$3.00 ,3ED,R,Revised
+Scathe Zombies,$0.25 ,3ED,C,Revised
+Scavenging Ghoul,$1.20 ,3ED,U,Revised
+Scrubland,$6.00 ,3ED,R,Revised
+Scryb Sprites,$0.35 ,3ED,C,Revised
+Sea Serpent,$0.25 ,3ED,C,Revised
+Sedge Troll,$5.00 ,3ED,R,Revised
+Sengir Vampire,$3.00 ,3ED,U,Revised
+Serendib Efreet,$4.00 ,3ED,R,Revised
+Serra Angel,$4.00 ,3ED,U,Revised
+Shanodin Dryads,$0.35 ,3ED,C,Revised
+Shatter,$0.25 ,3ED,C,Revised
+Shatterstorm,$3.00 ,3ED,U,Revised
+Shivan Dragon,$10.00 ,3ED,R,Revised
+Simulacrum,$1.00 ,3ED,U,Revised
+Siren's Call,$1.00 ,3ED,U,Revised
+Sleight of Mind,$5.00 ,3ED,R,Revised
+Smoke,$4.00 ,3ED,R,Revised
+Sol Ring,$2.00 ,3ED,U,Revised
+Sorceress Queen,$5.00 ,3ED,R,Revised
+Soul Net,$1.00 ,3ED,U,Revised
+Spell Blast,$0.25 ,3ED,C,Revised
+Stasis,$3.50 ,3ED,R,Revised
+Steal Artifact,$1.50 ,3ED,U,Revised
+Stone Giant,$1.00 ,3ED,U,Revised
+Stone Rain,$0.50 ,3ED,C,Revised
+Stream of Life,$0.25 ,3ED,C,Revised
+Sunglasses of Urza,$6.00 ,3ED,R,Revised
+Swords to Plowshares,$1.50 ,3ED,U,Revised
+Taiga,$6.00 ,3ED,R,Revised
+Terror,$0.50 ,3ED,C,Revised
+The Hive,$5.00 ,3ED,R,Revised
+The Rack,$2.00 ,3ED,U,Revised
+Thicket Basilisk,$2.50 ,3ED,U,Revised
+Thoughtlace,$3.00 ,3ED,R,Revised
+Throne of Bone,$1.00 ,3ED,U,Revised
+Timber Wolves,$4.00 ,3ED,R,Revised
+Titania's Song,$2.50 ,3ED,R,Revised
+Tranquility,$0.25 ,3ED,C,Revised
+Tropical Island,$6.00 ,3ED,R,Revised
+Tsunami,$1.20 ,3ED,U,Revised
+Tundra,$6.00 ,3ED,R,Revised
+Tunnel,$1.00 ,3ED,U,Revised
+Underground Sea,$6.00 ,3ED,R,Revised
+Unholy Strength,$0.25 ,3ED,C,Revised
+Unstable Mutation,$0.43 ,3ED,C,Revised
+Unsummon,$0.25 ,3ED,C,Revised
+Uthden Troll,$1.50 ,3ED,U,Revised
+Verduran Enchantress,$4.00 ,3ED,R,Revised
+Vesuvan Doppelganger,$8.00 ,3ED,R,Revised
+Veteran Bodyguard,$8.00 ,3ED,R,Revised
+Volcanic Eruption,$6.00 ,3ED,R,Revised
+Volcanic Island,$7.00 ,3ED,R,Revised
+Wall of Air,$1.00 ,3ED,U,Revised
+Wall of Bone,$1.20 ,3ED,U,Revised
+Wall of Brambles,$1.00 ,3ED,U,Revised
+Wall of Fire,$1.00 ,3ED,U,Revised
+Wall of Ice,$1.00 ,3ED,U,Revised
+Wall of Stone,$1.00 ,3ED,U,Revised
+Wall of Swords,$2.00 ,3ED,U,Revised
+Wall of Water,$1.00 ,3ED,U,Revised
+Wall of Wood,$0.25 ,3ED,C,Revised
+Wanderlust,$1.00 ,3ED,U,Revised
+War Mammoth,$0.25 ,3ED,C,Revised
+Warp Artifact,$3.00 ,3ED,R,Revised
+Water Elemental,$1.20 ,3ED,U,Revised
+Weakness,$0.25 ,3ED,C,Revised
+Web,$3.00 ,3ED,R,Revised
+Wheel of Fortune,$6.00 ,3ED,R,Revised
+White Knight,$2.50 ,3ED,U,Revised
+White Ward,$1.00 ,3ED,U,Revised
+Wild Growth,$0.25 ,3ED,C,Revised
+Will-o'-the-Wisp,$7.00 ,3ED,R,Revised
+Winter Orb,$4.00 ,3ED,R,Revised
+Wooden Sphere,$1.00 ,3ED,U,Revised
+Wrath of God,$7.00 ,3ED,R,Revised
+Zombie Master,$7.00 ,3ED,R,Revised
+Abu Ja'far,$5.00 ,ARN,U3,Arabian Nights
+Aladdin,$4.00 ,ARN,U2,Arabian Nights
+Aladdin's Lamp,$5.00 ,ARN,U2,Arabian Nights
+Aladdin's Ring,$5.00 ,ARN,U2,Arabian Nights
+Ali Baba,$3.00 ,ARN,U3,Arabian Nights
+Ali from Cairo,$8.00 ,ARN,U2,Arabian Nights
+Army of Allah,$0.50 ,ARN,C4,Arabian Nights
+Bazaar of Baghdad,$3.00 ,ARN,U3,Arabian Nights
+Bird Maiden,$0.50 ,ARN,C4,Arabian Nights
+Bottle of Suleiman,$5.00 ,ARN,U2,Arabian Nights
+Brass Man,$2.00 ,ARN,U3,Arabian Nights
+Camel,$0.50 ,ARN,C5,Arabian Nights
+City in a Bottle,$5.00 ,ARN,U2,Arabian Nights
+City of Brass,$3.00 ,ARN,U3,Arabian Nights
+Cuombajj Witches,$0.50 ,ARN,C4,Arabian Nights
+Cyclone,$2.00 ,ARN,U3,Arabian Nights
+Dancing Scimitar,$5.00 ,ARN,U2,Arabian Nights
+Dandân,$0.50 ,ARN,C4,Arabian Nights
+Desert,$0.50 ,ARN,C11,Arabian Nights
+Desert Nomads,$0.50 ,ARN,C4,Arabian Nights
+Desert Twister,$4.00 ,ARN,U3,Arabian Nights
+Diamond Valley,$4.00 ,ARN,U2,Arabian Nights
+Drop of Honey,$5.00 ,ARN,U2,Arabian Nights
+Ebony Horse,$5.00 ,ARN,U2,Arabian Nights
+Elephant Graveyard,$5.00 ,ARN,U2,Arabian Nights
+El-Hajjâj,$5.00 ,ARN,U2,Arabian Nights
+Erg Raiders,$0.50 ,ARN,C5,Arabian Nights
+Erhnam Djinn,$5.00 ,ARN,U2,Arabian Nights
+Eye for an Eye,$15.00 ,ARN,U3,Arabian Nights
+Fishliver Oil,$0.50 ,ARN,C4,Arabian Nights
+Flying Carpet,$3.00 ,ARN,U3,Arabian Nights
+Flying Men,$0.50 ,ARN,C5,Arabian Nights
+Ghazbán Ogre,$0.50 ,ARN,C4,Arabian Nights
+Giant Tortoise,$0.50 ,ARN,C4,Arabian Nights
+Guardian Beast,$8.00 ,ARN,U2,Arabian Nights
+Hasran Ogress,$0.50 ,ARN,C5,Arabian Nights
+Hurr Jackal,$0.50 ,ARN,C4,Arabian Nights
+Ifh-Bíff Efreet,$5.00 ,ARN,U2,Arabian Nights
+Island Fish Jasconius,$5.00 ,ARN,U2,Arabian Nights
+Island of Wak-Wak,$5.00 ,ARN,U2,Arabian Nights
+Jandor's Ring,$4.00 ,ARN,U2,Arabian Nights
+Jandor's Saddlebags,$4.00 ,ARN,U2,Arabian Nights
+Jeweled Bird,$3.00 ,ARN,U3,Arabian Nights
+Jihad,$5.00 ,ARN,U2,Arabian Nights
+Junún Efreet,$3.00 ,ARN,U2,Arabian Nights
+Juzám Djinn,$5.00 ,ARN,U2,Arabian Nights
+Khabál Ghoul,$5.00 ,ARN,U3,Arabian Nights
+King Suleiman,$5.00 ,ARN,U2,Arabian Nights
+Kird Ape,$0.60 ,ARN,C5,Arabian Nights
+Library of Alexandria,$5.00 ,ARN,U3,Arabian Nights
+Magnetic Mountain,$4.00 ,ARN,U3,Arabian Nights
+Merchant Ship,$2.00 ,ARN,U3,Arabian Nights
+Metamorphosis,$0.50 ,ARN,C4,Arabian Nights
+Mijae Djinn,$5.00 ,ARN,U2,Arabian Nights
+Moorish Cavalry,$0.60 ,ARN,C5,Arabian Nights
+Nafs Asp,$0.50 ,ARN,C5,Arabian Nights
+Oasis,$2.00 ,ARN,U4,Arabian Nights
+Old Man of the Sea,$5.00 ,ARN,U2,Arabian Nights
+Oubliette,$0.90 ,ARN,C4,Arabian Nights
+Piety,$0.50 ,ARN,C4,Arabian Nights
+Pyramids,$5.00 ,ARN,U2,Arabian Nights
+Repentant Blacksmith,$5.00 ,ARN,U2,Arabian Nights
+Ring of Ma'rûf,$5.00 ,ARN,U2,Arabian Nights
+Rukh Egg,$1.00 ,ARN,C4,Arabian Nights
+Sandals of Abdallah,$3.00 ,ARN,U3,Arabian Nights
+Sandstorm,$0.50 ,ARN,C4,Arabian Nights
+Serendib Djinn,$5.00 ,ARN,U2,Arabian Nights
+Serendib Efreet,$5.00 ,ARN,U2,Arabian Nights
+Shahrazad,$5.00 ,ARN,U2,Arabian Nights
+Sindbad,$3.00 ,ARN,U3,Arabian Nights
+Singing Tree,$6.00 ,ARN,U2,Arabian Nights
+Sorceress Queen,$5.00 ,ARN,U3,Arabian Nights
+Stone-Throwing Devils,$0.50 ,ARN,C4,Arabian Nights
+Unstable Mutation,$0.50 ,ARN,C5,Arabian Nights
+War Elephant,$0.50 ,ARN,C4,Arabian Nights
+Wyluli Wolf,$0.50 ,ARN,C5,Arabian Nights
+Ydwen Efreet,$5.00 ,ARN,U2,Arabian Nights
+Amulet of Kroog,$0.50 ,ATQ,C4,Antiquities
+Argivian Archaeologist,$5.50 ,ATQ,U1,Antiquities
+Argivian Blacksmith,$0.50 ,ATQ,C4,Antiquities
+Argothian Pixies,$0.50 ,ATQ,C4,Antiquities
+Argothian Treefolk,$0.50 ,ATQ,C4,Antiquities
+Armageddon Clock,$4.00 ,ATQ,U2,Antiquities
+Artifact Blast,$0.50 ,ATQ,C4,Antiquities
+Artifact Possession,$0.50 ,ATQ,C4,Antiquities
+Artifact Ward,$0.63 ,ATQ,C4,Antiquities
+Ashnod's Altar,$3.50 ,ATQ,U2,Antiquities
+Ashnod's Battle Gear,$3.50 ,ATQ,U2,Antiquities
+Ashnod's Transmogrant,$3.00 ,ATQ,U3,Antiquities
+Atog,$0.50 ,ATQ,C4,Antiquities
+Battering Ram,$0.50 ,ATQ,C4,Antiquities
+Bronze Tablet,$6.75 ,ATQ,U1,Antiquities
+Candelabra of Tawnos,$5.00 ,ATQ,U1,Antiquities
+Circle of Protection: Artifacts,$3.50 ,ATQ,U3,Antiquities
+Citanul Druid,$3.00 ,ATQ,U3,Antiquities
+Clay Statue,$0.50 ,ATQ,C4,Antiquities
+Clockwork Avian,$6.00 ,ATQ,U1,Antiquities
+Colossus of Sardia,$7.75 ,ATQ,U1,Antiquities
+Coral Helm,$5.00 ,ATQ,U1,Antiquities
+Crumble,$0.50 ,ATQ,C4,Antiquities
+Cursed Rack,$3.00 ,ATQ,C1,Antiquities
+Damping Field,$3.00 ,ATQ,U3,Antiquities
+Detonate,$2.75 ,ATQ,U3,Antiquities
+Drafna's Restoration,$0.50 ,ATQ,C4,Antiquities
+Dragon Engine,$0.63 ,ATQ,C4,Antiquities
+Dwarven Weaponsmith,$2.50 ,ATQ,U3,Antiquities
+Energy Flux,$3.00 ,ATQ,U3,Antiquities
+Feldon's Cane,$3.00 ,ATQ,C1,Antiquities
+Gaea's Avenger,$7.00 ,ATQ,U1,Antiquities
+Gate to Phyrexia,$2.75 ,ATQ,U3,Antiquities
+Goblin Artisans,$1.63 ,ATQ,U3,Antiquities
+Golgothian Sylex,$6.00 ,ATQ,U1,Antiquities
+Grapeshot Catapult,$0.50 ,ATQ,C4,Antiquities
+Haunting Wind,$2.25 ,ATQ,U3,Antiquities
+Hurkyl's Recall,$6.50 ,ATQ,U1,Antiquities
+Ivory Tower,$4.50 ,ATQ,U3,Antiquities
+Jalum Tome,$3.25 ,ATQ,U2,Antiquities
+Martyrs of Korlis,$3.13 ,ATQ,U3,Antiquities
+Mightstone,$2.50 ,ATQ,U3,Antiquities
+Millstone,$3.00 ,ATQ,U3,Antiquities
+Mishra's Factory (A),$3.00 ,ATQ,C1,Antiquities
+Mishra's Factory (B),$3.00 ,ATQ,U1,Antiquities
+Mishra's Factory (C),$3.50 ,ATQ,U1,Antiquities
+Mishra's Factory (D),$3.50 ,ATQ,U1,Antiquities
+Mishra's War Machine,$5.00 ,ATQ,U1,Antiquities
+Mishra's Workshop,$5.00 ,ATQ,U1,Antiquities
+Obelisk of Undoing,$5.00 ,ATQ,U1,Antiquities
+Onulet,$3.00 ,ATQ,U3,Antiquities
+Orcish Mechanics,$0.50 ,ATQ,C4,Antiquities
+Ornithopter,$0.63 ,ATQ,C4,Antiquities
+Phyrexian Gremlins,$0.50 ,ATQ,C4,Antiquities
+Power Artifact,$3.00 ,ATQ,U3,Antiquities
+Powerleech,$3.00 ,ATQ,U3,Antiquities
+Priest of Yawgmoth,$0.50 ,ATQ,C4,Antiquities
+Primal Clay,$2.50 ,ATQ,U3,Antiquities
+Rakalite,$2.00 ,ATQ,U3,Antiquities
+Reconstruction,$0.50 ,ATQ,C4,Antiquities
+Reverse Polarity,$0.50 ,ATQ,C4,Antiquities
+Rocket Launcher,$3.00 ,ATQ,U3,Antiquities
+Sage of Lat-Nam,$0.50 ,ATQ,C4,Antiquities
+Shapeshifter,$6.00 ,ATQ,U1,Antiquities
+Shatterstorm,$5.50 ,ATQ,U1,Antiquities
+Staff of Zegon,$0.75 ,ATQ,C4,Antiquities
+Strip Mine (A),$2.50 ,ATQ,C1,Antiquities
+Strip Mine (B),$3.00 ,ATQ,U1,Antiquities
+Strip Mine (C),$3.00 ,ATQ,U1,Antiquities
+Strip Mine (D),$3.50 ,ATQ,U1,Antiquities
+Su-Chi,$2.75 ,ATQ,U3,Antiquities
+Tablet of Epityr,$0.50 ,ATQ,C4,Antiquities
+Tawnos's Coffin,$5.00 ,ATQ,U1,Antiquities
+Tawnos's Wand,$2.25 ,ATQ,U3,Antiquities
+Tawnos's Weaponry,$2.75 ,ATQ,U3,Antiquities
+Tetravus,$6.00 ,ATQ,U1,Antiquities
+The Rack,$3.00 ,ATQ,U3,Antiquities
+Titania's Song,$3.00 ,ATQ,U3,Antiquities
+Transmute Artifact,$2.50 ,ATQ,U3,Antiquities
+Triskelion,$5.00 ,ATQ,U1,Antiquities
+Urza's Avenger,$6.00 ,ATQ,U1,Antiquities
+Urza's Chalice,$0.63 ,ATQ,C1,Antiquities
+Urza's Mine (A),$1.13 ,ATQ,C1,Antiquities
+Urza's Mine (B),$1.75 ,ATQ,C1,Antiquities
+Urza's Mine (C),$1.75 ,ATQ,C2,Antiquities
+Urza's Mine (D),$1.13 ,ATQ,C2,Antiquities
+Urza's Miter,$5.00 ,ATQ,U1,Antiquities
+Urza's Power Plant (A),$1.13 ,ATQ,C2,Antiquities
+Urza's Power Plant (B),$1.63 ,ATQ,C1,Antiquities
+Urza's Power Plant (C),$1.13 ,ATQ,C2,Antiquities
+Urza's Power Plant (D),$1.75 ,ATQ,C1,Antiquities
+Urza's Tower (A),$1.13 ,ATQ,C2,Antiquities
+Urza's Tower (B),$1.63 ,ATQ,C1,Antiquities
+Urza's Tower (C),$1.75 ,ATQ,C1,Antiquities
+Urza's Tower (D),$1.63 ,ATQ,C1,Antiquities
+Wall of Spears,$3.00 ,ATQ,U3,Antiquities
+Weakstone,$2.25 ,ATQ,U3,Antiquities
+Xenic Poltergeist,$2.25 ,ATQ,U3,Antiquities
+Yawgmoth Demon,$7.75 ,ATQ,U1,Antiquities
+Yotian Soldier,$0.63 ,ATQ,C4,Antiquities
+Abomination,$4.50 ,LEG,U1,Legends
+Acid Rain,$10.00 ,LEG,R,Legends
+Active Volcano,$0.50 ,LEG,C2,Legends
+Adun Oakenshield,$12.00 ,LEG,R,Legends
+Adventurers' Guildhouse,$3.00 ,LEG,U1,Legends
+Aerathi Berserker,$3.50 ,LEG,U1,Legends
+Aisling Leprechaun,$0.68 ,LEG,C1,Legends
+Akron Legionnaire,$10.00 ,LEG,R,Legends
+Al-abara's Carpet,$10.00 ,LEG,R,Legends
+Alabaster Potion,$0.50 ,LEG,C2,Legends
+Alchor's Tomb,$8.50 ,LEG,R,Legends
+All Hallow's Eve,$15.00 ,LEG,R,Legends
+Amrou Kithkin,$0.50 ,LEG,C2,Legends
+Angelic Voices,$10.00 ,LEG,R,Legends
+Angus Mackenzie,$10.00 ,LEG,R,Legends
+Anti-Magic Aura,$1.00 ,LEG,C1,Legends
+Arboria,$3.75 ,LEG,U1,Legends
+Arcades Sabboth,$20.00 ,LEG,R,Legends
+Arena of the Ancients,$9.00 ,LEG,R,Legends
+Avoid Fate,$0.63 ,LEG,C1,Legends
+Axelrod Gunnarson,$10.00 ,LEG,R,Legends
+Ayesha Tanaka,$10.00 ,LEG,R,Legends
+Azure Drake,$4.00 ,LEG,U1,Legends
+Backdraft,$3.00 ,LEG,U1,Legends
+Backfire,$3.50 ,LEG,U1,Legends
+Barbary Apes,$0.50 ,LEG,C1,Legends
+Barktooth Warbeard,$5.00 ,LEG,U1,Legends
+Bartel Runeaxe,$10.00 ,LEG,R,Legends
+Beasts of Bogardan,$4.00 ,LEG,U1,Legends
+Black Mana Battery,$6.00 ,LEG,U1,Legends
+Blazing Effigy,$0.55 ,LEG,C2,Legends
+Blight,$3.00 ,LEG,U,Legends
+Blood Lust,$4.00 ,LEG,U1,Legends
+Blue Mana Battery,$6.00 ,LEG,U1,Legends
+Boomerang,$0.63 ,LEG,C2,Legends
+Boris Devilboon,$12.00 ,LEG,R,Legends
+Brine Hag,$4.00 ,LEG,U1,Legends
+Bronze Horse,$8.00 ,LEG,R,Legends
+Carrion Ants,$15.00 ,LEG,R,Legends
+Cat Warriors,$0.50 ,LEG,C2,Legends
+Cathedral of Serra,$3.00 ,LEG,U1,Legends
+Caverns of Despair,$10.00 ,LEG,R,Legends
+Chain Lightning,$0.75 ,LEG,C2,Legends
+Chains of Mephistopheles,$10.00 ,LEG,R,Legends
+Chromium,$20.00 ,LEG,R,Legends
+Cleanse,$11.50 ,LEG,R,Legends
+Clergy of the Holy Nimbus,$0.50 ,LEG,C2,Legends
+Cocoon,$4.00 ,LEG,U1,Legends
+Concordant Crossroads,$9.00 ,LEG,R,Legends
+Cosmic Horror,$10.00 ,LEG,R,Legends
+Craw Giant,$6.00 ,LEG,U1,Legends
+Crevasse,$3.50 ,LEG,U1,Legends
+Crimson Kobolds,$0.63 ,LEG,C2,Legends
+Crimson Manticore,$9.00 ,LEG,R,Legends
+Crookshank Kobolds,$0.63 ,LEG,C2,Legends
+Cyclopean Mummy,$0.50 ,LEG,C2,Legends
+Dakkon Blackblade,$0.75 ,LEG,R,Legends
+Darkness,$15.00 ,LEG,C1,Legends
+D'Avenant Archer,$1.00 ,LEG,C2,Legends
+Deadfall,$3.00 ,LEG,U1,Legends
+Demonic Torment,$3.75 ,LEG,U1,Legends
+Devouring Deep,$0.75 ,LEG,C2,Legends
+Disharmony,$8.00 ,LEG,R,Legends
+Divine Intervention,$9.00 ,LEG,R,Legends
+Divine Offering,$0.50 ,LEG,C2,Legends
+Divine Transformation,$10.00 ,LEG,R,Legends
+Dream Coat,$3.00 ,LEG,U1,Legends
+Durkwood Boars,$0.63 ,LEG,C2,Legends
+Dwarven Song,$3.00 ,LEG,U1,Legends
+Elder Land Wurm,$10.00 ,LEG,R,Legends
+Elder Spawn,$8.00 ,LEG,R,Legends
+Elven Riders,$10.00 ,LEG,R,Legends
+Emerald Dragonfly,$0.50 ,LEG,C2,Legends
+Enchanted Being,$0.83 ,LEG,C1,Legends
+Enchantment Alteration,$1.00 ,LEG,C1,Legends
+Energy Tap,$0.75 ,LEG,C2,Legends
+Equinox,$0.86 ,LEG,C1,Legends
+Eternal Warrior,$4.00 ,LEG,U1,Legends
+Eureka,$11.00 ,LEG,R,Legends
+Evil Eye of Orms-by-Gore,$4.00 ,LEG,U1,Legends
+Fallen Angel,$5.00 ,LEG,U1,Legends
+Falling Star,$10.00 ,LEG,R,Legends
+Feint,$0.75 ,LEG,C1,Legends
+Field of Dreams,$8.00 ,LEG,R,Legends
+Fire Sprites,$0.75 ,LEG,C2,Legends
+Firestorm Phoenix,$13.00 ,LEG,R,Legends
+Flash Counter,$0.63 ,LEG,C2,Legends
+Flash Flood,$0.75 ,LEG,C2,Legends
+Floral Spuzzem,$4.00 ,LEG,U1,Legends
+Force Spike,$0.50 ,LEG,C2,Legends
+Forethought Amulet,$10.00 ,LEG,R,Legends
+Fortified Area,$3.25 ,LEG,U1,Legends
+Frost Giant,$4.00 ,LEG,U1,Legends
+Gabriel Angelfire,$11.00 ,LEG,R,Legends
+Gaseous Form,$0.78 ,LEG,C1,Legends
+Gauntlets of Chaos,$10.00 ,LEG,R,Legends
+Ghosts of the Damned,$0.75 ,LEG,C2,Legends
+Giant Slug,$0.75 ,LEG,C2,Legends
+Giant Strength,$0.75 ,LEG,C2,Legends
+Giant Turtle,$0.75 ,LEG,C2,Legends
+Glyph of Delusion,$0.63 ,LEG,C1,Legends
+Glyph of Destruction,$0.75 ,LEG,C2,Legends
+Glyph of Doom,$0.63 ,LEG,C2,Legends
+Glyph of Life,$0.75 ,LEG,C2,Legends
+Glyph of Reincarnation,$0.50 ,LEG,C1,Legends
+Gosta Dirk,$10.00 ,LEG,R,Legends
+Gravity Sphere,$11.00 ,LEG,R,Legends
+Great Defender,$3.75 ,LEG,U1,Legends
+Great Wall,$3.00 ,LEG,U1,Legends
+Greater Realm of Preservation,$4.00 ,LEG,U1,Legends
+Greed,$8.00 ,LEG,R,Legends
+Green Mana Battery,$6.00 ,LEG,U1,Legends
+Gwendlyn Di Corci,$10.00 ,LEG,R,Legends
+Halfdane,$10.00 ,LEG,R,Legends
+Hammerheim,$3.00 ,LEG,U2,Legends
+Hazezon Tamar,$12.00 ,LEG,R,Legends
+Headless Horseman,$0.75 ,LEG,C1,Legends
+Heaven's Gate,$3.00 ,LEG,U1,Legends
+Hell Swarm,$0.50 ,LEG,C1,Legends
+Hellfire,$12.00 ,LEG,R,Legends
+Hell's Caretaker,$12.00 ,LEG,R,Legends
+Holy Day,$0.68 ,LEG,C1,Legends
+Horn of Deafening,$9.00 ,LEG,R,Legends
+Hornet Cobra,$0.50 ,LEG,C2,Legends
+Horror of Horrors,$4.00 ,LEG,U1,Legends
+Hunding Gjornersen,$5.00 ,LEG,U1,Legends
+Hyperion Blacksmith,$3.25 ,LEG,U1,Legends
+Ichneumon Druid,$4.00 ,LEG,U1,Legends
+Immolation,$0.50 ,LEG,C1,Legends
+Imprison,$10.00 ,LEG,R,Legends
+In the Eye of Chaos,$10.00 ,LEG,R,Legends
+Indestructible Aura,$0.63 ,LEG,C2,Legends
+Infernal Medusa,$5.00 ,LEG,U1,Legends
+Infinite Authority,$8.50 ,LEG,R,Legends
+Invoke Prejudice,$10.00 ,LEG,R,Legends
+Ivory Guardians,$4.00 ,LEG,U1,Legends
+Jacques le Vert,$11.00 ,LEG,R,Legends
+Jasmine Boreal,$5.00 ,LEG,U1,Legends
+Jedit Ojanen,$5.00 ,LEG,U1,Legends
+Jerrard of the Closed Fist,$5.00 ,LEG,U1,Legends
+Johan,$12.00 ,LEG,R,Legends
+Jovial Evil,$10.00 ,LEG,R,Legends
+Juxtapose,$10.00 ,LEG,R,Legends
+Karakas,$3.50 ,LEG,U2,Legends
+Kasimir the Lone Wolf,$5.00 ,LEG,U1,Legends
+Keepers of the Faith,$0.75 ,LEG,C2,Legends
+Kei Takahashi,$10.00 ,LEG,R,Legends
+Killer Bees,$13.50 ,LEG,R,Legends
+Kismet,$5.00 ,LEG,U1,Legends
+Knowledge Vault,$9.50 ,LEG,R,Legends
+Kobold Drill Sergeant,$5.00 ,LEG,U1,Legends
+Kobold Overlord,$10.00 ,LEG,R,Legends
+Kobold Taskmaster,$5.00 ,LEG,U1,Legends
+Kobolds of Kher Keep,$0.75 ,LEG,C2,Legends
+Kry Shield,$3.00 ,LEG,U1,Legends
+Lady Caleria,$10.00 ,LEG,R,Legends
+Lady Evangela,$10.00 ,LEG,R,Legends
+Lady Orca,$5.00 ,LEG,U1,Legends
+Land Equilibrium,$10.00 ,LEG,R,Legends
+Land Tax,$5.00 ,LEG,U1,Legends
+Land's Edge,$10.00 ,LEG,R,Legends
+Lesser Werewolf,$5.00 ,LEG,U1,Legends
+Life Chisel,$4.00 ,LEG,U2,Legends
+Life Matrix,$10.00 ,LEG,R,Legends
+Lifeblood,$9.00 ,LEG,R,Legends
+Living Plane,$10.00 ,LEG,R,Legends
+Livonya Silone,$10.00 ,LEG,R,Legends
+Lord Magnus,$5.50 ,LEG,U1,Legends
+Lost Soul,$0.75 ,LEG,C2,Legends
+Mana Drain,$5.00 ,LEG,U1,Legends
+Mana Matrix,$10.00 ,LEG,R,Legends
+Marble Priest,$4.00 ,LEG,U1,Legends
+Marhault Elsdragon,$6.00 ,LEG,U1,Legends
+Master of the Hunt,$15.00 ,LEG,R,Legends
+Mirror Universe,$16.00 ,LEG,R,Legends
+Moat,$12.00 ,LEG,R,Legends
+Mold Demon,$9.00 ,LEG,R,Legends
+Moss Monster,$0.50 ,LEG,C2,Legends
+Mountain Stronghold,$3.00 ,LEG,U1,Legends
+Mountain Yeti,$4.00 ,LEG,U1,Legends
+Nebuchadnezzar,$12.00 ,LEG,R,Legends
+Nether Void,$9.00 ,LEG,R,Legends
+Nicol Bolas,$21.00 ,LEG,R,Legends
+North Star,$11.00 ,LEG,R,Legends
+Nova Pentacle,$9.25 ,LEG,R,Legends
+Osai Vultures,$0.75 ,LEG,C1,Legends
+Palladia-Mors,$20.00 ,LEG,R,Legends
+Part Water,$3.25 ,LEG,U1,Legends
+Pavel Maliki,$5.00 ,LEG,U1,Legends
+Pendelhaven,$3.50 ,LEG,U2,Legends
+Petra Sphinx,$10.00 ,LEG,R,Legends
+Pit Scorpion,$0.73 ,LEG,C2,Legends
+Pixie Queen,$10.00 ,LEG,R,Legends
+Planar Gate,$10.00 ,LEG,R,Legends
+Pradesh Gypsies,$3.50 ,LEG,U1,Legends
+Presence of the Master,$4.50 ,LEG,U1,Legends
+Primordial Ooze,$4.00 ,LEG,U1,Legends
+Princess Lucrezia,$4.50 ,LEG,U1,Legends
+Psionic Entity,$8.00 ,LEG,R,Legends
+Psychic Purge,$0.75 ,LEG,C1,Legends
+Puppet Master,$4.00 ,LEG,U1,Legends
+Pyrotechnics,$0.75 ,LEG,C2,Legends
+Quagmire,$3.50 ,LEG,U1,Legends
+Quarum Trench Gnomes,$9.50 ,LEG,R,Legends
+Rabid Wombat,$6.00 ,LEG,U1,Legends
+Radjan Spirit,$4.00 ,LEG,U1,Legends
+Raging Bull,$0.75 ,LEG,C1,Legends
+Ragnar,$10.00 ,LEG,R,Legends
+Ramirez DePietro,$4.50 ,LEG,U1,Legends
+Ramses Overdark,$12.00 ,LEG,R,Legends
+Rapid Fire,$8.00 ,LEG,R,Legends
+Rasputin Dreamweaver,$10.00 ,LEG,R,Legends
+Rebirth,$8.50 ,LEG,R,Legends
+Recall,$10.00 ,LEG,R,Legends
+Red Mana Battery,$6.00 ,LEG,U1,Legends
+Reincarnation,$4.00 ,LEG,U1,Legends
+Relic Barrier,$4.00 ,LEG,U2,Legends
+Relic Bind,$3.75 ,LEG,U1,Legends
+Remove Enchantments,$0.63 ,LEG,C1,Legends
+Remove Soul,$0.50 ,LEG,C2,Legends
+Reset,$4.00 ,LEG,U1,Legends
+Revelation,$8.00 ,LEG,R,Legends
+Reverberation,$10.00 ,LEG,R,Legends
+Righteous Avengers,$4.00 ,LEG,U1,Legends
+Ring of Immortals,$10.00 ,LEG,R,Legends
+Riven Turnbull,$5.00 ,LEG,U1,Legends
+Rohgahh of Kher Keep,$12.00 ,LEG,R,Legends
+Rubinia Soulsinger,$12.00 ,LEG,R,Legends
+Rust,$0.50 ,LEG,C2,Legends
+Sea Kings' Blessing,$3.00 ,LEG,U1,Legends
+Seafarer's Quay,$3.00 ,LEG,U1,Legends
+Seeker,$4.00 ,LEG,U1,Legends
+Segovian Leviathan,$4.00 ,LEG,U1,Legends
+Sentinel,$9.00 ,LEG,R,Legends
+Serpent Generator,$13.50 ,LEG,R,Legends
+Shelkin Brownie,$0.60 ,LEG,C1,Legends
+Shield Wall,$3.00 ,LEG,U1,Legends
+Shimian Night Stalker,$4.00 ,LEG,U1,Legends
+Silhouette,$3.00 ,LEG,U1,Legends
+Sir Shandlar of Eberyn,$5.00 ,LEG,U1,Legends
+Sivitri Scarzam,$5.00 ,LEG,U1,Legends
+Sol'kanar the Swamp King,$15.00 ,LEG,R,Legends
+Spectral Cloak,$4.00 ,LEG,U1,Legends
+Spinal Villain,$12.00 ,LEG,R,Legends
+Spirit Link,$5.00 ,LEG,U1,Legends
+Spirit Shackle,$0.88 ,LEG,C1,Legends
+Spiritual Sanctuary,$9.00 ,LEG,R,Legends
+Stangg,$10.00 ,LEG,R,Legends
+Storm Seeker,$5.50 ,LEG,U1,Legends
+Storm World,$9.00 ,LEG,R,Legends
+Subdue,$0.50 ,LEG,C1,Legends
+Sunastian Falconer,$5.50 ,LEG,U1,Legends
+Sword of the Ages,$12.00 ,LEG,R,Legends
+Sylvan Library,$4.00 ,LEG,U1,Legends
+Sylvan Paradise,$4.00 ,LEG,U1,Legends
+Syphon Soul,$0.88 ,LEG,C2,Legends
+Takklemaggot,$3.50 ,LEG,U1,Legends
+Telekinesis,$8.75 ,LEG,R,Legends
+Teleport,$9.50 ,LEG,R,Legends
+Tempest Efreet,$8.00 ,LEG,R,Legends
+Tetsuo Umezawa,$12.00 ,LEG,R,Legends
+The Abyss,$10.00 ,LEG,R,Legends
+The Brute,$0.75 ,LEG,C1,Legends
+The Lady of the Mountain,$5.00 ,LEG,U1,Legends
+The Tabernacle at Pendrell Vale,$10.00 ,LEG,R,Legends
+The Wretched,$12.00 ,LEG,R,Legends
+Thunder Spirit,$10.00 ,LEG,R,Legends
+Time Elemental,$10.00 ,LEG,R,Legends
+Tobias Andrion,$5.00 ,LEG,U1,Legends
+Tolaria,$3.50 ,LEG,U2,Legends
+Tor Wauki,$5.50 ,LEG,U1,Legends
+Torsten Von Ursus,$4.50 ,LEG,U1,Legends
+Touch of Darkness,$3.50 ,LEG,U1,Legends
+Transmutation,$1.00 ,LEG,C1,Legends
+Triassic Egg,$10.00 ,LEG,R,Legends
+Tuknir Deathlock,$10.00 ,LEG,R,Legends
+Tundra Wolves,$0.55 ,LEG,C2,Legends
+Typhoon,$8.75 ,LEG,R,Legends
+Undertow,$3.00 ,LEG,U1,Legends
+Underworld Dreams,$7.00 ,LEG,U1,Legends
+Unholy Citadel,$3.00 ,LEG,U1,Legends
+Untamed Wilds,$3.50 ,LEG,U1,Legends
+Urborg,$10.00 ,LEG,U2,Legends
+Ur-Drago,$3.00 ,LEG,R,Legends
+Vaevictis Asmadi,$20.00 ,LEG,R,Legends
+Vampire Bats,$0.50 ,LEG,C2,Legends
+Venarian Gold,$1.00 ,LEG,C1,Legends
+Visions,$3.50 ,LEG,U1,Legends
+Voodoo Doll,$9.00 ,LEG,R,Legends
+Walking Dead,$0.60 ,LEG,C1,Legends
+Wall of Caltrops,$1.00 ,LEG,C1,Legends
+Wall of Dust,$3.00 ,LEG,U1,Legends
+Wall of Earth,$0.75 ,LEG,C,Legends
+Wall of Heat,$1.00 ,LEG,C1,Legends
+Wall of Light,$3.50 ,LEG,U1,Legends
+Wall of Opposition,$8.50 ,LEG,R,Legends
+Wall of Putrid Flesh,$4.00 ,LEG,U1,Legends
+Wall of Shadows,$1.00 ,LEG,C2,Legends
+Wall of Tombstones,$4.00 ,LEG,U1,Legends
+Wall of Vapor,$0.75 ,LEG,C2,Legends
+Wall of Wonder,$4.00 ,LEG,U1,Legends
+Whirling Dervish,$4.50 ,LEG,U1,Legends
+White Mana Battery,$6.00 ,LEG,U1,Legends
+Willow Satyr,$10.00 ,LEG,R,Legends
+Winds of Change,$4.00 ,LEG,U1,Legends
+Winter Blast,$10.00 ,LEG,R,Legends
+Wolverine Pack,$0.70 ,LEG,C2,Legends
+Wood Elemental,$7.50 ,LEG,R,Legends
+Xira Arien,$10.00 ,LEG,R,Legends
+Zephyr Falcon,$0.63 ,LEG,C2,Legends
+Amnesia,$3.75 ,DRK,U2,The Dark
+Angry Mob,$4.25 ,DRK,U2,The Dark
+Apprentice Wizard,$5.00 ,DRK,U1,The Dark
+Ashes to Ashes,$0.50 ,DRK,C3,The Dark
+Ball Lightning,$8.00 ,DRK,U1,The Dark
+Banshee,$3.00 ,DRK,U2,The Dark
+Barl's Cage,$6.00 ,DRK,U1,The Dark
+Blood Moon,$7.00 ,DRK,U1,The Dark
+Blood of the Martyr,$3.00 ,DRK,U2,The Dark
+Bog Imp,$0.50 ,DRK,C3,The Dark
+Bog Rats,$0.50 ,DRK,C3,The Dark
+Bone Flute,$2.00 ,DRK,U2,The Dark
+Book of Rass,$2.00 ,DRK,U2,The Dark
+Brainwash,$0.40 ,DRK,C3,The Dark
+Brothers of Fire,$2.50 ,DRK,U2,The Dark
+Carnivorous Plant,$0.50 ,DRK,C3,The Dark
+Cave People,$3.00 ,DRK,U2,The Dark
+City of Shadows,$5.00 ,DRK,U1,The Dark
+Cleansing,$6.00 ,DRK,U1,The Dark
+Coal Golem,$3.00 ,DRK,U2,The Dark
+Curse Artifact,$2.00 ,DRK,U2,The Dark
+Dance of Many,$6.00 ,DRK,U1,The Dark
+Dark Heart of the Wood,$0.50 ,DRK,C3,The Dark
+Dark Sphere,$4.00 ,DRK,U2,The Dark
+Deep Water,$0.30 ,DRK,C3,The Dark
+Diabolic Machine,$3.00 ,DRK,U2,The Dark
+Drowned,$0.30 ,DRK,C3,The Dark
+Dust to Dust,$0.45 ,DRK,C3,The Dark
+Eater of the Dead,$4.00 ,DRK,U2,The Dark
+Electric Eel,$2.25 ,DRK,U2,The Dark
+Elves of Deep Shadow,$3.00 ,DRK,U2,The Dark
+Erosion,$0.30 ,DRK,C3,The Dark
+Eternal Flame,$5.00 ,DRK,U1,The Dark
+Exorcist,$8.00 ,DRK,U1,The Dark
+Fasting,$2.50 ,DRK,U2,The Dark
+Fellwar Stone,$4.00 ,DRK,U2,The Dark
+Festival,$0.50 ,DRK,C3,The Dark
+Fire and Brimstone,$2.50 ,DRK,U2,The Dark
+Fire Drake,$3.00 ,DRK,U2,The Dark
+Fissure,$0.45 ,DRK,C3,The Dark
+Flood,$2.75 ,DRK,U2,The Dark
+Fountain of Youth,$3.00 ,DRK,U2,The Dark
+Frankenstein's Monster,$8.00 ,DRK,U1,The Dark
+Gaea's Touch,$0.40 ,DRK,C3,The Dark
+Ghost Ship,$0.50 ,DRK,C3,The Dark
+Giant Shark,$0.50 ,DRK,C3,The Dark
+Goblin Caves,$0.50 ,DRK,C3,The Dark
+Goblin Digging Team,$0.40 ,DRK,C3,The Dark
+Goblin Hero,$0.45 ,DRK,C3,The Dark
+Goblin Rock Sled,$0.40 ,DRK,C3,The Dark
+Goblin Shrine,$0.50 ,DRK,C3,The Dark
+Goblin Wizard,$6.25 ,DRK,U1,The Dark
+Goblins of the Flarg,$0.40 ,DRK,C3,The Dark
+Grave Robbers,$6.00 ,DRK,U1,The Dark
+Hidden Path,$5.00 ,DRK,U1,The Dark
+Holy Light,$0.35 ,DRK,C3,The Dark
+Inferno,$5.50 ,DRK,U1,The Dark
+Inquisition,$0.40 ,DRK,C3,The Dark
+Knights of Thorn,$6.00 ,DRK,U1,The Dark
+Land Leeches,$0.35 ,DRK,C3,The Dark
+Leviathan,$8.00 ,DRK,U1,The Dark
+Living Armor,$3.00 ,DRK,U2,The Dark
+Lurker,$5.00 ,DRK,U1,The Dark
+Mana Clash,$5.00 ,DRK,U1,The Dark
+Mana Vortex,$6.00 ,DRK,U1,The Dark
+Marsh Gas,$0.30 ,DRK,C3,The Dark
+Marsh Goblins,$0.50 ,DRK,C3,The Dark
+Marsh Viper,$0.45 ,DRK,C3,The Dark
+Martyr's Cry,$5.00 ,DRK,U1,The Dark
+Maze of Ith,$4.00 ,DRK,C1,The Dark
+Merfolk Assassin,$4.00 ,DRK,U2,The Dark
+Mind Bomb,$5.00 ,DRK,U1,The Dark
+Miracle Worker,$0.40 ,DRK,C3,The Dark
+Morale,$0.30 ,DRK,C3,The Dark
+Murk Dwellers,$0.35 ,DRK,C3,The Dark
+Nameless Race,$6.00 ,DRK,U1,The Dark
+Necropolis,$2.50 ,DRK,U2,The Dark
+Niall Silvain,$5.50 ,DRK,U1,The Dark
+Orc General,$3.50 ,DRK,U2,The Dark
+People of the Woods,$4.00 ,DRK,U2,The Dark
+Pikemen,$0.50 ,DRK,C3,The Dark
+Preacher,$8.00 ,DRK,U1,The Dark
+Psychic Allergy,$5.50 ,DRK,U1,The Dark
+Rag Man,$6.50 ,DRK,U1,The Dark
+Reflecting Mirror,$3.50 ,DRK,U2,The Dark
+Riptide,$0.30 ,DRK,C3,The Dark
+Runesword,$5.00 ,DRK,U2,The Dark
+Safe Haven,$7.00 ,DRK,U1,The Dark
+Savaen Elves,$0.40 ,DRK,C3,The Dark
+Scarecrow,$3.50 ,DRK,U2,The Dark
+Scarwood Bandits,$6.25 ,DRK,U1,The Dark
+Scarwood Goblins,$0.50 ,DRK,C3,The Dark
+Scarwood Hag,$2.50 ,DRK,U2,The Dark
+Scavenger Folk,$0.40 ,DRK,C3,The Dark
+Season of the Witch,$6.50 ,DRK,U1,The Dark
+Sisters of the Flame,$3.00 ,DRK,U2,The Dark
+Skull of Orm,$3.25 ,DRK,U2,The Dark
+Sorrow's Path,$5.00 ,DRK,U1,The Dark
+Spitting Slug,$2.00 ,DRK,U2,The Dark
+Squire,$0.30 ,DRK,C3,The Dark
+Standing Stones,$3.00 ,DRK,U2,The Dark
+Stone Calendar,$6.00 ,DRK,U1,The Dark
+Sunken City,$0.50 ,DRK,C3,The Dark
+Tangle Kelp,$2.00 ,DRK,U2,The Dark
+The Fallen,$3.00 ,DRK,U2,The Dark
+Tivadar's Crusade,$2.75 ,DRK,U2,The Dark
+Tormod's Crypt,$2.50 ,DRK,U2,The Dark
+Tower of Coireall,$2.00 ,DRK,U2,The Dark
+Tracker,$6.00 ,DRK,U1,The Dark
+Uncle Istvan,$4.00 ,DRK,U2,The Dark
+Venom,$0.50 ,DRK,C3,The Dark
+Wand of Ith,$2.50 ,DRK,U2,The Dark
+War Barge,$4.00 ,DRK,U2,The Dark
+Water Wurm,$0.35 ,DRK,C3,The Dark
+Whippoorwill,$3.00 ,DRK,U2,The Dark
+Witch Hunter,$7.00 ,DRK,U1,The Dark
+Word of Binding,$0.50 ,DRK,C3,The Dark
+Worms of the Earth,$6.00 ,DRK,U1,The Dark
+Wormwood Treefolk,$5.00 ,DRK,U1,The Dark
