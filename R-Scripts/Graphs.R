@@ -117,47 +117,45 @@ summary_data <- mtg_data |>
     
 
 library(tidyverse)
-
-# 1. Load your data
-mtg_appdata <- read_csv("analysis_data.csv")
-
-# 2. Define your specific portfolio (Beta Rares)
-target_edition <- "LEB"  # 'LEB' is the standard set code for Beta
-target_rarity  <- "rare"
-
-# 3. Filter for your portfolio
-portfolio_data <- mtg_appdata %>%
+beta_portfolio <- mtg_data %>%
   filter(
-    set == target_edition,
-    rarity == target_rarity,
+    set == "2ED", 
+    rarity == "uncommon", 
     !is.na(pct_increase)
   )
 
-# 4. Calculate Aggregate Stats
-# This tells you the total "alpha" (how much better/worse you did than the S&P)
-portfolio_summary <- portfolio_data %>%
-  summarize(
-    avg_pct_increase = mean(pct_increase),
-    win_rate = mean(performance == "Beat S&P") * 100,
-    card_count = n()
-  )
+# 2. Calculate the Portfolio Average Return
+portfolio_avg_return <- mean(beta_portfolio$pct_increase, na.rm = TRUE)
 
-print(portfolio_summary)
+# 3. Define your S&P 500 Benchmark 
+# (Replace 250 with the actual S&P 500 return % for your specific date range)
+sp500_return <- 2250 
 
-# 5. Visualize the Portfolio Makeup
-ggplot(portfolio_data, aes(x = performance, fill = performance)) +
-  geom_bar() +
-  stat_count(geom = "text", aes(label = after_stat(count)), vjust = -0.5, size = 6) +
-  scale_fill_manual(values = c("Beat S&P" = "#2ca25f", "Below S&P" = "#d73027")) +
+# 4. Create a summary data frame for the chart
+plot_comparison <- data.frame(
+  Group = c("Beta Rares Portfolio", "S&P 500 Index"),
+  Return = c(portfolio_avg_return, sp500_return)
+)
+
+# 5. Create the Chart
+ggplot(plot_comparison, aes(x = Group, y = Return, fill = Group)) +
+  geom_col(width = 0.5) +
+  # Add percentage labels on top of the bars
+  geom_text(aes(label = paste0(round(Return, 1), "%")), 
+            vjust = -0.8, size = 6, fontface = "bold") +
+  # Use your existing color scheme
+  scale_fill_manual(values = c("Beta Rares Portfolio" = "#2ca25f", "S&P 500 Index" = "#636363")) +
   theme_minimal() +
+  expand_limits(y = max(plot_comparison$Return) * 1.2) + # Add space for labels
   labs(
-    title = paste("Portfolio Analysis:", target_edition, target_rarity, "vs S&P 500"),
-    subtitle = paste0("Average Return: ", round(portfolio_summary$avg_pct_increase, 1), "%"),
-    caption = paste0("Based on ", portfolio_summary$card_count, " cards"),
-    x = "Did the card outperform the S&P 500?",
-    y = "Number of Cards"
+    title = "Investment Comparison: Beta Rares vs. S&P 500",
+    subtitle = paste("Based on an average of", nrow(beta_portfolio), "unique cards"),
+    y = "Total Return Percentage (%)",
+    x = ""
+  ) +
+  theme(
+    legend.position = "none",
+    plot.title = element_text(size = 18, face = "bold"),
+    axis.text = element_text(size = 12)
   )
-
-
-
 
