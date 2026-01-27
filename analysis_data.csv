@@ -3,7 +3,7 @@ Air Elemental,LEA,uncommon,U,2.13,4500,Alpha,146.53666666666666,LEA (U),6779.655
 Ancestral Recall,LEA,rare,R,8.75,1100,Alpha,15938,LEA (R),182048.57142857142,Beat S&P
 Animate Artifact,LEA,uncommon,U,2,4500,Alpha,55.093333333333334,LEA (U),2654.6666666666647,Beat S&P
 Animate Dead,LEA,uncommon,U,2,4500,Alpha,538.9233333333333,LEA (U),26846.166666666646,Beat S&P
-Animate Wall,LEA,rare,R,6,1100,Alpha,825,LEA (R),13650,Beat S&P
+Animate Wall,LEA,rare,R,6,1100,Alpha,369,LEA (R),6050,Beat S&P
 Ankh of Mishra,LEA,rare,R,5,1100,Alpha,438.35,LEA (R),8667,Beat S&P
 Armageddon,LEA,rare,R,8,1100,Alpha,3230.17,LEA (R),40277.125,Beat S&P
 Aspect of Wolf,LEA,rare,R,8,1100,Alpha,899.99,LEA (R),11149.875,Beat S&P
@@ -30,7 +30,7 @@ Camouflage,LEA,uncommon,U,1.25,4500,Alpha,93.84,LEA (U),7407.200000000001,Beat S
 Castle,LEA,uncommon,U,2.68,4500,Alpha,156.50333333333333,LEA (U),5739.676616915409,Beat S&P
 Celestial Prism,LEA,uncommon,U,3,4500,Alpha,46.096666666666664,LEA (U),1436.5555555555566,Below S&P
 Channel,LEA,uncommon,U,3,4500,Alpha,279.90333333333336,LEA (U),9230.1111111111,Beat S&P
-Chaos Orb,LEA,rare,R,10,1100,Alpha,6375,LEA (R),63650,Beat S&P
+Chaos Orb,LEA,rare,R,10,1100,Alpha,5588,LEA (R),55779.99999999999,Beat S&P
 Chaoslace,LEA,rare,R,5,1100,Alpha,248.85666666666668,LEA (R),4877.1333333333405,Beat S&P
 Circle of Protection: Blue,LEA,common,C,0.5,16000,Alpha,22.41,LEA (C),4382,Beat S&P
 Circle of Protection: Green,LEA,common,C,0.5,16000,Alpha,33.245,LEA (C),6548.999999999999,Beat S&P
@@ -41,7 +41,7 @@ Clone,LEA,uncommon,U,3.54,4500,Alpha,213.99666666666667,LEA (U),5945.10357815443
 Cockatrice,LEA,rare,R,8.5,1100,Alpha,673.655,LEA (R),7825.35294117647,Beat S&P
 Consecrate Land,LEA,uncommon,U,4,4500,Alpha,57.5,LEA (U),1337.5,Below S&P
 Conservator,LEA,uncommon,U,2,4500,Alpha,34.09,LEA (U),1604.5000000000002,Below S&P
-Contract from Below,LEA,rare,R,5,1100,Alpha,1300,LEA (R),25900,Beat S&P
+Contract from Below,LEA,rare,R,5,1100,Alpha,949,LEA (R),18880,Beat S&P
 Control Magic,LEA,uncommon,U,3.3,4500,Alpha,220.3,LEA (U),6575.757575757577,Beat S&P
 Conversion,LEA,uncommon,U,2,4500,Alpha,38.255,LEA (U),1812.7500000000002,Below S&P
 Copper Tablet,LEA,uncommon,U,2,4500,Alpha,173.42000000000002,LEA (U),8571,Beat S&P
@@ -49,7 +49,7 @@ Copy Artifact,LEA,rare,R,6.5,1100,Alpha,2541.995,LEA (R),39007.61538461538,Beat 
 Counterspell,LEA,uncommon,U,3,4500,Alpha,1017.44,LEA (U),33814.66666666667,Beat S&P
 Craw Wurm,LEA,common,C,0.75,16000,Alpha,40.295,LEA (C),5272.666666666667,Beat S&P
 Creature Bond,LEA,common,C,0.41,16000,Alpha,21.02,LEA (C),5026.829268292683,Beat S&P
-Crusade,LEA,rare,R,6.5,1100,Alpha,1688,LEA (R),25869.23076923077,Beat S&P
+Crusade,LEA,rare,R,6.5,1100,Alpha,1500,LEA (R),22976.923076923078,Beat S&P
 Crystal Rod,LEA,uncommon,U,2,4500,Alpha,58.04666666666667,LEA (U),2802.3333333333353,Beat S&P
 Cursed Land,LEA,uncommon,U,1.5,4500,Alpha,155.75333333333333,LEA (U),10283.555555555533,Beat S&P
 Cyclopean Tomb,LEA,rare,R,12.5,1100,Alpha,787.23,LEA (R),6197.84,Beat S&P
@@ -92,7 +92,7 @@ Forcefield,LEA,rare,R,9,1100,Alpha,1673.0949999999998,LEA (R),18489.944444444445
 Fork,LEA,rare,R,8.13,1100,Alpha,1999.99,LEA (R),24500.123001230008,Beat S&P
 Frozen Shade,LEA,common,C,0.41,16000,Alpha,30.96666666666667,LEA (C),7452.845528455293,Beat S&P
 Fungusaur,LEA,rare,R,9.5,1100,Alpha,288.12,LEA (R),2932.842105263158,Beat S&P
-Gaea's Liege,LEA,rare,R,15,1100,Alpha,512,LEA (R),3313.3333333333335,Beat S&P
+Gaea's Liege,LEA,rare,R,15,1100,Alpha,429,LEA (R),2760,Beat S&P
 Gauntlet of Might,LEA,rare,R,10,1100,Alpha,1594,LEA (R),15840,Beat S&P
 Giant Growth,LEA,common,C,0.41,16000,Alpha,82.455,LEA (C),20010.9756097561,Beat S&P
 Giant Spider,LEA,common,C,0.41,16000,Alpha,35.2,LEA (C),8485.365853658539,Beat S&P
@@ -161,10 +161,10 @@ Mesa Pegasus,LEA,common,C,0.41,16000,Alpha,34.26,LEA (C),8256.09756097561,Beat S
 Mind Twist,LEA,rare,R,7,1100,Alpha,1723.0949999999998,LEA (R),24515.642857142855,Beat S&P
 Mons's Goblin Raiders,LEA,common,C,0.41,16000,Alpha,37.36333333333333,LEA (C),9013.008130081294,Beat S&P
 Mox Emerald,LEA,rare,R,12.5,1100,Alpha,17999.99,LEA (R),143899.92,Beat S&P
-Mox Jet,LEA,rare,R,12.5,1100,Alpha,9375,LEA (R),74900,Beat S&P
+Mox Jet,LEA,rare,R,12.5,1100,Alpha,650,LEA (R),5100,Beat S&P
 Mox Pearl,LEA,rare,R,15,1100,Alpha,5625,LEA (R),37400,Beat S&P
 Mox Ruby,LEA,rare,R,15,1100,Alpha,12999.99,LEA (R),86566.59999999999,Beat S&P
-Mox Sapphire,LEA,rare,R,15,1100,Alpha,17599.99,LEA (R),117233.26666666666,Beat S&P
+Mox Sapphire,LEA,rare,R,15,1100,Alpha,11596,LEA (R),77206.66666666667,Beat S&P
 Natural Selection,LEA,rare,R,7.25,1100,Alpha,681.335,LEA (R),9297.724137931036,Beat S&P
 Nether Shadow,LEA,rare,R,5.5,1100,Alpha,599.99,LEA (R),10808.909090909092,Beat S&P
 Nettling Imp,LEA,uncommon,U,2,4500,Alpha,89.77,LEA (U),4388.5,Beat S&P
@@ -213,7 +213,7 @@ Scavenging Ghoul,LEA,uncommon,U,2,4500,Alpha,40.760000000000005,LEA (U),1938,Bel
 Scrubland,LEA,rare,R,7,1100,Alpha,4699.99,LEA (R),67042.71428571429,Beat S&P
 Scryb Sprites,LEA,common,C,0.4,16000,Alpha,44.8,LEA (C),11099.999999999998,Beat S&P
 Sea Serpent,LEA,common,C,0.5,16000,Alpha,20.814999999999998,LEA (C),4063.0000000000005,Beat S&P
-Sedge Troll,LEA,rare,R,5.5,1100,Alpha,1547,LEA (R),28027.272727272724,Beat S&P
+Sedge Troll,LEA,rare,R,5.5,1100,Alpha,1280,LEA (R),23172.727272727272,Beat S&P
 Sengir Vampire,LEA,uncommon,U,5,4500,Alpha,606.6633333333333,LEA (U),12033.26666666666,Beat S&P
 Serra Angel,LEA,uncommon,U,7,4500,Alpha,788,LEA (U),11157.142857142857,Beat S&P
 Shanodin Dryads,LEA,common,C,0.5,16000,Alpha,23.793333333333333,LEA (C),4658.666666666661,Beat S&P
@@ -242,10 +242,10 @@ Thoughtlace,LEA,rare,R,5,1100,Alpha,210,LEA (R),4100,Beat S&P
 Throne of Bone,LEA,uncommon,U,2,4500,Alpha,57.12,LEA (U),2756,Beat S&P
 Timber Wolves,LEA,rare,R,7,1100,Alpha,326,LEA (R),4557.142857142857,Beat S&P
 Time Vault,LEA,rare,R,8.25,1100,Alpha,4223.495,LEA (R),51093.878787878784,Beat S&P
-Time Walk,LEA,rare,R,11,1100,Alpha,14625,LEA (R),132854.54545454544,Beat S&P
-Timetwister,LEA,rare,R,10.5,1100,Alpha,11719,LEA (R),111509.5238095238,Beat S&P
+Time Walk,LEA,rare,R,11,1100,Alpha,11201,LEA (R),101727.27272727272,Beat S&P
+Timetwister,LEA,rare,R,10.5,1100,Alpha,9600,LEA (R),91328.57142857143,Beat S&P
 Tranquility,LEA,common,C,0.41,16000,Alpha,25.65,LEA (C),6156.09756097561,Beat S&P
-Tropical Island,LEA,rare,R,7.13,1100,Alpha,6375,LEA (R),89310.93969144461,Beat S&P
+Tropical Island,LEA,rare,R,7.13,1100,Alpha,4150,LEA (R),58104.76858345021,Beat S&P
 Tsunami,LEA,uncommon,U,2,4500,Alpha,74.87,LEA (U),3643.5,Beat S&P
 Tundra,LEA,rare,R,6.5,1100,Alpha,7999.99,LEA (R),122976.76923076922,Beat S&P
 Tunnel,LEA,uncommon,U,2,4500,Alpha,35,LEA (U),1650,Below S&P
@@ -285,7 +285,7 @@ Word of Command,LEA,rare,R,10,1100,Alpha,885.7,LEA (R),8757,Beat S&P
 Wrath of God,LEA,rare,R,9,1100,Alpha,2699.99,LEA (R),29899.888888888887,Beat S&P
 Zombie Master,LEA,rare,R,9,1100,Alpha,984,LEA (R),10833.333333333332,Beat S&P
 Air Elemental,LEB,uncommon,U,2,13500,Beta,37.14,LEB (U),1757,Below S&P
-Ancestral Recall,LEB,rare,R,7.75,3200,Beta,17812,LEB (R),229732.25806451615,Beat S&P
+Ancestral Recall,LEB,rare,R,7.75,3200,Beta,8150,LEB (R),105061.29032258064,Beat S&P
 Animate Artifact,LEB,uncommon,U,1.5,13500,Beta,8.683333333333334,LEB (U),478.8888888888887,Below S&P
 Animate Dead,LEB,uncommon,U,1.5,13500,Beta,685.01,LEB (U),45567.333333333336,Beat S&P
 Animate Wall,LEB,rare,R,5,3200,Beta,94.40666666666667,LEB (R),1788.1333333333337,Below S&P
@@ -335,7 +335,7 @@ Copy Artifact,LEB,rare,R,5.5,3200,Beta,1414.3,LEB (R),25614.545454545452,Beat S&
 Counterspell,LEB,uncommon,U,3,13500,Beta,535.3633333333333,LEB (U),17745.444444444434,Beat S&P
 Craw Wurm,LEB,common,C,0.7,48000,Beta,10.34,LEB (C),1377.1428571428573,Below S&P
 Creature Bond,LEB,common,C,0.35,48000,Beta,3.6766666666666667,LEB (C),950.4761904761914,Below S&P
-Crusade,LEB,rare,R,6.5,3200,Beta,1219,LEB (R),18653.846153846156,Beat S&P
+Crusade,LEB,rare,R,6.5,3200,Beta,650,LEB (R),9900,Beat S&P
 Crystal Rod,LEB,uncommon,U,1.5,13500,Beta,10.623333333333333,LEB (U),608.2222222222199,Below S&P
 Cursed Land,LEB,uncommon,U,1.5,13500,Beta,14.34,LEB (U),856,Below S&P
 Cyclopean Tomb,LEB,rare,R,9,3200,Beta,456.145,LEB (R),4968.277777777777,Beat S&P
@@ -448,7 +448,7 @@ Mind Twist,LEB,rare,R,6.65,3200,Beta,1499.99,LEB (R),22456.240601503756,Beat S&P
 Mons's Goblin Raiders,LEB,common,C,0.35,48000,Beta,5.6899999999999995,LEB (C),1525.714285714286,Below S&P
 Mox Emerald,LEB,rare,R,12.5,3200,Beta,9499.99,LEB (R),75899.92,Beat S&P
 Mox Jet,LEB,rare,R,12.5,3200,Beta,12999.99,LEB (R),103899.92,Beat S&P
-Mox Pearl,LEB,rare,R,15,3200,Beta,8625,LEB (R),57400,Beat S&P
+Mox Pearl,LEB,rare,R,15,3200,Beta,5170,LEB (R),34366.66666666667,Beat S&P
 Mox Ruby,LEB,rare,R,15,3200,Beta,9999.99,LEB (R),66566.59999999999,Beat S&P
 Mox Sapphire,LEB,rare,R,15,3200,Beta,10999.99,LEB (R),73233.26666666666,Beat S&P
 Natural Selection,LEB,rare,R,7,3200,Beta,339.0366666666667,LEB (R),4743.380952380957,Beat S&P
@@ -489,7 +489,7 @@ Righteousness,LEB,rare,R,6.5,3200,Beta,150.08,LEB (R),2208.923076923077,Below S&
 Roc of Kher Ridges,LEB,rare,R,6,3200,Beta,155.17000000000002,LEB (R),2486.1666666666665,Beat S&P
 Rock Hydra,LEB,rare,R,9.88,3200,Beta,171.135,LEB (R),1632.1356275303642,Below S&P
 Rod of Ruin,LEB,uncommon,U,1.5,13500,Beta,15.073333333333332,LEB (U),904.8888888888866,Below S&P
-Royal Assassin,LEB,rare,R,11.5,3200,Beta,1215,LEB (R),10465.217391304348,Beat S&P
+Royal Assassin,LEB,rare,R,11.5,3200,Beta,506,LEB (R),4300,Beat S&P
 Sacrifice,LEB,uncommon,U,1,13500,Beta,84.99333333333334,LEB (U),8399.33333333333,Beat S&P
 Samite Healer,LEB,common,C,0.35,48000,Beta,4.665,LEB (C),1232.8571428571431,Below S&P
 Savannah,LEB,rare,R,6,3200,Beta,1979.8,LEB (R),32896.666666666664,Beat S&P
@@ -531,13 +531,13 @@ Time Vault,LEB,rare,R,7.5,3200,Beta,3599.99,LEB (R),47899.86666666666,Beat S&P
 Time Walk,LEB,rare,R,10,3200,Beta,6744.495,LEB (R),67344.95,Beat S&P
 Timetwister,LEB,rare,R,10,3200,Beta,15999.99,LEB (R),159899.9,Beat S&P
 Tranquility,LEB,common,C,0.38,48000,Beta,8.456666666666667,LEB (C),2125.438596491229,Below S&P
-Tropical Island,LEB,rare,R,6.5,3200,Beta,4500,LEB (R),69130.76923076922,Beat S&P
+Tropical Island,LEB,rare,R,6.5,3200,Beta,3161,LEB (R),48530.769230769234,Beat S&P
 Tsunami,LEB,uncommon,U,1.65,13500,Beta,41.373333333333335,LEB (U),2407.474747474746,Beat S&P
-Tundra,LEB,rare,R,6,3200,Beta,3400,LEB (R),56566.666666666664,Beat S&P
+Tundra,LEB,rare,R,6,3200,Beta,2276,LEB (R),37833.33333333333,Beat S&P
 Tunnel,LEB,uncommon,U,1,13500,Beta,12.093333333333334,LEB (U),1109.33333333333,Below S&P
 Twiddle,LEB,common,C,0.75,48000,Beta,15.503333333333332,LEB (C),1967.1111111111068,Below S&P
 Two-Headed Giant of Foriys,LEB,rare,R,8.25,3200,Beta,237.7,LEB (R),2781.212121212121,Beat S&P
-Underground Sea,LEB,rare,R,7,3200,Beta,6750,LEB (R),96328.57142857143,Beat S&P
+Underground Sea,LEB,rare,R,7,3200,Beta,4999,LEB (R),71314.28571428571,Beat S&P
 Unholy Strength,LEB,common,C,0.35,48000,Beta,13.43,LEB (C),3737.1428571428573,Beat S&P
 Unsummon,LEB,common,C,0.35,48000,Beta,13.296666666666667,LEB (C),3699.0476190476293,Beat S&P
 Uthden Troll,LEB,uncommon,U,2,13500,Beta,25.68,LEB (U),1184,Below S&P
@@ -561,7 +561,7 @@ Warp Artifact,LEB,rare,R,4,3200,Beta,68.86,LEB (R),1621.5,Below S&P
 Water Elemental,LEB,uncommon,U,1.8,13500,Beta,11.99,LEB (U),566.1111111111111,Below S&P
 Weakness,LEB,common,C,0.35,48000,Beta,3.93,LEB (C),1022.857142857143,Below S&P
 Web,LEB,rare,R,4.5,3200,Beta,86.52,LEB (R),1822.6666666666667,Below S&P
-Wheel of Fortune,LEB,rare,R,6,3200,Beta,3000,LEB (R),49900,Beat S&P
+Wheel of Fortune,LEB,rare,R,6,3200,Beta,1945,LEB (R),32316.666666666668,Beat S&P
 White Knight,LEB,uncommon,U,3,13500,Beta,88.24,LEB (U),2841.333333333333,Beat S&P
 White Ward,LEB,uncommon,U,1,13500,Beta,12.436666666666667,LEB (U),1143.66666666667,Below S&P
 Wild Growth,LEB,common,C,0.35,48000,Beta,29.123333333333335,LEB (C),8220.95238095237,Beat S&P
@@ -622,7 +622,7 @@ Copy Artifact,2ED,rare,R,5,18500,Unlimited,238.44,2ED (R),4668.8,Beat S&P
 Counterspell,2ED,uncommon,U,2,68000,Unlimited,60.666666666666664,2ED (U),2933.333333333335,Beat S&P
 Craw Wurm,2ED,common,C,0.5,244500,Unlimited,0.8433333333333334,2ED (C),68.66666666666661,Below S&P
 Creature Bond,2ED,common,C,0.25,244500,Unlimited,0.6266666666666667,2ED (C),150.66666666666683,Below S&P
-Crusade,2ED,rare,R,6,18500,Unlimited,200,2ED (R),3233.3333333333335,Beat S&P
+Crusade,2ED,rare,R,6,18500,Unlimited,156,2ED (R),2500,Beat S&P
 Crystal Rod,2ED,uncommon,U,1,68000,Unlimited,1.6166666666666667,2ED (U),61.666666666667005,Below S&P
 Cursed Land,2ED,uncommon,U,1,68000,Unlimited,2.01,2ED (U),100.99999999999997,Below S&P
 Cyclopean Tomb,2ED,rare,R,6,18500,Unlimited,100.13,2ED (R),1568.8333333333333,Below S&P
@@ -908,7 +908,7 @@ Counterspell,3ED,uncommon,U,2,1012000,Revised,4.916666666666667,3ED (U),145.8333
 Craw Wurm,3ED,common,C,0.5,3657000,Revised,0.22666666666666666,3ED (C),-54.6666666666666,Below S&P
 Creature Bond,3ED,common,C,0.25,3657000,Revised,0.22,3ED (C),-12,Below S&P
 Crumble,3ED,uncommon,U,0.5,1012000,Revised,0.2866666666666667,3ED (U),-42.6666666666666,Below S&P
-Crusade,3ED,rare,R,6,289000,Revised,40,3ED (R),566.6666666666667,Below S&P
+Crusade,3ED,rare,R,6,289000,Revised,35,3ED (R),483.3333333333333,Below S&P
 Crystal Rod,3ED,uncommon,U,1,1012000,Revised,0.25,3ED (U),-75,Below S&P
 Cursed Land,3ED,uncommon,U,1,1012000,Revised,0.31,3ED (U),-69,Below S&P
 Dancing Scimitar,3ED,rare,R,4,289000,Revised,1.1066666666666667,3ED (R),-72.33333333333324,Below S&P
@@ -1198,7 +1198,7 @@ Island of Wak-Wak,ARN,rare,U2,5,20500,Arabian Nights,177.37666666666667,ARN (U2)
 Jandor's Ring,ARN,rare,U2,4,20500,Arabian Nights,31.983333333333334,ARN (U2),699.5833333333325,Below S&P
 Jandor's Saddlebags,ARN,rare,U2,4,20500,Arabian Nights,36.806666666666665,ARN (U2),820.1666666666675,Below S&P
 Jeweled Bird,ARN,uncommon,U3,3,31000,Arabian Nights,27.943333333333335,ARN (U3),831.4444444444433,Below S&P
-Jihad,ARN,rare,U2,5,20500,Arabian Nights,500,ARN (U2),9900,Beat S&P
+Jihad,ARN,rare,U2,5,20500,Arabian Nights,420,ARN (U2),8300,Beat S&P
 Junún Efreet,ARN,rare,U2,3,20500,Arabian Nights,44.28666666666667,ARN (U2),1376.2222222222233,Below S&P
 Juzám Djinn,ARN,rare,U2,5,20500,Arabian Nights,2178.463333333333,ARN (U2),43469.266666666605,Beat S&P
 Khabál Ghoul,ARN,uncommon,U3,5,31000,Arabian Nights,90.26666666666667,ARN (U3),1705.3333333333337,Below S&P
@@ -1232,8 +1232,8 @@ Shahrazad,ARN,rare,U2,5,20500,Arabian Nights,438.6333333333333,ARN (U2),8672.666
 Sindbad,ARN,uncommon,U3,3,31000,Arabian Nights,25.543333333333333,ARN (U3),751.4444444444433,Below S&P
 Singing Tree,ARN,rare,U2,6,20500,Arabian Nights,121.73666666666666,ARN (U2),1928.9444444444503,Below S&P
 Sorceress Queen,ARN,uncommon,U3,5,31000,Arabian Nights,74.51666666666667,ARN (U3),1390.333333333334,Below S&P
-Stone-Throwing Devils,ARN,common,C4,0.5,124000,Arabian Nights,80,ARN (C4),15900,Beat S&P
-Stone-Throwing Devils,ARN,common,C4,0.5,124000,Arabian Nights,80,ARN (C4),15900,Beat S&P
+Stone-Throwing Devils,ARN,common,C4,0.5,124000,Arabian Nights,70,ARN (C4),13900,Beat S&P
+Stone-Throwing Devils,ARN,common,C4,0.5,124000,Arabian Nights,70,ARN (C4),13900,Beat S&P
 Unstable Mutation,ARN,common,C5,0.5,155000,Arabian Nights,3.25,ARN (C5),550,Below S&P
 War Elephant,ARN,common,C4,0.5,124000,Arabian Nights,11.55,ARN (C4),2210,Below S&P
 War Elephant,ARN,common,C4,0.5,124000,Arabian Nights,4.013333333333334,ARN (C4),702.6666666666661,Below S&P
@@ -1387,7 +1387,7 @@ Caverns of Despair,LEG,rare,R,10,19500,Legends,52.5,LEG (R),425,Below S&P
 Chain Lightning,LEG,common,C2,0.75,424000,Legends,8.666666666666668,LEG (C2),1055.5555555555559,Below S&P
 Chains of Mephistopheles,LEG,rare,R,10,19500,Legends,1188.1033333333335,LEG (R),11781.0333333333,Beat S&P
 Chromium,LEG,rare,R,20,19500,Legends,62.18666666666667,LEG (R),210.9333333333335,Below S&P
-Cleanse,LEG,rare,R,11.5,19500,Legends,240,LEG (R),1986.9565217391305,Below S&P
+Cleanse,LEG,rare,R,11.5,19500,Legends,130,LEG (R),1030.4347826086957,Below S&P
 Clergy of the Holy Nimbus,LEG,common,C2,0.5,424000,Legends,0.3433333333333333,LEG (C2),-31.333333333333403,Below S&P
 Cocoon,LEG,uncommon,U1,4,58000,Legends,0.9166666666666666,LEG (U1),-77.08333333333333,Below S&P
 Concordant Crossroads,LEG,rare,R,9,19500,Legends,90.74000000000001,LEG (R),908.2222222222221,Below S&P
