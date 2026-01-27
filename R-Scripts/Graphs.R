@@ -159,3 +159,153 @@ ggplot(plot_comparison, aes(x = Group, y = Return, fill = Group)) +
     axis.text = element_text(size = 12)
   )
 
+library(dplyr)
+library(ggplot2)
+library(stringr)
+library(scales)
+
+# 1. Clean the data and filter for the specific card
+# Replace "Benalish Hero" with any card name you want to track
+target_card <- "Benalish Hero"
+
+card_history <- mtg_data |>
+  # Ensure prices are numeric
+  mutate(
+    cur_num = as.numeric(str_remove_all(cur_price, "[\\$,]")),
+    print_run = as.numeric(print_run)
+  ) |>
+  # Filter for the specific card name
+  filter(str_detect(card_name, regex(target_card, ignore_case = TRUE))) |>
+  filter(!is.na(print_run), !is.na(cur_num))
+
+# 2. Create the Scatter Plot
+ggplot(card_history, aes(x = print_run, y = cur_num)) +
+  # Draw a line connecting the printings to show the "trend"
+  geom_path(color = "grey", linetype = "dotted") +
+  
+  # Large points for each printing
+  geom_point(aes(color = set), size = 5) +
+  
+  # Label each point with the Set Name
+  geom_text(aes(label = set), vjust = -1.2, fontface = "bold") +
+  
+  # Improve scales
+  # Using log scale for Print Run is helpful if comparing Alpha (1,100) to Revised (Millions)
+  scale_x_log10(labels = label_comma()) + 
+  scale_y_continuous(labels = label_dollar()) +
+  
+  theme_minimal() +
+  labs(
+    title = paste("Price vs. Scarcity:", target_card),
+    subtitle = "Relationship between total print run and current market price",
+    x = "Total Print Run (Log Scale)",
+    y = "Current Price ($)",
+    color = "Expansion Set"
+  )
+
+
+# 1. Clean and filter the data for the target sets
+bench_data <- mtg_data |>
+  mutate(
+    cur_num = as.numeric(str_remove_all(cur_price, "[\\$,]")),
+    print_num = as.numeric(str_remove_all(as.character(print_run), "[,]"))
+  ) |>
+  filter(
+    str_detect(card_name, regex("Benalish Hero", ignore_case = TRUE)),
+    set %in% c("LEA", "LEB", "2ED", "3ED")
+  )
+
+# 2. Extract Alpha values to use as the denominator
+lea_price <- bench_data |> filter(set == "LEA") |> pull(cur_num)
+lea_print <- bench_data |> filter(set == "LEA") |> pull(print_num)
+
+# 3. Calculate the multipliers relative to Alpha
+# Print Run Multiplier (X): How many times more supply than Alpha?
+# Price Multiplier (Y): What percentage of the Alpha price is this?
+plot_data <- bench_data |>
+  mutate(
+    print_run_multiplier = print_num / lea_print,
+    price_multiplier = cur_num / lea_price,
+    expected_price_ratio = 1 / print_run_multiplier # The "Perfect Scarcity" prediction
+  )
+
+# 4. Create the Graph
+ggplot(plot_data, aes(x = print_run_multiplier)) +
+  # The "Perfect Inverse" Curve (What happens if price = 1/supply)
+  stat_function(fun = function(x) 1/x, aes(color = "Predicted (1/Supply)"), 
+                linetype = "dashed", size = 1) +
+  
+  # The Actual Data Points
+  geom_point(aes(y = price_multiplier, fill = set), size = 6, shape = 21, color = "black") +
+  geom_text(aes(y = price_multiplier, label = set), vjust = -1.5, fontface = "bold") +
+  
+  # Formatting
+  scale_x_log10(breaks = c(1, 3, 15, 100, 300), labels = label_comma(suffix = "x")) +
+  scale_y_continuous(labels = label_percent(), limits = c(0, 1.1)) +
+  scale_color_manual(values = c("Predicted (1/Supply)" = "red")) +
+  theme_minimal() +
+  labs(
+    title = "Price vs. Supply: Benalish Hero (Alpha Benchmark)",
+    subtitle = "Does price drop as fast as supply increases? (100% = LEA Price)",
+    x = "Print Run Multiplier (vs. Alpha)",
+    y = "Price as % of Alpha Price",
+    color = "Model",
+    fill = "Actual Data"
+  )
+
+
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+library(scales)
+
+library(dplyr)
+library(ggplot2)
+library(tidyr)
+library(scales)
+
+# 1. First, extract the LEA Benchmark values (needed for the math)
+lea_data <- mtg_data |> 
+  filter(card_name == "Black Lotus", set == "LEA") |>
+  mutate(
+    price_num = as.numeric(gsub("[\\$,]", "", cur_price)),
+    print_num = as.numeric(gsub(",", "", print_run))
+  )
+
+lea_price <- lea_data$price_num
+lea_print <- lea_data$print_num
+
+# 2. Prepare Comparison Data for the other sets
+plot_data <- mtg_data |>
+  filter(card_name == "Black Lotus", set %in% c("LEB", "2ED", "3ED")) |> # LEA is excluded here
+  mutate(
+    price_num = as.numeric(gsub("[\\$,]", "", cur_price)),
+    print_num = as.numeric(gsub(",", "", print_run)),
+    # Calculate performance relative to the LEA constants we saved
+    relative_price = price_num / lea_price,
+    relative_scarcity = lea_print / print_num
+  ) |>
+  select(set, relative_price, relative_scarcity) |>
+  pivot_longer(cols = starts_with("relative"), names_to = "metric", values_to = "value")
+
+# 3. Create the focused Graph
+ggplot(plot_data, aes(x = factor(set, levels = c("LEB", "2ED", "3ED")), y = value, fill = metric)) +
+  geom_col(position = "dodge") +
+  
+  # Formatting the Y-axis as percentage
+  scale_y_continuous(labels = label_percent(), breaks = seq(0, 1, by = 0.1)) +
+  
+  # Custom colors and labels
+  scale_fill_manual(
+    values = c("relative_price" = "#377eb8", "relative_scarcity" = "#e41a1c"),
+    labels = c("Actual Price (% of Alpha)", "Expected Price based on Scarcity")
+  ) +
+  
+  theme_minimal() +
+  labs(
+    title = "Benalish Hero: Market Value vs. Supply Logic",
+    subtitle = "Calculated relative to LEA (Alpha) values. Red bars show where price 'should' be based on print run.",
+    x = "Expansion Set",
+    y = "Percentage of Alpha Benchmark",
+  ) +
+  theme(legend.position = "bottom")

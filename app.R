@@ -1,14 +1,15 @@
 library(shiny)
 library(bslib)
 library(tidyverse)
+library(scales)
 
 mtg_appdata <- read_csv("analysis_data.csv")
 
 ui <- page_fluid(
-  titlePanel(" "),
+  titlePanel("MTG against the S&P500"),
   tabsetPanel(
     tabPanel(
-      title = "Tab 1",
+      title = "Number of Cards",
       selectInput(
         "Edition", 
         "Select Edition", 
@@ -24,7 +25,7 @@ ui <- page_fluid(
      plotOutput("selected")
     ),
     tabPanel(
-      title = "Tab 2",
+      title = "Portfolio Method",
       selectInput(
         "Edition_tab2", 
         "Select Edition", 
@@ -37,7 +38,37 @@ ui <- page_fluid(
         choices = c("All", unique(mtg_appdata$rarity)), 
         selected = unique(mtg_appdata$rarity)[2]
       ),
-      plotOutput("selected_tab2")
+      plotOutput("selected_tab2")),
+    tabPanel(
+  title = "Print Run Analysis",
+    fluidRow(
+      column(6,
+        selectInput(
+          "lea_card", 
+          "Select Alpha Card", 
+          choices = mtg_appdata |>
+            filter(set == "LEA") |>
+            pull(card_name) |>
+            unique(), 
+          selected = "Benalish Hero"
+        ),
+        hr(),
+        plotOutput("plot_alpha")
+      ),
+      column(6,
+        selectInput(
+          "leb_card", 
+          "Select Beta Card", 
+          choices = mtg_appdata |>
+            filter(set == "LEB") |>
+            pull(card_name) |>
+            unique(),
+          selected = "Benalish Hero"
+        ),
+        hr(),
+        plotOutput("plot_beta")
+    )
+  )
     )
   )
 )
@@ -120,8 +151,90 @@ ggplot(plot_comparison, aes(x = Group, y = Return, fill = Group)) +
   )
 })
 
+output$plot_alpha <- renderPlot({
+  lea_data <- mtg_appdata |> 
+  filter(card_name == input$lea_card, set == "LEA") |>
+  mutate(
+    price_num = as.numeric(gsub("[\\$,]", "", cur_price)),
+    print_num = as.numeric(gsub(",", "", print_run))
+  )
+
+lea_price <- lea_data$price_num
+lea_print <- lea_data$print_num
+
+plot_data <- mtg_appdata |>
+  filter(card_name == input$lea_card, set %in% c("LEB", "2ED", "3ED")) |> 
+  mutate(
+    price_num = as.numeric(gsub("[\\$,]", "", cur_price)),
+    print_num = as.numeric(gsub(",", "", print_run)),
+    relative_price = price_num / lea_price,
+    relative_scarcity = lea_print / print_num
+  ) |>
+  select(set, relative_price, relative_scarcity) |>
+  pivot_longer(cols = starts_with("relative"), names_to = "metric", values_to = "value")
 
 
+ggplot(plot_data, aes(x = factor(set, levels = c("LEB", "2ED", "3ED")), y = value, fill = metric)) +
+  geom_col(position = "dodge") +
+  scale_y_continuous(labels = label_percent(), breaks = seq(0, 1, by = 0.1)) +
+  scale_fill_manual(
+    values = c("relative_price" = "#377eb8", "relative_scarcity" = "#e41a1c"),
+    labels = c("Actual Price (% of Alpha)", "Expected Price based on Scarcity")
+  ) +
+  
+  theme_minimal() +
+  labs(
+    title = paste0(input$lea_card, ": Market Value vs. Supply Logic"),
+    subtitle = "Calculated relative to LEA (Alpha) values. Red bars show where price 'should' be based on print run.",
+    x = "Expansion Set",
+    y = "Percentage of Alpha Benchmark",
+  ) +
+  theme(legend.position = "bottom")
+})
+  
+  
+  output$plot_beta <- renderPlot({
+  leb_data <- mtg_appdata |> 
+  filter(card_name == input$leb_card, set == "LEB") |>
+  mutate(
+    price_num = as.numeric(gsub("[\\$,]", "", cur_price)),
+    print_num = as.numeric(gsub(",", "", print_run))
+  )
+
+leb_price <- leb_data$price_num
+leb_print <- leb_data$print_num
+
+plot_data <- mtg_appdata |>
+  filter(card_name == input$leb_card, set %in% c("2ED", "3ED")) |> 
+  mutate(
+    price_num = as.numeric(gsub("[\\$,]", "", cur_price)),
+    print_num = as.numeric(gsub(",", "", print_run)),
+    relative_price = price_num / leb_price,
+    relative_scarcity = leb_print / print_num
+  ) |>
+  select(set, relative_price, relative_scarcity) |>
+  pivot_longer(cols = starts_with("relative"), names_to = "metric", values_to = "value")
+
+
+ggplot(plot_data, aes(x = factor(set, levels = c("2ED", "3ED")), y = value, fill = metric)) +
+  geom_col(position = "dodge") +
+  scale_y_continuous(labels = label_percent(), breaks = seq(0, 1, by = 0.1)) +
+  scale_fill_manual(
+    values = c("relative_price" = "#377eb8", "relative_scarcity" = "#e41a1c"),
+    labels = c("Actual Price (% of Beta)", "Expected Price based on Scarcity")
+  ) +
+  
+  theme_minimal() +
+  labs(
+    title = paste0(input$leb_card, ": Market Value vs. Supply Logic"),
+    subtitle = "Calculated relative to LEB (Beta) values. Red bars show where price 'should' be based on print run.",
+    x = "Expansion Set",
+    y = "Percentage of Beta Benchmark",
+  ) +
+  theme(legend.position = "bottom")
+  
+  
+})
 }
 
 shinyApp(ui, server)
