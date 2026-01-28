@@ -1,10 +1,5 @@
 mtg_data <- read_csv("analysis_data.csv")
 
-mtg_data |>
-  filter(set == "LEA", full_rarity == "C") |>
-  summarise(average_price = mean(cur_price, na.rm = TRUE)) |>
-  print(mtg_data) #avg alpha common price
-
 #Chart for avg price against print runs 
 # 1. Prepare the summary data
 # We include print_run in group_by so it's available for sorting the x-axis

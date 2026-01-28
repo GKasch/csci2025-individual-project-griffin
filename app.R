@@ -88,10 +88,14 @@ server <- function(input, output, session) {
           !is.na(pct_increase)) |>
       ggplot(aes(x=performance, fill=performance)) +
         geom_bar() +
-        stat_count(geom = "text", aes(label = after_stat(count)), vjust = -0.5) +
+        stat_count(geom = "text", aes(label = after_stat(count)), vjust = -0.5, size = 5, fontface="bold") +
         scale_fill_manual(values = c("Beat S&P" = "#2ca25f", "Below S&P" = "#636363")) +
         theme_minimal() +
-        labs(title = plot_title)
+        labs(title = plot_title)+
+      theme(
+        legend.position="none",
+        plot.title = element_text(size =18, face = "bold"),
+        axis.text = element_text(size = 12))
 })
   
   output$selected_tab2 <- renderPlot({
@@ -131,7 +135,7 @@ server <- function(input, output, session) {
       ) +
       theme(
         legend.position = "none",
-        plot.title = element_text(size = 18, face = "bold"),
+        plot.title = element_text(size =18, face = "bold"),
         axis.text = element_text(size = 12)
       )
   })
@@ -173,7 +177,8 @@ server <- function(input, output, session) {
         x = "Expansion Set",
         y = "Percentage of Alpha Benchmark",
       ) +
-      theme(legend.position = "bottom")
+      theme(legend.position = "bottom",
+        plot.title=element_text(size=18, face="bold"))
   })
   
   
@@ -214,7 +219,8 @@ server <- function(input, output, session) {
         x = "Expansion Set",
         y = "Percentage of Beta Benchmark",
       ) +
-      theme(legend.position = "bottom")
+      theme(legend.position = "bottom",
+        plot.title=element_text(size=18, face="bold"))
   })
 }
 
