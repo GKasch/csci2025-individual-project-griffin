@@ -89,6 +89,7 @@ server <- function(input, output, session) {
       ggplot(aes(x=performance, fill=performance)) +
         geom_bar() +
         stat_count(geom = "text", aes(label = after_stat(count)), vjust = -0.5, size = 5, fontface="bold") +
+        coord_cartesian(clip = "off") +
         scale_fill_manual(values = c("Beat S&P" = "#2ca25f", "Below S&P" = "#636363")) +
         theme_minimal() +
         labs(title = plot_title)+
@@ -96,7 +97,7 @@ server <- function(input, output, session) {
         legend.position="none",
         plot.title = element_text(size =18, face = "bold"),
         axis.text = element_text(size = 12))
-})
+}, res=96)
   
   output$selected_tab2 <- renderPlot({
    
@@ -138,7 +139,7 @@ server <- function(input, output, session) {
         plot.title = element_text(size =18, face = "bold"),
         axis.text = element_text(size = 12)
       )
-  })
+  }, res=96)
 
   output$plot_alpha <- renderPlot({
     lea_data <- mtg_appdata |> 
@@ -179,7 +180,7 @@ server <- function(input, output, session) {
       ) +
       theme(legend.position = "bottom",
         plot.title=element_text(size=18, face="bold"))
-  })
+  }, res= 96)
   
   
   output$plot_beta <- renderPlot({
@@ -221,7 +222,7 @@ server <- function(input, output, session) {
       ) +
       theme(legend.position = "bottom",
         plot.title=element_text(size=18, face="bold"))
-  })
+  }, res=96)
 }
 
 shinyApp(ui, server)
